@@ -1,21 +1,453 @@
 {
-  "generated": "2026-07-06T22:53:52+00:00",
+  "generated": "2026-07-06T23:22:59+00:00",
   "client": "Lisa Luvs Pets",
   "customer_id": "8268791200",
   "keyword_planner_available": false,
   "campaigns": [
     {
-      "id": "24002301006",
-      "name": "Lisa Luvs Pets - Search - Belmont",
+      "id": "24002669514",
+      "name": "Lisa Luvs Pets - Search - Peninsula",
       "status": "PAUSED",
       "channel": "SEARCH",
       "bidding": "MAXIMIZE_CONVERSIONS",
       "daily_budget": 10.0,
       "ad_groups": [
         {
+          "name": "pet sitter menlo park",
+          "status": "PAUSED",
+          "final_url": "https://go.lisaluvspets.com/pet-sitting/menlo-park",
+          "keywords": [
+            {
+              "text": "pet sitter menlo park",
+              "match": "PHRASE",
+              "words": 4,
+              "status": "ENABLED",
+              "volume": null,
+              "cpc_low": null,
+              "cpc_high": null
+            }
+          ]
+        },
+        {
+          "name": "pet sitter burlingame",
+          "status": "PAUSED",
+          "final_url": "https://go.lisaluvspets.com/pet-sitting/burlingame",
+          "keywords": [
+            {
+              "text": "pet sitter burlingame",
+              "match": "PHRASE",
+              "words": 3,
+              "status": "ENABLED",
+              "volume": null,
+              "cpc_low": null,
+              "cpc_high": null
+            }
+          ]
+        },
+        {
+          "name": "in home pet care millbrae",
+          "status": "PAUSED",
+          "final_url": "https://go.lisaluvspets.com/pet-sitting/millbrae",
+          "keywords": [
+            {
+              "text": "in home pet care millbrae",
+              "match": "PHRASE",
+              "words": 5,
+              "status": "ENABLED",
+              "volume": null,
+              "cpc_low": null,
+              "cpc_high": null
+            }
+          ]
+        },
+        {
+          "name": "dog walking woodside",
+          "status": "PAUSED",
+          "final_url": "https://go.lisaluvspets.com/dog-walking/woodside",
+          "keywords": [
+            {
+              "text": "dog walking woodside",
+              "match": "PHRASE",
+              "words": 3,
+              "status": "ENABLED",
+              "volume": null,
+              "cpc_low": null,
+              "cpc_high": null
+            }
+          ]
+        },
+        {
+          "name": "dog walker atherton",
+          "status": "PAUSED",
+          "final_url": "https://go.lisaluvspets.com/dog-walking/atherton",
+          "keywords": [
+            {
+              "text": "dog walker atherton",
+              "match": "PHRASE",
+              "words": 3,
+              "status": "ENABLED",
+              "volume": null,
+              "cpc_low": null,
+              "cpc_high": null
+            }
+          ]
+        },
+        {
+          "name": "dog walking atherton",
+          "status": "PAUSED",
+          "final_url": "https://go.lisaluvspets.com/dog-walking/atherton",
+          "keywords": [
+            {
+              "text": "dog walking atherton",
+              "match": "PHRASE",
+              "words": 3,
+              "status": "ENABLED",
+              "volume": null,
+              "cpc_low": null,
+              "cpc_high": null
+            }
+          ]
+        },
+        {
+          "name": "dog walking half moon bay",
+          "status": "PAUSED",
+          "final_url": "https://go.lisaluvspets.com/dog-walking/half-moon-bay",
+          "keywords": [
+            {
+              "text": "dog walking half moon bay",
+              "match": "PHRASE",
+              "words": 5,
+              "status": "ENABLED",
+              "volume": null,
+              "cpc_low": null,
+              "cpc_high": null
+            }
+          ]
+        },
+        {
+          "name": "dog walker san carlos",
+          "status": "PAUSED",
+          "final_url": "https://go.lisaluvspets.com/dog-walking/san-carlos",
+          "keywords": [
+            {
+              "text": "dog walker san carlos",
+              "match": "PHRASE",
+              "words": 4,
+              "status": "ENABLED",
+              "volume": null,
+              "cpc_low": null,
+              "cpc_high": null
+            }
+          ]
+        },
+        {
+          "name": "dog walking san carlos",
+          "status": "PAUSED",
+          "final_url": "https://go.lisaluvspets.com/dog-walking/san-carlos",
+          "keywords": [
+            {
+              "text": "dog walking san carlos",
+              "match": "PHRASE",
+              "words": 4,
+              "status": "ENABLED",
+              "volume": null,
+              "cpc_low": null,
+              "cpc_high": null
+            }
+          ]
+        },
+        {
+          "name": "in home pet care san carlos",
+          "status": "PAUSED",
+          "final_url": "https://go.lisaluvspets.com/pet-sitting/san-carlos",
+          "keywords": [
+            {
+              "text": "in home pet care san carlos",
+              "match": "PHRASE",
+              "words": 6,
+              "status": "ENABLED",
+              "volume": null,
+              "cpc_low": null,
+              "cpc_high": null
+            }
+          ]
+        },
+        {
+          "name": "dog walking san mateo",
+          "status": "PAUSED",
+          "final_url": "https://go.lisaluvspets.com/dog-walking/san-mateo",
+          "keywords": [
+            {
+              "text": "dog walking san mateo",
+              "match": "PHRASE",
+              "words": 4,
+              "status": "ENABLED",
+              "volume": null,
+              "cpc_low": null,
+              "cpc_high": null
+            }
+          ]
+        },
+        {
+          "name": "in home pet care san mateo",
+          "status": "PAUSED",
+          "final_url": "https://go.lisaluvspets.com/pet-sitting/san-mateo",
+          "keywords": [
+            {
+              "text": "in home pet care san mateo",
+              "match": "PHRASE",
+              "words": 6,
+              "status": "ENABLED",
+              "volume": null,
+              "cpc_low": null,
+              "cpc_high": null
+            }
+          ]
+        },
+        {
+          "name": "dog walker menlo park",
+          "status": "PAUSED",
+          "final_url": "https://go.lisaluvspets.com/dog-walking/menlo-park",
+          "keywords": [
+            {
+              "text": "dog walker menlo park",
+              "match": "PHRASE",
+              "words": 4,
+              "status": "ENABLED",
+              "volume": null,
+              "cpc_low": null,
+              "cpc_high": null
+            }
+          ]
+        },
+        {
+          "name": "dog walking menlo park",
+          "status": "PAUSED",
+          "final_url": "https://go.lisaluvspets.com/dog-walking/menlo-park",
+          "keywords": [
+            {
+              "text": "dog walking menlo park",
+              "match": "PHRASE",
+              "words": 4,
+              "status": "ENABLED",
+              "volume": null,
+              "cpc_low": null,
+              "cpc_high": null
+            }
+          ]
+        },
+        {
+          "name": "in home pet care menlo park",
+          "status": "PAUSED",
+          "final_url": "https://go.lisaluvspets.com/pet-sitting/menlo-park",
+          "keywords": [
+            {
+              "text": "in home pet care menlo park",
+              "match": "PHRASE",
+              "words": 6,
+              "status": "ENABLED",
+              "volume": null,
+              "cpc_low": null,
+              "cpc_high": null
+            }
+          ]
+        },
+        {
+          "name": "dog walker burlingame",
+          "status": "PAUSED",
+          "final_url": "https://go.lisaluvspets.com/dog-walking/burlingame",
+          "keywords": [
+            {
+              "text": "dog walker burlingame",
+              "match": "PHRASE",
+              "words": 3,
+              "status": "ENABLED",
+              "volume": null,
+              "cpc_low": null,
+              "cpc_high": null
+            }
+          ]
+        },
+        {
+          "name": "dog walker hillsborough",
+          "status": "PAUSED",
+          "final_url": "https://go.lisaluvspets.com/dog-walking/hillsborough",
+          "keywords": [
+            {
+              "text": "dog walker hillsborough",
+              "match": "PHRASE",
+              "words": 3,
+              "status": "ENABLED",
+              "volume": null,
+              "cpc_low": null,
+              "cpc_high": null
+            }
+          ]
+        },
+        {
+          "name": "dog walker san mateo",
+          "status": "PAUSED",
+          "final_url": "https://go.lisaluvspets.com/dog-walking/san-mateo",
+          "keywords": [
+            {
+              "text": "dog walker san mateo",
+              "match": "PHRASE",
+              "words": 4,
+              "status": "ENABLED",
+              "volume": null,
+              "cpc_low": null,
+              "cpc_high": null
+            }
+          ]
+        },
+        {
+          "name": "pet sitter san mateo",
+          "status": "PAUSED",
+          "final_url": "https://go.lisaluvspets.com/pet-sitting/san-mateo",
+          "keywords": [
+            {
+              "text": "pet sitter san mateo",
+              "match": "PHRASE",
+              "words": 4,
+              "status": "ENABLED",
+              "volume": null,
+              "cpc_low": null,
+              "cpc_high": null
+            }
+          ]
+        },
+        {
+          "name": "dog walking redwood city",
+          "status": "PAUSED",
+          "final_url": "https://go.lisaluvspets.com/dog-walking/redwood-city",
+          "keywords": [
+            {
+              "text": "dog walking redwood city",
+              "match": "PHRASE",
+              "words": 4,
+              "status": "ENABLED",
+              "volume": null,
+              "cpc_low": null,
+              "cpc_high": null
+            }
+          ]
+        },
+        {
+          "name": "in home pet care redwood city",
+          "status": "PAUSED",
+          "final_url": "https://go.lisaluvspets.com/pet-sitting/redwood-city",
+          "keywords": [
+            {
+              "text": "in home pet care redwood city",
+              "match": "PHRASE",
+              "words": 6,
+              "status": "ENABLED",
+              "volume": null,
+              "cpc_low": null,
+              "cpc_high": null
+            }
+          ]
+        },
+        {
+          "name": "dog walker millbrae",
+          "status": "PAUSED",
+          "final_url": "https://go.lisaluvspets.com/dog-walking/millbrae",
+          "keywords": [
+            {
+              "text": "dog walker millbrae",
+              "match": "PHRASE",
+              "words": 3,
+              "status": "ENABLED",
+              "volume": null,
+              "cpc_low": null,
+              "cpc_high": null
+            }
+          ]
+        },
+        {
+          "name": "pet sitter hillsborough",
+          "status": "PAUSED",
+          "final_url": "https://go.lisaluvspets.com/pet-sitting/hillsborough",
+          "keywords": [
+            {
+              "text": "pet sitter hillsborough",
+              "match": "PHRASE",
+              "words": 3,
+              "status": "ENABLED",
+              "volume": null,
+              "cpc_low": null,
+              "cpc_high": null
+            }
+          ]
+        },
+        {
+          "name": "in home pet care hillsborough",
+          "status": "PAUSED",
+          "final_url": "https://go.lisaluvspets.com/pet-sitting/hillsborough",
+          "keywords": [
+            {
+              "text": "in home pet care hillsborough",
+              "match": "PHRASE",
+              "words": 5,
+              "status": "ENABLED",
+              "volume": null,
+              "cpc_low": null,
+              "cpc_high": null
+            }
+          ]
+        },
+        {
+          "name": "dog walker half moon bay",
+          "status": "PAUSED",
+          "final_url": "https://go.lisaluvspets.com/dog-walking/half-moon-bay",
+          "keywords": [
+            {
+              "text": "dog walker half moon bay",
+              "match": "PHRASE",
+              "words": 5,
+              "status": "ENABLED",
+              "volume": null,
+              "cpc_low": null,
+              "cpc_high": null
+            }
+          ]
+        },
+        {
+          "name": "pet sitter half moon bay",
+          "status": "PAUSED",
+          "final_url": "https://go.lisaluvspets.com/pet-sitting/half-moon-bay",
+          "keywords": [
+            {
+              "text": "pet sitter half moon bay",
+              "match": "PHRASE",
+              "words": 5,
+              "status": "ENABLED",
+              "volume": null,
+              "cpc_low": null,
+              "cpc_high": null
+            }
+          ]
+        },
+        {
+          "name": "dog walker belmont",
+          "status": "PAUSED",
+          "final_url": "https://go.lisaluvspets.com/dog-walking/belmont",
+          "keywords": [
+            {
+              "text": "dog walker belmont",
+              "match": "PHRASE",
+              "words": 3,
+              "status": "ENABLED",
+              "volume": null,
+              "cpc_low": null,
+              "cpc_high": null
+            }
+          ]
+        },
+        {
           "name": "pet sitter belmont",
           "status": "PAUSED",
-          "final_url": "https://go.lisaluvspets.com/pet-sitting-belmont",
+          "final_url": "https://go.lisaluvspets.com/pet-sitting/belmont",
           "keywords": [
             {
               "text": "pet sitter belmont",
@@ -29,25 +461,9 @@
           ]
         },
         {
-          "name": "in home pet care belmont",
-          "status": "PAUSED",
-          "final_url": "https://go.lisaluvspets.com/pet-sitting-belmont",
-          "keywords": [
-            {
-              "text": "in home pet care belmont",
-              "match": "PHRASE",
-              "words": 5,
-              "status": "ENABLED",
-              "volume": null,
-              "cpc_low": null,
-              "cpc_high": null
-            }
-          ]
-        },
-        {
           "name": "dog walking belmont",
           "status": "PAUSED",
-          "final_url": "https://go.lisaluvspets.com/dog-walking-belmont",
+          "final_url": "https://go.lisaluvspets.com/dog-walking/belmont",
           "keywords": [
             {
               "text": "dog walking belmont",
@@ -61,14 +477,302 @@
           ]
         },
         {
-          "name": "dog walker near me",
+          "name": "in home pet care belmont",
           "status": "PAUSED",
-          "final_url": "https://go.lisaluvspets.com/dog-walking-belmont",
+          "final_url": "https://go.lisaluvspets.com/pet-sitting/belmont",
           "keywords": [
             {
-              "text": "dog walker near me",
+              "text": "in home pet care belmont",
+              "match": "PHRASE",
+              "words": 5,
+              "status": "ENABLED",
+              "volume": null,
+              "cpc_low": null,
+              "cpc_high": null
+            }
+          ]
+        },
+        {
+          "name": "in home pet care foster city",
+          "status": "PAUSED",
+          "final_url": "https://go.lisaluvspets.com/pet-sitting/foster-city",
+          "keywords": [
+            {
+              "text": "in home pet care foster city",
+              "match": "PHRASE",
+              "words": 6,
+              "status": "ENABLED",
+              "volume": null,
+              "cpc_low": null,
+              "cpc_high": null
+            }
+          ]
+        },
+        {
+          "name": "dog walking burlingame",
+          "status": "PAUSED",
+          "final_url": "https://go.lisaluvspets.com/dog-walking/burlingame",
+          "keywords": [
+            {
+              "text": "dog walking burlingame",
+              "match": "PHRASE",
+              "words": 3,
+              "status": "ENABLED",
+              "volume": null,
+              "cpc_low": null,
+              "cpc_high": null
+            }
+          ]
+        },
+        {
+          "name": "dog walking hillsborough",
+          "status": "PAUSED",
+          "final_url": "https://go.lisaluvspets.com/dog-walking/hillsborough",
+          "keywords": [
+            {
+              "text": "dog walking hillsborough",
+              "match": "PHRASE",
+              "words": 3,
+              "status": "ENABLED",
+              "volume": null,
+              "cpc_low": null,
+              "cpc_high": null
+            }
+          ]
+        },
+        {
+          "name": "pet sitter san carlos",
+          "status": "PAUSED",
+          "final_url": "https://go.lisaluvspets.com/pet-sitting/san-carlos",
+          "keywords": [
+            {
+              "text": "pet sitter san carlos",
               "match": "PHRASE",
               "words": 4,
+              "status": "ENABLED",
+              "volume": null,
+              "cpc_low": null,
+              "cpc_high": null
+            }
+          ]
+        },
+        {
+          "name": "dog walker redwood city",
+          "status": "PAUSED",
+          "final_url": "https://go.lisaluvspets.com/dog-walking/redwood-city",
+          "keywords": [
+            {
+              "text": "dog walker redwood city",
+              "match": "PHRASE",
+              "words": 4,
+              "status": "ENABLED",
+              "volume": null,
+              "cpc_low": null,
+              "cpc_high": null
+            }
+          ]
+        },
+        {
+          "name": "pet sitter redwood city",
+          "status": "PAUSED",
+          "final_url": "https://go.lisaluvspets.com/pet-sitting/redwood-city",
+          "keywords": [
+            {
+              "text": "pet sitter redwood city",
+              "match": "PHRASE",
+              "words": 4,
+              "status": "ENABLED",
+              "volume": null,
+              "cpc_low": null,
+              "cpc_high": null
+            }
+          ]
+        },
+        {
+          "name": "dog walker foster city",
+          "status": "PAUSED",
+          "final_url": "https://go.lisaluvspets.com/dog-walking/foster-city",
+          "keywords": [
+            {
+              "text": "dog walker foster city",
+              "match": "PHRASE",
+              "words": 4,
+              "status": "ENABLED",
+              "volume": null,
+              "cpc_low": null,
+              "cpc_high": null
+            }
+          ]
+        },
+        {
+          "name": "pet sitter foster city",
+          "status": "PAUSED",
+          "final_url": "https://go.lisaluvspets.com/pet-sitting/foster-city",
+          "keywords": [
+            {
+              "text": "pet sitter foster city",
+              "match": "PHRASE",
+              "words": 4,
+              "status": "ENABLED",
+              "volume": null,
+              "cpc_low": null,
+              "cpc_high": null
+            }
+          ]
+        },
+        {
+          "name": "in home pet care burlingame",
+          "status": "PAUSED",
+          "final_url": "https://go.lisaluvspets.com/pet-sitting/burlingame",
+          "keywords": [
+            {
+              "text": "in home pet care burlingame",
+              "match": "PHRASE",
+              "words": 5,
+              "status": "ENABLED",
+              "volume": null,
+              "cpc_low": null,
+              "cpc_high": null
+            }
+          ]
+        },
+        {
+          "name": "dog walking millbrae",
+          "status": "PAUSED",
+          "final_url": "https://go.lisaluvspets.com/dog-walking/millbrae",
+          "keywords": [
+            {
+              "text": "dog walking millbrae",
+              "match": "PHRASE",
+              "words": 3,
+              "status": "ENABLED",
+              "volume": null,
+              "cpc_low": null,
+              "cpc_high": null
+            }
+          ]
+        },
+        {
+          "name": "pet sitter millbrae",
+          "status": "PAUSED",
+          "final_url": "https://go.lisaluvspets.com/pet-sitting/millbrae",
+          "keywords": [
+            {
+              "text": "pet sitter millbrae",
+              "match": "PHRASE",
+              "words": 3,
+              "status": "ENABLED",
+              "volume": null,
+              "cpc_low": null,
+              "cpc_high": null
+            }
+          ]
+        },
+        {
+          "name": "dog walker woodside",
+          "status": "PAUSED",
+          "final_url": "https://go.lisaluvspets.com/dog-walking/woodside",
+          "keywords": [
+            {
+              "text": "dog walker woodside",
+              "match": "PHRASE",
+              "words": 3,
+              "status": "ENABLED",
+              "volume": null,
+              "cpc_low": null,
+              "cpc_high": null
+            }
+          ]
+        },
+        {
+          "name": "pet sitter woodside",
+          "status": "PAUSED",
+          "final_url": "https://go.lisaluvspets.com/pet-sitting/woodside",
+          "keywords": [
+            {
+              "text": "pet sitter woodside",
+              "match": "PHRASE",
+              "words": 3,
+              "status": "ENABLED",
+              "volume": null,
+              "cpc_low": null,
+              "cpc_high": null
+            }
+          ]
+        },
+        {
+          "name": "in home pet care woodside",
+          "status": "PAUSED",
+          "final_url": "https://go.lisaluvspets.com/pet-sitting/woodside",
+          "keywords": [
+            {
+              "text": "in home pet care woodside",
+              "match": "PHRASE",
+              "words": 5,
+              "status": "ENABLED",
+              "volume": null,
+              "cpc_low": null,
+              "cpc_high": null
+            }
+          ]
+        },
+        {
+          "name": "in home pet care atherton",
+          "status": "PAUSED",
+          "final_url": "https://go.lisaluvspets.com/pet-sitting/atherton",
+          "keywords": [
+            {
+              "text": "in home pet care atherton",
+              "match": "PHRASE",
+              "words": 5,
+              "status": "ENABLED",
+              "volume": null,
+              "cpc_low": null,
+              "cpc_high": null
+            }
+          ]
+        },
+        {
+          "name": "in home pet care half moon bay",
+          "status": "PAUSED",
+          "final_url": "https://go.lisaluvspets.com/pet-sitting/half-moon-bay",
+          "keywords": [
+            {
+              "text": "in home pet care half moon bay",
+              "match": "PHRASE",
+              "words": 7,
+              "status": "ENABLED",
+              "volume": null,
+              "cpc_low": null,
+              "cpc_high": null
+            }
+          ]
+        },
+        {
+          "name": "dog walking foster city",
+          "status": "PAUSED",
+          "final_url": "https://go.lisaluvspets.com/dog-walking/foster-city",
+          "keywords": [
+            {
+              "text": "dog walking foster city",
+              "match": "PHRASE",
+              "words": 4,
+              "status": "ENABLED",
+              "volume": null,
+              "cpc_low": null,
+              "cpc_high": null
+            }
+          ]
+        },
+        {
+          "name": "pet sitter atherton",
+          "status": "PAUSED",
+          "final_url": "https://go.lisaluvspets.com/pet-sitting/atherton",
+          "keywords": [
+            {
+              "text": "pet sitter atherton",
+              "match": "PHRASE",
+              "words": 3,
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,

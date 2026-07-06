@@ -1,0 +1,171 @@
+{
+  "generated": "2026-07-06T22:12:23+00:00",
+  "customer_id": "8268791200",
+  "keyword_planner_available": false,
+  "campaigns": [
+    {
+      "id": "24002301006",
+      "name": "Lisa Luvs Pets - Search - Belmont",
+      "status": "PAUSED",
+      "channel": "SEARCH",
+      "bidding": "MAXIMIZE_CONVERSIONS",
+      "daily_budget": 10.0,
+      "ad_groups": [
+        {
+          "name": "pet sitter belmont",
+          "status": "PAUSED",
+          "final_url": "https://go.lisaluvspets.com/pet-sitting-belmont",
+          "keywords": [
+            {
+              "text": "pet sitter belmont",
+              "match": "PHRASE",
+              "words": 3,
+              "status": "ENABLED",
+              "volume": null,
+              "cpc_low": null,
+              "cpc_high": null
+            }
+          ]
+        },
+        {
+          "name": "in home pet care belmont",
+          "status": "PAUSED",
+          "final_url": "https://go.lisaluvspets.com/pet-sitting-belmont",
+          "keywords": [
+            {
+              "text": "in home pet care belmont",
+              "match": "PHRASE",
+              "words": 5,
+              "status": "ENABLED",
+              "volume": null,
+              "cpc_low": null,
+              "cpc_high": null
+            }
+          ]
+        },
+        {
+          "name": "dog walking belmont",
+          "status": "PAUSED",
+          "final_url": "https://go.lisaluvspets.com/dog-walking-belmont",
+          "keywords": [
+            {
+              "text": "dog walking belmont",
+              "match": "PHRASE",
+              "words": 3,
+              "status": "ENABLED",
+              "volume": null,
+              "cpc_low": null,
+              "cpc_high": null
+            }
+          ]
+        },
+        {
+          "name": "dog walker near me",
+          "status": "PAUSED",
+          "final_url": "https://go.lisaluvspets.com/dog-walking-belmont",
+          "keywords": [
+            {
+              "text": "dog walker near me",
+              "match": "PHRASE",
+              "words": 4,
+              "status": "ENABLED",
+              "volume": null,
+              "cpc_low": null,
+              "cpc_high": null
+            }
+          ]
+        }
+      ],
+      "negatives": [
+        {
+          "text": "free",
+          "match": "BROAD"
+        },
+        {
+          "text": "job",
+          "match": "BROAD"
+        },
+        {
+          "text": "jobs",
+          "match": "BROAD"
+        },
+        {
+          "text": "school",
+          "match": "BROAD"
+        },
+        {
+          "text": "volunteer",
+          "match": "BROAD"
+        },
+        {
+          "text": "training",
+          "match": "BROAD"
+        },
+        {
+          "text": "hiring",
+          "match": "BROAD"
+        },
+        {
+          "text": "course",
+          "match": "BROAD"
+        },
+        {
+          "text": "shelter",
+          "match": "BROAD"
+        },
+        {
+          "text": "certification",
+          "match": "BROAD"
+        },
+        {
+          "text": "adoption",
+          "match": "BROAD"
+        },
+        {
+          "text": "career",
+          "match": "BROAD"
+        },
+        {
+          "text": "courses",
+          "match": "BROAD"
+        },
+        {
+          "text": "diy",
+          "match": "BROAD"
+        },
+        {
+          "text": "careers",
+          "match": "BROAD"
+        },
+        {
+          "text": "salary",
+          "match": "BROAD"
+        },
+        {
+          "text": "grooming",
+          "match": "BROAD"
+        },
+        {
+          "text": "rescue",
+          "match": "BROAD"
+        },
+        {
+          "text": "how to",
+          "match": "PHRASE"
+        },
+        {
+          "text": "become a",
+          "match": "PHRASE"
+        },
+        {
+          "text": "dog walking business",
+          "match": "PHRASE"
+        },
+        {
+          "text": "pet sitting jobs",
+          "match": "PHRASE"
+        }
+      ]
+    }
+  ]
+}

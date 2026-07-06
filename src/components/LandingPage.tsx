@@ -132,9 +132,9 @@ export default function LandingPage({ v }: { v: Variant }) {
         <h2 className="text-center text-3xl font-bold text-stone-900">What pet parents say</h2>
         <div className="mt-10 grid gap-6 sm:grid-cols-3">
           {[
-            ["“Lisa is the only person I trust with Bella. The photo updates make my day.”", "— Sarah M., Belmont"],
-            ["“Reliable, kind, and my cats actually like her. Booking was so easy.”", "— David R., San Carlos"],
-            ["“Same-week start and my dog comes back happy and tired. Highly recommend.”", "— Priya N., Redwood City"],
+            ["“Lisa was great! She communicated frequently and sent photos and my pupper loved her!”", "— Karina W. · pet parent of Indy"],
+            ["“Lisa did a great job watching our sweet, shy cats for a week. She was very communicative.”", "— Amanda K. · Merlin, Gus & Circe"],
+            ["“Lisa was fantastic! She dog sat for me for 2 days very last minute when I was in a pinch.”", "— Kara M."],
           ].map(([quote, who]) => (
             <figure key={who} className="rounded-2xl border border-stone-200 bg-white p-6">
               <div className="text-amber-500">★★★★★</div>
@@ -144,7 +144,7 @@ export default function LandingPage({ v }: { v: Variant }) {
           ))}
         </div>
         <p className="mt-4 text-center text-xs text-stone-400">
-          Placeholder reviews — swap in Lisa&apos;s real testimonials before scaling ad spend.
+          Real reviews from Lisa&apos;s pet parents.
         </p>
       </section>
 

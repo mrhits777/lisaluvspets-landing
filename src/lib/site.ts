@@ -17,45 +17,68 @@ export const CONVERSION = {
   sendTo: "AW-1071985499/oCu1CMO-38scENvmlP8D",
 } as const;
 
+// The Peninsula cities we serve (City x Service matrix). slug drives the dynamic route.
+export const CITIES = [
+  { name: "Belmont", slug: "belmont" },
+  { name: "San Carlos", slug: "san-carlos" },
+  { name: "San Mateo", slug: "san-mateo" },
+  { name: "Redwood City", slug: "redwood-city" },
+  { name: "Menlo Park", slug: "menlo-park" },
+  { name: "Foster City", slug: "foster-city" },
+  { name: "Burlingame", slug: "burlingame" },
+  { name: "Millbrae", slug: "millbrae" },
+  { name: "Hillsborough", slug: "hillsborough" },
+  { name: "Woodside", slug: "woodside" },
+  { name: "Atherton", slug: "atherton" },
+  { name: "Half Moon Bay", slug: "half-moon-bay" },
+] as const;
+
 export type Variant = {
   slug: string;
   heroImage: string;
-  h1: string; // MUST match the ad headline / keyword word-for-word (Quality Score)
+  h1: string;
   sub: string;
-  service: string; // short noun for copy, e.g. "dog walking"
+  service: string;
   bullets: string[];
   steps: { title: string; body: string }[];
   metaTitle: string;
   metaDescription: string;
 };
 
-export const VARIANTS: Record<string, Variant> = {
-  "dog-walking-belmont": {
-    slug: "dog-walking-belmont",
-    heroImage: "/hero-dog-walking.jpg",
-    h1: "Dog Walking in Belmont",
-    sub: "Reliable, insured dog walkers for busy Peninsula families. Daily walks, mid-day visits, and lots of tail wags — booked in minutes.",
+type ServiceTemplate = {
+  label: string;
+  service: string;
+  hero: string;
+  sub: (city: string) => string;
+  bullets: string[];
+  steps: { title: string; body: string }[];
+};
+
+export const SERVICES: Record<string, ServiceTemplate> = {
+  "dog-walking": {
+    label: "Dog Walking",
     service: "dog walking",
+    hero: "/hero-dog-walking.jpg",
+    sub: (city) =>
+      `Reliable, insured dog walkers for busy ${city} families. Daily walks, mid-day visits, and lots of tail wags — booked in minutes.`,
     bullets: [
       "Insured & background-checked",
       "Same-week start available",
       "GPS-tracked walks + photo updates",
-      "Local to Belmont & the Peninsula",
+      "Local to the Peninsula",
     ],
     steps: [
       { title: "Book a free meet & greet", body: "We come meet you and your pup — no obligation, no pressure." },
       { title: "Set your walk schedule", body: "Daily, a few times a week, or one-off. You're always in control." },
       { title: "Relax — we've got the leash", body: "Every walk ends with a photo update and a happy, tired dog." },
     ],
-    metaTitle: "Dog Walking in Belmont, CA | Lisa Luvs Pets",
-    metaDescription: "Insured, local dog walkers in Belmont & the Peninsula. Daily walks and mid-day visits with photo updates. Call (650) 245-1496 for a free meet & greet.",
   },
-  "pet-sitting-belmont": {
-    slug: "pet-sitting-belmont",
-    heroImage: "/hero-pet-sitting.jpg",
-    h1: "In-Home Pet Sitting in Belmont",
-    sub: "Loving in-home visits and check-ups so your pets stay comfy in their own space while you're away. Dogs, cats, and everything in between.",
+  "pet-sitting": {
+    label: "In-Home Pet Sitting",
     service: "in-home pet care",
+    hero: "/hero-pet-sitting.jpg",
+    sub: (city) =>
+      `Loving in-home visits and check-ups so your ${city} pets stay comfy in their own space while you're away. Dogs, cats, and everything in between.`,
     bullets: [
       "In-home visits — no kennels",
       "Feeding, meds, litter & playtime",
@@ -67,7 +90,23 @@ export const VARIANTS: Record<string, Variant> = {
       { title: "Pick your visit schedule", body: "Drop-in visits, daily check-ups, or overnight care." },
       { title: "Travel with peace of mind", body: "You get updates after every visit — your pet never feels alone." },
     ],
-    metaTitle: "In-Home Pet Sitting in Belmont, CA | Lisa Luvs Pets",
-    metaDescription: "Insured in-home pet sitting & check-ups in Belmont & the Peninsula. Feeding, meds, and playtime with photo updates. Call (650) 245-1496 for a free meet & greet.",
   },
 };
+
+/** Build a keyword-matched landing-page variant for a given service + city slug. */
+export function cityVariant(serviceKey: string, citySlug: string): Variant | null {
+  const t = SERVICES[serviceKey];
+  const city = CITIES.find((c) => c.slug === citySlug);
+  if (!t || !city) return null;
+  return {
+    slug: `${serviceKey}-${citySlug}`,
+    heroImage: t.hero,
+    h1: `${t.label} in ${city.name}`,
+    sub: t.sub(city.name),
+    service: t.service,
+    bullets: t.bullets,
+    steps: t.steps,
+    metaTitle: `${t.label} in ${city.name}, CA | Lisa Luvs Pets`,
+    metaDescription: `Insured ${t.service} in ${city.name} & the Peninsula. Photo updates, free meet & greet. Call ${SITE.phone}.`,
+  };
+}

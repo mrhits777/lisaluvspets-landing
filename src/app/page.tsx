@@ -12,7 +12,7 @@ export default function Home() {
       </p>
       <div className="mt-8 grid w-full gap-4 sm:grid-cols-2">
         <Link
-          href="/dog-walking-belmont"
+          href="/dog-walking/belmont"
           className="rounded-2xl border border-stone-200 bg-white p-6 text-left shadow-sm transition hover:shadow-md"
         >
           <div className="text-2xl">🐕</div>
@@ -20,7 +20,7 @@ export default function Home() {
           <p className="mt-1 text-sm text-stone-600">Daily walks &amp; mid-day visits with photo updates.</p>
         </Link>
         <Link
-          href="/pet-sitting-belmont"
+          href="/pet-sitting/belmont"
           className="rounded-2xl border border-stone-200 bg-white p-6 text-left shadow-sm transition hover:shadow-md"
         >
           <div className="text-2xl">🏡</div>

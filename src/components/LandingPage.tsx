@@ -1,3 +1,4 @@
+import Image from "next/image";
 import { SITE, type Variant } from "@/lib/site";
 import LeadForm from "@/components/LeadForm";
 import TrackedLink from "@/components/TrackedLink";
@@ -29,16 +30,52 @@ export default function LandingPage({ v }: { v: Variant }) {
         </div>
       </header>
 
-      {/* Hero */}
-      <section className="bg-gradient-to-b from-amber-50 to-[#fffaf3]">
-        <div className="mx-auto grid max-w-6xl items-center gap-10 px-4 py-12 lg:grid-cols-2 lg:py-16">
-          <div>
+      {/* Hero banner */}
+      <section className="relative isolate">
+        <Image
+          src={v.heroImage}
+          alt={`${v.h1} — happy, well-cared-for pets`}
+          fill
+          priority
+          sizes="100vw"
+          className="object-cover"
+        />
+        <div className="absolute inset-0 bg-gradient-to-r from-black/75 via-black/55 to-black/25" />
+        <div className="relative mx-auto max-w-6xl px-4 py-20 sm:py-28">
+          <div className="max-w-2xl">
             <div className="mb-4 flex flex-wrap gap-2">
               <Chip>⭐ 5-star local care</Chip>
-              <Chip>🛡️ Insured & background-checked</Chip>
+              <Chip>🛡️ Insured &amp; background-checked</Chip>
             </div>
-            <h1 className="text-4xl font-extrabold tracking-tight text-stone-900 sm:text-5xl">{v.h1}</h1>
-            <p className="mt-4 text-lg text-stone-600">{v.sub}</p>
+            <h1 className="text-4xl font-extrabold tracking-tight text-white drop-shadow-md sm:text-5xl">{v.h1}</h1>
+            <p className="mt-4 max-w-xl text-lg text-white/90">{v.sub}</p>
+            <div className="mt-8 flex flex-col gap-3 sm:flex-row">
+              <TrackedLink
+                href={SITE.phoneHref}
+                className="rounded-xl bg-amber-500 px-6 py-3 text-center font-semibold text-white shadow-lg transition hover:bg-amber-600"
+              >
+                📞 Call {SITE.phone}
+              </TrackedLink>
+              <a
+                href="#book"
+                className="rounded-xl bg-white/95 px-6 py-3 text-center font-semibold text-stone-900 shadow-sm transition hover:bg-white"
+              >
+                Book a free meet &amp; greet
+              </a>
+            </div>
+            <p className="mt-3 text-sm text-white/80">Serving {SITE.cities.join(" · ")}</p>
+          </div>
+        </div>
+      </section>
+
+      {/* Booking form */}
+      <section id="book" className="bg-gradient-to-b from-amber-50 to-[#fffaf3]">
+        <div className="mx-auto grid max-w-6xl items-center gap-10 px-4 py-14 lg:grid-cols-2">
+          <div>
+            <h2 className="text-3xl font-bold text-stone-900">Book a free meet &amp; greet</h2>
+            <p className="mt-3 text-lg text-stone-600">
+              No obligation — we&apos;ll come meet you and your pet, then set a schedule that fits your life.
+            </p>
             <ul className="mt-6 grid grid-cols-1 gap-2 sm:grid-cols-2">
               {v.bullets.map((b) => (
                 <li key={b} className="flex items-start gap-2 text-stone-700">
@@ -47,30 +84,15 @@ export default function LandingPage({ v }: { v: Variant }) {
                 </li>
               ))}
             </ul>
-            <div className="mt-8 flex flex-col gap-3 sm:flex-row">
-              <TrackedLink
-                href={SITE.phoneHref}
-                className="rounded-xl bg-amber-500 px-6 py-3 text-center font-semibold text-white shadow-sm transition hover:bg-amber-600"
-              >
-                📞 Call {SITE.phone}
+            <p className="mt-6 text-sm text-stone-500">
+              Prefer to talk?{" "}
+              <TrackedLink href={SITE.phoneHref} className="font-semibold text-amber-700 underline">
+                Call {SITE.phone}
               </TrackedLink>
-              <a
-                href="#book"
-                className="rounded-xl border border-stone-300 bg-white px-6 py-3 text-center font-semibold text-stone-800 transition hover:bg-stone-50"
-              >
-                Book a free meet &amp; greet
-              </a>
-            </div>
-            <p className="mt-3 text-sm text-stone-500">Serving {SITE.cities.join(" · ")}</p>
+            </p>
           </div>
-
-          {/* Form card */}
-          <div id="book" className="rounded-2xl bg-white p-6 shadow-xl ring-1 ring-stone-200 sm:p-8">
-            <h2 className="text-xl font-bold text-stone-900">Book a free meet &amp; greet</h2>
-            <p className="mt-1 text-sm text-stone-600">Tell us a bit about your pet — we&apos;ll reach out fast.</p>
-            <div className="mt-5">
-              <LeadForm variant={v.slug} service={v.service} />
-            </div>
+          <div className="rounded-2xl bg-white p-6 shadow-xl ring-1 ring-stone-200 sm:p-8">
+            <LeadForm variant={v.slug} service={v.service} />
           </div>
         </div>
       </section>

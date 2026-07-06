@@ -19,6 +19,7 @@ export const CONVERSION = {
 
 export type Variant = {
   slug: string;
+  heroImage: string;
   h1: string; // MUST match the ad headline / keyword word-for-word (Quality Score)
   sub: string;
   service: string; // short noun for copy, e.g. "dog walking"
@@ -31,6 +32,7 @@ export type Variant = {
 export const VARIANTS: Record<string, Variant> = {
   "dog-walking-belmont": {
     slug: "dog-walking-belmont",
+    heroImage: "/hero-dog-walking.jpg",
     h1: "Dog Walking in Belmont",
     sub: "Reliable, insured dog walkers for busy Peninsula families. Daily walks, mid-day visits, and lots of tail wags — booked in minutes.",
     service: "dog walking",
@@ -50,6 +52,7 @@ export const VARIANTS: Record<string, Variant> = {
   },
   "pet-sitting-belmont": {
     slug: "pet-sitting-belmont",
+    heroImage: "/hero-pet-sitting.jpg",
     h1: "In-Home Pet Sitting in Belmont",
     sub: "Loving in-home visits and check-ups so your pets stay comfy in their own space while you're away. Dogs, cats, and everything in between.",
     service: "in-home pet care",

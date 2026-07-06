@@ -4,11 +4,11 @@ import { useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
 import { SITE } from "@/lib/site";
 
-// Free lead delivery via Web3Forms (client-side, no backend). Get a key at
-// https://web3forms.com (enter koharalisa@gmail.com) and set it in .env.local as
-// NEXT_PUBLIC_WEB3FORMS_ACCESS_KEY. Until then, the form still redirects/converts
-// but the lead is NOT emailed — see the console warning.
-const WEB3FORMS_KEY = process.env.NEXT_PUBLIC_WEB3FORMS_ACCESS_KEY;
+// Lead delivery via Web3Forms (client-side, no backend). Web3Forms access keys are
+// public by design (their own snippet puts it in plain HTML), so the key is hardcoded
+// as the default and works out of the box. An env var overrides it if ever set.
+const WEB3FORMS_KEY =
+  process.env.NEXT_PUBLIC_WEB3FORMS_ACCESS_KEY || "a81038ac-4f88-4b57-8b2b-1f58afa722a4";
 
 export default function LeadForm({ variant, service }: { variant: string; service: string }) {
   const router = useRouter();

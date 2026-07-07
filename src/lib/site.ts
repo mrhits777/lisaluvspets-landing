@@ -79,7 +79,7 @@ export const SERVICES: Record<string, ServiceTemplate> = {
     service: "in-home pet care",
     hero: "/hero-pet-sitting.jpg",
     sub: (city) =>
-      `A real, local pet sitter — not an app. Your pet stays home on its own routine, with a photo after every visit and my own cell number. Now serving ${city}.`,
+      `A real, local pet sitter — not an app. Your pet stays home on their own routine, with a photo after every visit and my own cell number. Now serving ${city}.`,
     bullets: [
       "In-home visits — no kennels",
       "Feeding, meds, litter & playtime",

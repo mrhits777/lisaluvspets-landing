@@ -25,8 +25,10 @@ const money = (v: number | null) => (v == null ? "—" : `$${v.toFixed(2)}`);
 /** A Google-search-style preview of an ad group's live ad. */
 function AdPreview({ ad, url }: { ad?: Ad; url: string }) {
   if (!ad) return null;
-  const hs = [...ad.headlines.filter((h) => h.pinned), ...ad.headlines.filter((h) => !h.pinned)]
-    .slice(0, 3).map((h) => h.text);
+  const pinned = ad.headlines.filter((h) => h.pinned).map((h) => h.text);
+  const unpinned = ad.headlines.filter((h) => !h.pinned).map((h) => h.text);
+  // realistic: 1 keyword headline in slot 1 + 2 rotating offers (not all 3 pins)
+  const hs = [pinned[0], unpinned[0], unpinned[1]].filter(Boolean);
   const disp = url.replace(/^https?:\/\//, "");
   return (
     <div className="rounded-lg border border-stone-200 bg-white p-3 shadow-sm">

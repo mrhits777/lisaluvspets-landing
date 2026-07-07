@@ -5,6 +5,7 @@ export const SITE = {
   tagline: "Trusted pet care on the Peninsula",
   phone: "(650) 245-1496",
   phoneHref: "tel:+16502451496",
+  smsHref: "sms:+16502451496",
   email: "koharalisa@gmail.com",
   emailHref: "mailto:koharalisa@gmail.com",
   area: "Belmont & the Peninsula",
@@ -60,7 +61,7 @@ export const SERVICES: Record<string, ServiceTemplate> = {
     service: "dog walking",
     hero: "/hero-dog-walking.jpg",
     sub: (city) =>
-      `Reliable local dog walking for busy ${city} families. Daily walks, mid-day visits, and lots of tail wags — booked in minutes.`,
+      `A real, local dog walker — not a rotating app. The same friendly face every walk, a photo after each one, and my own cell number. Now serving ${city}.`,
     bullets: [
       "Trusted, one-on-one care",
       "Same-week start available",
@@ -78,7 +79,7 @@ export const SERVICES: Record<string, ServiceTemplate> = {
     service: "in-home pet care",
     hero: "/hero-pet-sitting.jpg",
     sub: (city) =>
-      `Loving in-home visits and check-ups so your ${city} pets stay comfy in their own space while you're away. Dogs, cats, and everything in between.`,
+      `A real, local pet sitter — not an app. Your pet stays home on its own routine, with a photo after every visit and my own cell number. Now serving ${city}.`,
     bullets: [
       "In-home visits — no kennels",
       "Feeding, meds, litter & playtime",

@@ -4,9 +4,7 @@ import { useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
 import { SITE } from "@/lib/site";
 
-// Lead delivery via Web3Forms (client-side, no backend). Web3Forms access keys are
-// public by design (their own snippet puts it in plain HTML), so the key is hardcoded
-// as the default and works out of the box. An env var overrides it if ever set.
+// Web3Forms access key is public by design (client-side form). Env var overrides if set.
 const WEB3FORMS_KEY =
   process.env.NEXT_PUBLIC_WEB3FORMS_ACCESS_KEY || "a81038ac-4f88-4b57-8b2b-1f58afa722a4";
 
@@ -15,7 +13,6 @@ export default function LeadForm({ variant, service }: { variant: string; servic
   const [status, setStatus] = useState<"idle" | "sending" | "error">("idle");
   const [tracking, setTracking] = useState({ gclid: "", utm_source: "", utm_medium: "", utm_campaign: "" });
 
-  // Capture the Google click id + UTMs from the URL so leads are attributable.
   useEffect(() => {
     const p = new URLSearchParams(window.location.search);
     setTracking({
@@ -29,8 +26,7 @@ export default function LeadForm({ variant, service }: { variant: string; servic
   async function onSubmit(e: React.FormEvent<HTMLFormElement>) {
     e.preventDefault();
     setStatus("sending");
-    const form = e.currentTarget;
-    const data = Object.fromEntries(new FormData(form).entries());
+    const data = Object.fromEntries(new FormData(e.currentTarget).entries());
     const payload = {
       subject: `New ${service} lead — ${SITE.business}`,
       from_name: SITE.business,
@@ -38,7 +34,6 @@ export default function LeadForm({ variant, service }: { variant: string; servic
       ...data,
       ...tracking,
     };
-
     try {
       if (WEB3FORMS_KEY) {
         const res = await fetch("https://api.web3forms.com/submit", {
@@ -47,8 +42,6 @@ export default function LeadForm({ variant, service }: { variant: string; servic
           body: JSON.stringify({ access_key: WEB3FORMS_KEY, ...payload }),
         });
         if (!res.ok) throw new Error("submit failed");
-      } else {
-        console.warn("[LeadForm] No NEXT_PUBLIC_WEB3FORMS_ACCESS_KEY set — lead NOT delivered:", payload);
       }
       router.push(`/thank-you?service=${encodeURIComponent(service)}`);
     } catch {
@@ -56,41 +49,37 @@ export default function LeadForm({ variant, service }: { variant: string; servic
     }
   }
 
+  const input =
+    "mt-1 w-full rounded-lg border border-stone-300 px-3 py-2.5 outline-none focus:border-amber-500 focus:ring-2 focus:ring-amber-200";
+
   return (
     <form onSubmit={onSubmit} className="space-y-3">
       <div>
         <label className="block text-sm font-medium text-stone-700">Your name</label>
-        <input name="name" required autoComplete="name"
-          className="mt-1 w-full rounded-lg border border-stone-300 px-3 py-2.5 outline-none focus:border-amber-500 focus:ring-2 focus:ring-amber-200" />
-      </div>
-      <div className="grid grid-cols-1 gap-3 sm:grid-cols-2">
-        <div>
-          <label className="block text-sm font-medium text-stone-700">Phone</label>
-          <input name="phone" type="tel" required autoComplete="tel"
-            className="mt-1 w-full rounded-lg border border-stone-300 px-3 py-2.5 outline-none focus:border-amber-500 focus:ring-2 focus:ring-amber-200" />
-        </div>
-        <div>
-          <label className="block text-sm font-medium text-stone-700">Email</label>
-          <input name="email" type="email" required autoComplete="email"
-            className="mt-1 w-full rounded-lg border border-stone-300 px-3 py-2.5 outline-none focus:border-amber-500 focus:ring-2 focus:ring-amber-200" />
-        </div>
+        <input name="name" required autoComplete="name" className={input} />
       </div>
       <div>
-        <label className="block text-sm font-medium text-stone-700">Tell us about your pet (optional)</label>
-        <textarea name="pet" rows={2}
-          className="mt-1 w-full rounded-lg border border-stone-300 px-3 py-2.5 outline-none focus:border-amber-500 focus:ring-2 focus:ring-amber-200" />
+        <label className="block text-sm font-medium text-stone-700">Mobile number</label>
+        <input name="phone" type="tel" required autoComplete="tel" placeholder="(650) 000-0000" className={input} />
       </div>
-      <button type="submit" disabled={status === "sending"}
-        className="w-full rounded-lg bg-amber-500 px-4 py-3 text-center font-semibold text-white shadow-sm transition hover:bg-amber-600 disabled:opacity-60">
+      <div>
+        <label className="block text-sm font-medium text-stone-700">Tell Lisa about your pet (optional)</label>
+        <textarea name="pet" rows={2} className={input} />
+      </div>
+      <button
+        type="submit"
+        disabled={status === "sending"}
+        className="w-full rounded-lg bg-amber-500 px-4 py-3.5 text-center text-base font-bold text-white shadow-sm transition hover:bg-amber-600 disabled:opacity-60"
+      >
         {status === "sending" ? "Sending…" : "Get My Free Meet & Greet"}
       </button>
       {status === "error" && (
         <p className="text-sm text-red-600">
-          Something went wrong — please call us at{" "}
+          Something went wrong — please call or text{" "}
           <a href={SITE.phoneHref} className="font-semibold underline">{SITE.phone}</a>.
         </p>
       )}
-      <p className="text-center text-xs text-stone-500">No obligation. We usually reply within the hour.</p>
+      <p className="text-center text-xs text-stone-500">No obligation — Lisa calls or texts you back within the hour.</p>
     </form>
   );
 }

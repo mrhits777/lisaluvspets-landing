@@ -3,11 +3,34 @@ import { SITE, type Variant } from "@/lib/site";
 import LeadForm from "@/components/LeadForm";
 import TrackedLink from "@/components/TrackedLink";
 
-function Chip({ children }: { children: React.ReactNode }) {
+const REVIEWS: [string, string][] = [
+  ["“My dog can sometimes be nervous meeting new people, but she went right up to Lisa at our meet & greet. Lisa was great!!”", "Caroline C. · Cassie · via Rover"],
+  ["“Finding Lisa was a blessing! Our anxious rescue dog Bella is usually terrified of strangers, but she warmed up to Lisa immediately.”", "Jennifer T. · Bella · via Rover"],
+  ["“Lisa was great! She communicated frequently, sent photos, and my pupper loved her!”", "Karina W. · Indy · via Rover"],
+];
+
+function TrustStrip({ dark = false }: { dark?: boolean }) {
+  const items = ["5-star on Rover", "A real person, not an app", "Photo after every visit", "Free meet & greet"];
   return (
-    <span className="inline-flex items-center gap-1.5 rounded-full bg-white/80 px-3 py-1 text-sm font-medium text-stone-700 ring-1 ring-stone-200">
-      {children}
-    </span>
+    <div className={`flex flex-wrap gap-x-4 gap-y-1 text-sm ${dark ? "text-white/90" : "text-stone-600"}`}>
+      {items.map((i) => (
+        <span key={i} className="flex items-center gap-1.5">
+          <span className="text-amber-500">✓</span>
+          {i}
+        </span>
+      ))}
+    </div>
+  );
+}
+
+function PhoneCTA({ className = "" }: { className?: string }) {
+  return (
+    <TrackedLink
+      href={SITE.phoneHref}
+      className={`rounded-xl bg-amber-500 px-6 py-3.5 text-center font-bold text-white shadow-sm transition hover:bg-amber-600 ${className}`}
+    >
+      📞 Call or Text {SITE.phone}
+    </TrackedLink>
   );
 }
 
@@ -15,84 +38,49 @@ export default function LandingPage({ v }: { v: Variant }) {
   return (
     <>
       {/* Header */}
-      <header className="sticky top-0 z-20 border-b border-stone-200 bg-[#fffaf3]/90 backdrop-blur">
+      <header className="sticky top-0 z-30 border-b border-stone-200 bg-[#fffaf3]/90 backdrop-blur">
         <div className="mx-auto flex max-w-6xl items-center justify-between px-4 py-3">
           <div className="flex items-center gap-2">
             <span className="text-2xl">🐾</span>
             <span className="font-bold text-stone-900">{SITE.business}</span>
           </div>
-          <TrackedLink
-            href={SITE.phoneHref}
-            className="rounded-lg bg-amber-500 px-4 py-2 text-sm font-semibold text-white shadow-sm transition hover:bg-amber-600"
-          >
-            Call {SITE.phone}
+          <TrackedLink href={SITE.phoneHref} className="rounded-lg bg-amber-500 px-4 py-2 text-sm font-semibold text-white transition hover:bg-amber-600">
+            Call or Text {SITE.phone}
           </TrackedLink>
         </div>
       </header>
 
-      {/* Hero banner */}
+      {/* Hero — headline + form together, above the fold */}
       <section className="relative isolate">
-        <Image
-          src={v.heroImage}
-          alt={`${v.h1} — happy, well-cared-for pets`}
-          fill
-          priority
-          sizes="100vw"
-          className="object-cover"
-        />
-        <div className="absolute inset-0 bg-gradient-to-r from-black/75 via-black/55 to-black/25" />
-        <div className="relative mx-auto max-w-6xl px-4 py-20 sm:py-28">
-          <div className="max-w-2xl">
-            <div className="mb-4 flex flex-wrap gap-2">
-              <Chip>⭐ 5-star local care</Chip>
-              <Chip>🐾 Local &amp; loving</Chip>
-            </div>
+        <Image src={v.heroImage} alt={`${v.h1} — happy, well-cared-for pets`} fill priority sizes="100vw" className="object-cover" />
+        <div className="absolute inset-0 bg-gradient-to-r from-black/85 via-black/65 to-black/35" />
+        <div className="relative mx-auto grid max-w-6xl items-center gap-8 px-4 py-12 lg:grid-cols-2 lg:py-16">
+          {/* Left: pitch */}
+          <div>
             <h1 className="text-4xl font-extrabold tracking-tight text-white drop-shadow-md sm:text-5xl">{v.h1}</h1>
             <p className="mt-4 max-w-xl text-lg text-white/90">{v.sub}</p>
-            <div className="mt-8 flex flex-col gap-3 sm:flex-row">
-              <TrackedLink
-                href={SITE.phoneHref}
-                className="rounded-xl bg-amber-500 px-6 py-3 text-center font-semibold text-white shadow-lg transition hover:bg-amber-600"
-              >
-                📞 Call {SITE.phone}
-              </TrackedLink>
-              <a
-                href="#book"
-                className="rounded-xl bg-white/95 px-6 py-3 text-center font-semibold text-stone-900 shadow-sm transition hover:bg-white"
-              >
-                Book a free meet &amp; greet
-              </a>
+            <div className="mt-5">
+              <TrustStrip dark />
             </div>
-            <p className="mt-3 text-sm text-white/80">Serving {SITE.cities.join(" · ")}</p>
+            <div className="mt-6 flex flex-col gap-3 sm:flex-row sm:items-center">
+              <PhoneCTA />
+              <p className="text-sm text-white/80">One local walker — I keep a small route so every walk stays unrushed.</p>
+            </div>
+            <p className="mt-4 text-sm text-white/80">Serving {SITE.cities.join(" · ")}</p>
           </div>
-        </div>
-      </section>
 
-      {/* Booking form */}
-      <section id="book" className="bg-gradient-to-b from-amber-50 to-[#fffaf3]">
-        <div className="mx-auto grid max-w-6xl items-center gap-10 px-4 py-14 lg:grid-cols-2">
-          <div>
-            <h2 className="text-3xl font-bold text-stone-900">Book a free meet &amp; greet</h2>
-            <p className="mt-3 text-lg text-stone-600">
-              No obligation — we&apos;ll come meet you and your pet, then set a schedule that fits your life.
-            </p>
-            <ul className="mt-6 grid grid-cols-1 gap-2 sm:grid-cols-2">
-              {v.bullets.map((b) => (
-                <li key={b} className="flex items-start gap-2 text-stone-700">
-                  <span className="mt-0.5 text-amber-600">✓</span>
-                  <span>{b}</span>
-                </li>
-              ))}
-            </ul>
-            <p className="mt-6 text-sm text-stone-500">
-              Prefer to talk?{" "}
-              <TrackedLink href={SITE.phoneHref} className="font-semibold text-amber-700 underline">
-                Call {SITE.phone}
-              </TrackedLink>
-            </p>
-          </div>
-          <div className="rounded-2xl bg-white p-6 shadow-xl ring-1 ring-stone-200 sm:p-8">
-            <LeadForm variant={v.slug} service={v.service} />
+          {/* Right: the form, visible on load */}
+          <div id="book" className="rounded-2xl bg-white p-5 shadow-2xl ring-1 ring-black/5 sm:p-7">
+            <div className="flex items-center gap-3">
+              <Image src="/lisa.webp" alt="Lisa" width={48} height={48} className="h-12 w-12 rounded-full object-cover ring-2 ring-amber-200" />
+              <div>
+                <h2 className="text-lg font-bold text-stone-900">Get your free meet &amp; greet</h2>
+                <p className="text-xs text-stone-500">with Lisa — no obligation</p>
+              </div>
+            </div>
+            <div className="mt-4">
+              <LeadForm variant={v.slug} service={v.service} />
+            </div>
           </div>
         </div>
       </section>
@@ -103,9 +91,7 @@ export default function LandingPage({ v }: { v: Variant }) {
         <div className="mt-10 grid gap-6 sm:grid-cols-3">
           {v.steps.map((s, i) => (
             <div key={s.title} className="rounded-2xl border border-stone-200 bg-white p-6">
-              <div className="flex h-10 w-10 items-center justify-center rounded-full bg-amber-100 font-bold text-amber-700">
-                {i + 1}
-              </div>
+              <div className="flex h-10 w-10 items-center justify-center rounded-full bg-amber-100 font-bold text-amber-700">{i + 1}</div>
               <h3 className="mt-4 font-semibold text-stone-900">{s.title}</h3>
               <p className="mt-2 text-stone-600">{s.body}</p>
             </div>
@@ -113,54 +99,51 @@ export default function LandingPage({ v }: { v: Variant }) {
         </div>
       </section>
 
-      {/* Why Lisa (founder trust) */}
+      {/* Meet Lisa — real photo */}
       <section className="bg-amber-50/60">
-        <div className="mx-auto max-w-4xl px-4 py-14 text-center">
-          <p className="text-2xl">👋🐕</p>
-          <h2 className="mt-3 text-3xl font-bold text-stone-900">Hi, I&apos;m Lisa</h2>
-          <p className="mx-auto mt-4 max-w-2xl text-lg text-stone-600">
-            I&apos;ve cared for Peninsula pets for years, and I treat every dog and cat like my own.
-            You&apos;ll get a real person, real updates after every visit, and total peace of mind that
-            your best friend is safe, happy, and loved while you&apos;re away.
-          </p>
-          <p className="mt-4 font-semibold text-stone-800">Fast replies · usually within the hour</p>
+        <div className="mx-auto grid max-w-4xl items-center gap-8 px-4 py-14 sm:grid-cols-[200px_1fr]">
+          <Image src="/lisa.webp" alt="Lisa, your local pet caregiver" width={200} height={200} className="mx-auto h-44 w-44 rounded-2xl object-cover shadow-md sm:h-48 sm:w-48" />
+          <div>
+            <h2 className="text-3xl font-bold text-stone-900">Hi, I&apos;m Lisa 👋</h2>
+            <p className="mt-3 text-lg text-stone-600">
+              I&apos;ve cared for Peninsula pets for years, and I treat every dog and cat like my own. You get a real
+              person — the same friendly face every visit, a photo after every walk, my own cell number, and total
+              peace of mind that your best friend is safe, happy, and loved.
+            </p>
+            <p className="mt-3 font-semibold text-stone-800">Call or text me — I usually reply within the hour.</p>
+          </div>
         </div>
       </section>
 
-      {/* Testimonials — REPLACE with Lisa's real reviews before scaling spend */}
+      {/* Reviews */}
       <section className="mx-auto max-w-6xl px-4 py-14">
         <h2 className="text-center text-3xl font-bold text-stone-900">What pet parents say</h2>
-        <div className="mt-10 grid gap-6 sm:grid-cols-3">
-          {[
-            ["“Lisa was great! She communicated frequently and sent photos and my pupper loved her!”", "— Karina W. · pet parent of Indy"],
-            ["“Lisa did a great job watching our sweet, shy cats for a week. She was very communicative.”", "— Amanda K. · Merlin, Gus & Circe"],
-            ["“Lisa was fantastic! She dog sat for me for 2 days very last minute when I was in a pinch.”", "— Kara M."],
-          ].map(([quote, who]) => (
+        <p className="mt-1 text-center text-amber-500">★★★★★ <span className="text-sm text-stone-500">real reviews from Lisa&apos;s clients</span></p>
+        <div className="mt-8 grid gap-6 sm:grid-cols-3">
+          {REVIEWS.map(([quote, who]) => (
             <figure key={who} className="rounded-2xl border border-stone-200 bg-white p-6">
               <div className="text-amber-500">★★★★★</div>
               <blockquote className="mt-3 text-stone-700">{quote}</blockquote>
-              <figcaption className="mt-3 text-sm font-medium text-stone-500">{who}</figcaption>
+              <figcaption className="mt-3 text-sm font-medium text-stone-500">— {who}</figcaption>
             </figure>
           ))}
         </div>
-        <p className="mt-4 text-center text-xs text-stone-400">
-          Real reviews from Lisa&apos;s pet parents.
-        </p>
       </section>
 
       {/* Final CTA */}
       <section className="bg-stone-900">
         <div className="mx-auto max-w-4xl px-4 py-14 text-center">
-          <h2 className="text-3xl font-bold text-white">Ready to book {v.service} in {SITE.area.split(" & ")[0]}?</h2>
-          <p className="mt-3 text-stone-300">Call now or request your free meet &amp; greet — no obligation.</p>
+          <h2 className="text-3xl font-bold text-white">Ready to book {v.service} in {SITE.cities[0]}?</h2>
+          <p className="mt-3 text-stone-300">No obligation — start with a free meet &amp; greet.</p>
           <div className="mt-8 flex flex-col justify-center gap-3 sm:flex-row">
-            <TrackedLink href={SITE.phoneHref} className="rounded-xl bg-amber-500 px-6 py-3 font-semibold text-white transition hover:bg-amber-600">
-              📞 Call {SITE.phone}
-            </TrackedLink>
-            <TrackedLink href={SITE.emailHref} className="rounded-xl border border-stone-600 px-6 py-3 font-semibold text-white transition hover:bg-stone-800">
-              ✉️ Email us
-            </TrackedLink>
+            <a href="#book" className="rounded-xl bg-amber-500 px-6 py-3.5 font-bold text-white transition hover:bg-amber-600">
+              Get My Free Meet &amp; Greet
+            </a>
+            <PhoneCTA className="!bg-white/10 ring-1 ring-white/25 hover:!bg-white/20" />
           </div>
+          <p className="mt-4 text-sm text-stone-400">
+            Prefer email? <a href={SITE.emailHref} className="underline">{SITE.email}</a>
+          </p>
         </div>
       </section>
 
@@ -178,6 +161,13 @@ export default function LandingPage({ v }: { v: Variant }) {
           <p className="mt-2 text-stone-500">Serving {SITE.cities.join(", ")} and nearby.</p>
         </div>
       </footer>
+
+      {/* Sticky mobile call/text bar — always one tap away */}
+      <div className="fixed inset-x-0 bottom-0 z-40 grid grid-cols-2 gap-px border-t border-black/10 sm:hidden">
+        <TrackedLink href={SITE.phoneHref} className="bg-amber-500 py-3.5 text-center font-bold text-white">📞 Call</TrackedLink>
+        <TrackedLink href={SITE.smsHref} className="bg-emerald-600 py-3.5 text-center font-bold text-white">💬 Text</TrackedLink>
+      </div>
+      <div className="h-14 sm:hidden" />
     </>
   );
 }

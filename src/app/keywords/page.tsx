@@ -8,7 +8,7 @@ export const metadata: Metadata = {
 
 type Ad = { headlines: { text: string; pinned: boolean }[]; descriptions: string[] };
 type Keyword = { text: string; match: string; words: number; volume: number | null; cpc_low: number | null; cpc_high: number | null };
-type AdGroup = { name: string; status: string; final_url: string; keywords: Keyword[]; ad?: Ad };
+type AdGroup = { name: string; status: string; final_url: string; keywords: Keyword[]; ad?: Ad; planned_ad?: Ad; copy_pending?: boolean };
 type Campaign = { id: string; name: string; status: string; channel: string; bidding: string; daily_budget: number; ad_groups: AdGroup[]; negatives: { text: string; match: string }[] };
 const data = raw as unknown as { generated: string; customer_id: string; keyword_planner_available: boolean; campaigns: Campaign[] };
 
@@ -23,11 +23,11 @@ function Tail({ words }: { words: number }) {
 const money = (v: number | null) => (v == null ? "—" : `$${v.toFixed(2)}`);
 
 /** A Google-search-style preview of an ad group's live ad. */
-function AdPreview({ ag }: { ag: AdGroup }) {
-  if (!ag.ad) return null;
-  const hs = [...ag.ad.headlines.filter((h) => h.pinned), ...ag.ad.headlines.filter((h) => !h.pinned)]
+function AdPreview({ ad, url }: { ad?: Ad; url: string }) {
+  if (!ad) return null;
+  const hs = [...ad.headlines.filter((h) => h.pinned), ...ad.headlines.filter((h) => !h.pinned)]
     .slice(0, 3).map((h) => h.text);
-  const disp = ag.final_url.replace(/^https?:\/\//, "");
+  const disp = url.replace(/^https?:\/\//, "");
   return (
     <div className="rounded-lg border border-stone-200 bg-white p-3 shadow-sm">
       <div className="flex items-center gap-1 text-xs text-stone-500">
@@ -90,14 +90,31 @@ export default function KeywordDashboard() {
             </span>
           </div>
 
-          {/* Example ads */}
-          <div className="mt-4">
-            <div className="text-sm font-semibold text-stone-700">Example live ads</div>
-            <p className="text-xs text-stone-500">Position 1 is always the keyword; the rest rotate. Google shows ~3 of the 15 headlines per search.</p>
-            <div className="mt-2 grid gap-3 sm:grid-cols-2">
-              {pickExamples(c.ad_groups).map((ag) => <AdPreview key={ag.name} ag={ag} />)}
-            </div>
-          </div>
+          {/* Example ads: queued (new personal copy) + currently live */}
+          {(() => {
+            const examples = pickExamples(c.ad_groups);
+            const pending = examples.some((a) => a.copy_pending && a.planned_ad);
+            return (
+              <div className="mt-4">
+                <div className="text-sm font-semibold text-stone-700">Example ads</div>
+                <p className="text-xs text-stone-500">Position 1 is always the keyword; the other headlines rotate. Google shows ~3 per search.</p>
+                {pending && (
+                  <div className="mt-2 rounded-lg border border-amber-200 bg-amber-50/60 p-3">
+                    <div className="text-xs font-semibold text-amber-800">⏳ Queued — new personal copy, goes live at next quota reset</div>
+                    <div className="mt-2 grid gap-3 sm:grid-cols-2">
+                      {examples.map((ag) => <AdPreview key={ag.name + "-p"} ad={ag.planned_ad} url={ag.final_url} />)}
+                    </div>
+                  </div>
+                )}
+                <div className="mt-3">
+                  <div className="text-xs font-semibold text-stone-500">Currently live</div>
+                  <div className="mt-2 grid gap-3 sm:grid-cols-2">
+                    {examples.map((ag) => <AdPreview key={ag.name + "-l"} ad={ag.ad} url={ag.final_url} />)}
+                  </div>
+                </div>
+              </div>
+            );
+          })()}
 
           <div className="mt-5 overflow-x-auto rounded-xl border border-stone-200">
             <table className="w-full text-left text-sm">

@@ -45,7 +45,7 @@ export default function LandingPage({ v }: { v: Variant }) {
           <div className="max-w-2xl">
             <div className="mb-4 flex flex-wrap gap-2">
               <Chip>⭐ 5-star local care</Chip>
-              <Chip>🛡️ Insured &amp; background-checked</Chip>
+              <Chip>🐾 Local &amp; loving</Chip>
             </div>
             <h1 className="text-4xl font-extrabold tracking-tight text-white drop-shadow-md sm:text-5xl">{v.h1}</h1>
             <p className="mt-4 max-w-xl text-lg text-white/90">{v.sub}</p>

@@ -8,7 +8,7 @@ export default function Home() {
       <div className="text-5xl">🐾</div>
       <h1 className="mt-4 text-4xl font-extrabold tracking-tight text-stone-900">{SITE.business}</h1>
       <p className="mt-3 text-lg text-stone-600">
-        Insured dog walking &amp; in-home pet care in {SITE.area}.
+        Loving dog walking &amp; in-home pet care in {SITE.area}.
       </p>
       <div className="mt-8 grid w-full gap-4 sm:grid-cols-2">
         <Link

@@ -8,7 +8,7 @@ const geist = Geist({ variable: "--font-geist-sans", subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Lisa Luvs Pets — Trusted Pet Care on the Peninsula",
-  description: "Insured dog walking and in-home pet care in Belmont & the Peninsula.",
+  description: "Local dog walking and in-home pet care in Belmont & the Peninsula.",
 };
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {

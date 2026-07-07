@@ -60,9 +60,9 @@ export const SERVICES: Record<string, ServiceTemplate> = {
     service: "dog walking",
     hero: "/hero-dog-walking.jpg",
     sub: (city) =>
-      `Reliable, insured dog walkers for busy ${city} families. Daily walks, mid-day visits, and lots of tail wags — booked in minutes.`,
+      `Reliable local dog walking for busy ${city} families. Daily walks, mid-day visits, and lots of tail wags — booked in minutes.`,
     bullets: [
-      "Insured & background-checked",
+      "Trusted, one-on-one care",
       "Same-week start available",
       "GPS-tracked walks + photo updates",
       "Local to the Peninsula",
@@ -83,7 +83,7 @@ export const SERVICES: Record<string, ServiceTemplate> = {
       "In-home visits — no kennels",
       "Feeding, meds, litter & playtime",
       "Daily photo & text updates",
-      "Insured & background-checked",
+      "Trusted, one-on-one care",
     ],
     steps: [
       { title: "Book a free meet & greet", body: "We learn your pet's routine, feeding, and quirks up front." },
@@ -107,6 +107,6 @@ export function cityVariant(serviceKey: string, citySlug: string): Variant | nul
     bullets: t.bullets,
     steps: t.steps,
     metaTitle: `${t.label} in ${city.name}, CA | Lisa Luvs Pets`,
-    metaDescription: `Insured ${t.service} in ${city.name} & the Peninsula. Photo updates, free meet & greet. Call ${SITE.phone}.`,
+    metaDescription: `Trusted ${t.service} in ${city.name} & the Peninsula. Photo updates, free meet & greet. Call ${SITE.phone}.`,
   };
 }

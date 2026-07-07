@@ -27,7 +27,7 @@ function PhoneCTA({ className = "" }: { className?: string }) {
   return (
     <TrackedLink
       href={SITE.phoneHref}
-      className={`rounded-xl bg-white px-6 py-3.5 text-center font-bold text-stone-900 shadow-sm ring-1 ring-black/10 transition hover:bg-stone-100 ${className}`}
+      className={`rounded-xl bg-emerald-600 px-6 py-3.5 text-center font-bold text-white shadow-sm transition hover:bg-emerald-700 ${className}`}
     >
       📞 Call or Text {SITE.phone}
     </TrackedLink>
@@ -44,7 +44,7 @@ export default function LandingPage({ v }: { v: Variant }) {
             <span className="text-2xl">🐾</span>
             <span className="font-bold text-stone-900">{SITE.business}</span>
           </div>
-          <TrackedLink href={SITE.phoneHref} className="rounded-lg border border-amber-500 px-4 py-2 text-sm font-semibold text-amber-700 transition hover:bg-amber-50">
+          <TrackedLink href={SITE.phoneHref} className="rounded-lg bg-emerald-600 px-4 py-2 text-sm font-semibold text-white transition hover:bg-emerald-700">
             Call or Text {SITE.phone}
           </TrackedLink>
         </div>
@@ -164,8 +164,8 @@ export default function LandingPage({ v }: { v: Variant }) {
 
       {/* Sticky mobile call/text bar — always one tap away */}
       <div className="fixed inset-x-0 bottom-0 z-40 grid grid-cols-2 gap-px border-t border-black/10 sm:hidden">
-        <TrackedLink href={SITE.phoneHref} className="bg-amber-500 py-3.5 text-center font-bold text-white">📞 Call</TrackedLink>
-        <TrackedLink href={SITE.smsHref} className="bg-emerald-600 py-3.5 text-center font-bold text-white">💬 Text</TrackedLink>
+        <TrackedLink href={SITE.phoneHref} className="bg-emerald-600 py-3.5 text-center font-bold text-white">📞 Call</TrackedLink>
+        <TrackedLink href={SITE.smsHref} className="bg-emerald-700 py-3.5 text-center font-bold text-white">💬 Text</TrackedLink>
       </div>
       <div className="h-14 sm:hidden" />
     </>

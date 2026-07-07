@@ -35,7 +35,7 @@ function AdPreview({ ad, url }: { ad?: Ad; url: string }) {
         <span className="truncate text-emerald-700">{disp}</span>
       </div>
       <div className="mt-1 text-[15px] font-medium leading-snug text-blue-800">{hs.join("  |  ")}</div>
-      <div className="mt-1 text-sm leading-snug text-stone-600">{ag.ad.descriptions[0]}</div>
+      <div className="mt-1 text-sm leading-snug text-stone-600">{ad.descriptions[0]}</div>
     </div>
   );
 }

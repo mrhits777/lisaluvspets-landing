@@ -1,5 +1,5 @@
 import Link from "next/link";
-import TrackedLink from "@/components/TrackedLink";
+import CallLink from "@/components/CallLink";
 import { SITE } from "@/lib/site";
 
 export default function Home() {
@@ -28,12 +28,9 @@ export default function Home() {
           <p className="mt-1 text-sm text-stone-600">Loving drop-in visits &amp; check-ups while you&apos;re away.</p>
         </Link>
       </div>
-      <TrackedLink
-        href={SITE.phoneHref}
-        className="mt-8 rounded-xl bg-amber-500 px-6 py-3 font-semibold text-white transition hover:bg-amber-600"
-      >
-        📞 Call {SITE.phone}
-      </TrackedLink>
+      <CallLink className="mt-8 rounded-xl bg-amber-500 px-6 py-3 font-semibold text-white transition hover:bg-amber-600">
+        📞 Call Lisa Now
+      </CallLink>
     </main>
   );
 }

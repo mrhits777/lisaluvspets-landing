@@ -1,6 +1,8 @@
 import Image from "next/image";
 import { SITE, type Variant } from "@/lib/site";
 import LeadForm from "@/components/LeadForm";
+import CallLink from "@/components/CallLink";
+import TextLink from "@/components/TextLink";
 import TrackedLink from "@/components/TrackedLink";
 
 const REVIEWS: [string, string][] = [
@@ -23,14 +25,18 @@ function TrustStrip({ dark = false }: { dark?: boolean }) {
   );
 }
 
-function PhoneCTA({ className = "" }: { className?: string }) {
+function PhoneCTA({ className = "", dark = false }: { className?: string; dark?: boolean }) {
   return (
-    <TrackedLink
-      href={SITE.phoneHref}
-      className={`rounded-xl bg-emerald-600 px-6 py-3.5 text-center font-bold text-white shadow-sm transition hover:bg-emerald-700 ${className}`}
-    >
-      📞 Call or Text {SITE.phone}
-    </TrackedLink>
+    <div className={`flex shrink-0 flex-col items-center gap-2 ${className}`}>
+      <CallLink className="w-full whitespace-nowrap rounded-xl bg-emerald-600 px-6 py-3.5 text-center font-bold text-white shadow-sm transition hover:bg-emerald-700">
+        📞 Call Lisa Now
+      </CallLink>
+      <TextLink
+        className={`whitespace-nowrap text-sm font-semibold underline ${dark ? "text-white/90 hover:text-white" : "text-stone-600 hover:text-stone-900"}`}
+      >
+        💬 Or text {SITE.phone}
+      </TextLink>
+    </div>
   );
 }
 
@@ -44,9 +50,9 @@ export default function LandingPage({ v }: { v: Variant }) {
             <span className="text-2xl">🐾</span>
             <span className="font-bold text-stone-900">{SITE.business}</span>
           </div>
-          <TrackedLink href={SITE.phoneHref} className="rounded-lg bg-emerald-600 px-4 py-2 text-sm font-semibold text-white transition hover:bg-emerald-700">
-            Call or Text {SITE.phone}
-          </TrackedLink>
+          <CallLink className="rounded-lg bg-emerald-600 px-4 py-2 text-sm font-semibold text-white transition hover:bg-emerald-700">
+            📞 Call Lisa Now
+          </CallLink>
         </div>
       </header>
 
@@ -63,7 +69,7 @@ export default function LandingPage({ v }: { v: Variant }) {
               <TrustStrip dark />
             </div>
             <div className="mt-6 flex flex-col gap-3 sm:flex-row sm:items-center">
-              <PhoneCTA />
+              <PhoneCTA dark />
               <p className="text-sm text-white/80">One local walker — I keep a small route so every walk stays unrushed.</p>
             </div>
             <p className="mt-4 text-sm text-white/80">Serving {SITE.cities.join(" · ")}</p>
@@ -139,7 +145,7 @@ export default function LandingPage({ v }: { v: Variant }) {
             <a href="#book" className="rounded-xl bg-amber-500 px-6 py-3.5 font-bold text-white transition hover:bg-amber-600">
               Get My Free Meet &amp; Greet
             </a>
-            <PhoneCTA />
+            <PhoneCTA dark />
           </div>
           <p className="mt-4 text-sm text-stone-400">
             Prefer email? <a href={SITE.emailHref} className="underline">{SITE.email}</a>
@@ -153,7 +159,7 @@ export default function LandingPage({ v }: { v: Variant }) {
           <div className="flex flex-col justify-between gap-2 sm:flex-row">
             <span className="font-semibold text-stone-800">🐾 {SITE.business}</span>
             <span>
-              <TrackedLink href={SITE.phoneHref} className="hover:underline">{SITE.phone}</TrackedLink>
+              <a href={SITE.phoneHref} className="hover:underline">{SITE.phone}</a>
               {" · "}
               <TrackedLink href={SITE.emailHref} className="hover:underline">{SITE.email}</TrackedLink>
             </span>
@@ -164,8 +170,8 @@ export default function LandingPage({ v }: { v: Variant }) {
 
       {/* Sticky mobile call/text bar — always one tap away */}
       <div className="fixed inset-x-0 bottom-0 z-40 grid grid-cols-2 gap-px border-t border-black/10 sm:hidden">
-        <TrackedLink href={SITE.phoneHref} className="bg-emerald-600 py-3.5 text-center font-bold text-white">📞 Call</TrackedLink>
-        <TrackedLink href={SITE.smsHref} className="bg-emerald-700 py-3.5 text-center font-bold text-white">💬 Text</TrackedLink>
+        <CallLink className="bg-emerald-600 py-3.5 text-center font-bold text-white">📞 Call</CallLink>
+        <TextLink className="bg-emerald-700 py-3.5 text-center font-bold text-white">💬 Text</TextLink>
       </div>
       <div className="h-14 sm:hidden" />
     </>

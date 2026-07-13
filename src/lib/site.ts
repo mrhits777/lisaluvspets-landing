@@ -18,6 +18,22 @@ export const CONVERSION = {
   sendTo: "AW-1071985499/oCu1CMO-38scENvmlP8D",
 } as const;
 
+// Conversion action "Lisa Luvs Pets - Call From Website" (WEBSITE_CALL).
+// gtag swaps SITE.phone for a Google forwarding number for visitors who arrived from an
+// ad, so a real call gets attributed to the keyword. Only calls >= 30s count. Everyone
+// else still sees the real number. `cssClass` marks the call buttons that show no number.
+export const CALL_CONVERSION = {
+  sendTo: "AW-1071985499/xU8zCKLJ488cENvmlP8D",
+  cssClass: "gads-call",
+} as const;
+
+// Conversion action "Lisa Luvs Pets - Text Click". Lisa takes text leads, but nothing can
+// confirm a text was actually sent — tapping the sms: link is the only signal there is. So
+// this is a click proxy, kept separate from the (verified) form and call conversions.
+export const TEXT_CONVERSION = {
+  sendTo: "AW-1071985499/P3nTCPGk5M8cENvmlP8D",
+} as const;
+
 // The Peninsula cities we serve (City x Service matrix). slug drives the dynamic route.
 export const CITIES = [
   { name: "Belmont", slug: "belmont" },

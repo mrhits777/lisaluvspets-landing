@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { Geist } from "next/font/google";
 import Script from "next/script";
-import { CONVERSION } from "@/lib/site";
+import { CALL_CONVERSION, CONVERSION, SITE } from "@/lib/site";
 import "./globals.css";
 
 const geist = Geist({ variable: "--font-geist-sans", subsets: ["latin"] });
@@ -24,7 +24,11 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
           {`window.dataLayer = window.dataLayer || [];
 function gtag(){dataLayer.push(arguments);}
 gtag('js', new Date());
-gtag('config', '${CONVERSION.awId}');`}
+gtag('config', '${CONVERSION.awId}');
+gtag('config', '${CALL_CONVERSION.sendTo}', {
+  'phone_conversion_number': '${SITE.phone}',
+  'phone_conversion_css_class': '${CALL_CONVERSION.cssClass}'
+});`}
         </Script>
         {children}
       </body>

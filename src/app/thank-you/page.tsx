@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import ConversionPing from "@/components/ConversionPing";
-import TrackedLink from "@/components/TrackedLink";
+import CallLink from "@/components/CallLink";
 import { SITE } from "@/lib/site";
 
 export const metadata: Metadata = {
@@ -25,12 +25,9 @@ export default async function ThankYou({
         Lisa will reach out shortly about your {service ?? "pet care"} — usually within the hour.
         Prefer to talk now?
       </p>
-      <TrackedLink
-        href={SITE.phoneHref}
-        className="mt-6 rounded-xl bg-amber-500 px-6 py-3 font-semibold text-white transition hover:bg-amber-600"
-      >
-        📞 Call {SITE.phone}
-      </TrackedLink>
+      <CallLink className="mt-6 rounded-xl bg-amber-500 px-6 py-3 font-semibold text-white transition hover:bg-amber-600">
+        📞 Call Lisa Now
+      </CallLink>
       <Link href="/" className="mt-4 text-sm text-stone-500 hover:underline">
         ← Back home
       </Link>

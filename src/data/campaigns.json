@@ -1,18 +1,393 @@
 {
-  "generated": "2026-07-07T19:11:33+00:00",
+  "generated": "2026-07-13T12:53:12+00:00",
   "client": "Lisa Luvs Pets",
   "customer_id": "8268791200",
   "keyword_planner_available": false,
+  "perf_range": "LAST_30_DAYS",
+  "search_terms": [
+    {
+      "term": "dog walker redwood city",
+      "impressions": 8,
+      "clicks": 1,
+      "cost": 1.95,
+      "conversions": 0.0
+    },
+    {
+      "term": "pet sitter near me",
+      "impressions": 7,
+      "clicks": 1,
+      "cost": 1.24,
+      "conversions": 0.0
+    },
+    {
+      "term": "cat sitter near me",
+      "impressions": 7,
+      "clicks": 0,
+      "cost": 0.0,
+      "conversions": 0.0
+    },
+    {
+      "term": "pet sitters near me",
+      "impressions": 5,
+      "clicks": 1,
+      "cost": 1.08,
+      "conversions": 0.0
+    },
+    {
+      "term": "cat sitting",
+      "impressions": 5,
+      "clicks": 0,
+      "cost": 0.0,
+      "conversions": 0.0
+    },
+    {
+      "term": "dog walking redwood city",
+      "impressions": 4,
+      "clicks": 0,
+      "cost": 0.0,
+      "conversions": 0.0
+    },
+    {
+      "term": "dog walker near me",
+      "impressions": 3,
+      "clicks": 0,
+      "cost": 0.0,
+      "conversions": 0.0
+    },
+    {
+      "term": "pet sitters redwood city",
+      "impressions": 3,
+      "clicks": 0,
+      "cost": 0.0,
+      "conversions": 0.0
+    },
+    {
+      "term": "dog daycare redwood city",
+      "impressions": 3,
+      "clicks": 0,
+      "cost": 0.0,
+      "conversions": 0.0
+    },
+    {
+      "term": "burlingame dog walker",
+      "impressions": 3,
+      "clicks": 1,
+      "cost": 1.82,
+      "conversions": 0.0
+    },
+    {
+      "term": "belmont pet sitters",
+      "impressions": 3,
+      "clicks": 1,
+      "cost": 4.61,
+      "conversions": 0.0
+    },
+    {
+      "term": "pet sitter san mateo",
+      "impressions": 2,
+      "clicks": 0,
+      "cost": 0.0,
+      "conversions": 0.0
+    },
+    {
+      "term": "dog walker san mateo",
+      "impressions": 2,
+      "clicks": 0,
+      "cost": 0.0,
+      "conversions": 0.0
+    },
+    {
+      "term": "dog walkers near me",
+      "impressions": 2,
+      "clicks": 0,
+      "cost": 0.0,
+      "conversions": 0.0
+    },
+    {
+      "term": "dog sitter near me",
+      "impressions": 2,
+      "clicks": 1,
+      "cost": 1.92,
+      "conversions": 0.0
+    },
+    {
+      "term": "dog sitter rates near me",
+      "impressions": 2,
+      "clicks": 0,
+      "cost": 0.0,
+      "conversions": 0.0
+    },
+    {
+      "term": "dog sitting services",
+      "impressions": 2,
+      "clicks": 0,
+      "cost": 0.0,
+      "conversions": 0.0
+    },
+    {
+      "term": "home dog care",
+      "impressions": 2,
+      "clicks": 0,
+      "cost": 0.0,
+      "conversions": 0.0
+    },
+    {
+      "term": "cat sitting near me",
+      "impressions": 2,
+      "clicks": 0,
+      "cost": 0.0,
+      "conversions": 0.0
+    },
+    {
+      "term": "menlo park dog sitter",
+      "impressions": 2,
+      "clicks": 0,
+      "cost": 0.0,
+      "conversions": 0.0
+    },
+    {
+      "term": "cat sitter burlingame",
+      "impressions": 2,
+      "clicks": 0,
+      "cost": 0.0,
+      "conversions": 0.0
+    },
+    {
+      "term": "dog walking half moon bay",
+      "impressions": 2,
+      "clicks": 0,
+      "cost": 0.0,
+      "conversions": 0.0
+    },
+    {
+      "term": "exotic pet sitter near me",
+      "impressions": 1,
+      "clicks": 0,
+      "cost": 0.0,
+      "conversions": 0.0
+    },
+    {
+      "term": "pet sitters",
+      "impressions": 1,
+      "clicks": 0,
+      "cost": 0.0,
+      "conversions": 0.0
+    },
+    {
+      "term": "pet sitting near me",
+      "impressions": 1,
+      "clicks": 0,
+      "cost": 0.0,
+      "conversions": 0.0
+    },
+    {
+      "term": "cat sitter san mateo",
+      "impressions": 1,
+      "clicks": 0,
+      "cost": 0.0,
+      "conversions": 0.0
+    },
+    {
+      "term": "dog walker palo alto",
+      "impressions": 1,
+      "clicks": 0,
+      "cost": 0.0,
+      "conversions": 0.0
+    },
+    {
+      "term": "dog walk near me",
+      "impressions": 1,
+      "clicks": 0,
+      "cost": 0.0,
+      "conversions": 0.0
+    },
+    {
+      "term": "dog walker",
+      "impressions": 1,
+      "clicks": 0,
+      "cost": 0.0,
+      "conversions": 0.0
+    },
+    {
+      "term": "dog walkers",
+      "impressions": 1,
+      "clicks": 0,
+      "cost": 0.0,
+      "conversions": 0.0
+    },
+    {
+      "term": "dog walking near me",
+      "impressions": 1,
+      "clicks": 0,
+      "cost": 0.0,
+      "conversions": 0.0
+    },
+    {
+      "term": "professional dog walker near me",
+      "impressions": 1,
+      "clicks": 0,
+      "cost": 0.0,
+      "conversions": 0.0
+    },
+    {
+      "term": "dog care services near me",
+      "impressions": 1,
+      "clicks": 0,
+      "cost": 0.0,
+      "conversions": 0.0
+    },
+    {
+      "term": "dog sitter",
+      "impressions": 1,
+      "clicks": 0,
+      "cost": 0.0,
+      "conversions": 0.0
+    },
+    {
+      "term": "dog sitting services near me",
+      "impressions": 1,
+      "clicks": 0,
+      "cost": 0.0,
+      "conversions": 0.0
+    },
+    {
+      "term": "dog watchers near me",
+      "impressions": 1,
+      "clicks": 0,
+      "cost": 0.0,
+      "conversions": 0.0
+    },
+    {
+      "term": "dogs babysitting",
+      "impressions": 1,
+      "clicks": 0,
+      "cost": 0.0,
+      "conversions": 0.0
+    },
+    {
+      "term": "home dog sitters near me",
+      "impressions": 1,
+      "clicks": 0,
+      "cost": 0.0,
+      "conversions": 0.0
+    },
+    {
+      "term": "house sitter for dogs near me",
+      "impressions": 1,
+      "clicks": 0,
+      "cost": 0.0,
+      "conversions": 0.0
+    },
+    {
+      "term": "in home dog sitting near me",
+      "impressions": 1,
+      "clicks": 0,
+      "cost": 0.0,
+      "conversions": 0.0
+    },
+    {
+      "term": "need a dog sitter near me",
+      "impressions": 1,
+      "clicks": 0,
+      "cost": 0.0,
+      "conversions": 0.0
+    },
+    {
+      "term": "puppy dog care near me",
+      "impressions": 1,
+      "clicks": 0,
+      "cost": 0.0,
+      "conversions": 0.0
+    },
+    {
+      "term": "puppy sitting service",
+      "impressions": 1,
+      "clicks": 0,
+      "cost": 0.0,
+      "conversions": 0.0
+    },
+    {
+      "term": "cat babysitting near me",
+      "impressions": 1,
+      "clicks": 0,
+      "cost": 0.0,
+      "conversions": 0.0
+    },
+    {
+      "term": "cat nanny",
+      "impressions": 1,
+      "clicks": 0,
+      "cost": 0.0,
+      "conversions": 0.0
+    },
+    {
+      "term": "cat sitter",
+      "impressions": 1,
+      "clicks": 0,
+      "cost": 0.0,
+      "conversions": 0.0
+    },
+    {
+      "term": "cat sitters near me",
+      "impressions": 1,
+      "clicks": 0,
+      "cost": 0.0,
+      "conversions": 0.0
+    },
+    {
+      "term": "dog walker belmont",
+      "impressions": 1,
+      "clicks": 0,
+      "cost": 0.0,
+      "conversions": 0.0
+    },
+    {
+      "term": "dog walking belmont ma",
+      "impressions": 1,
+      "clicks": 0,
+      "cost": 0.0,
+      "conversions": 0.0
+    },
+    {
+      "term": "dog walking belmont ma",
+      "impressions": 1,
+      "clicks": 0,
+      "cost": 0.0,
+      "conversions": 0.0
+    },
+    {
+      "term": "cat sitter san mateo",
+      "impressions": 1,
+      "clicks": 0,
+      "cost": 0.0,
+      "conversions": 0.0
+    },
+    {
+      "term": "pet sitter redwood city",
+      "impressions": 1,
+      "clicks": 1,
+      "cost": 1.23,
+      "conversions": 0.0
+    },
+    {
+      "term": "dog boarding redwood city",
+      "impressions": 1,
+      "clicks": 0,
+      "cost": 0.0,
+      "conversions": 0.0
+    }
+  ],
   "campaigns": [
     {
       "id": "24007645823",
       "name": "Lisa Luvs Pets - Search - Peninsula",
       "status": "ENABLED",
       "channel": "SEARCH",
-      "bidding": "MAXIMIZE_CONVERSIONS",
+      "bidding": "TARGET_SPEND",
       "daily_budget": 10.0,
       "ad_groups": [
         {
+          "id": "195107282381",
           "name": "house sitter hillsborough",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/hillsborough",
@@ -24,7 +399,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 0,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -167,9 +552,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 0,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "195107286661",
           "name": "pet sitter woodside",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/woodside",
@@ -181,7 +576,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 0,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -324,9 +729,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 0,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "195107287381",
           "name": "in home pet care woodside",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/woodside",
@@ -338,7 +753,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 0,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -481,9 +906,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 0,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "195107288061",
           "name": "pet sitting woodside",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/woodside",
@@ -495,7 +930,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 0,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -638,9 +1083,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 0,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "195107291941",
           "name": "house sitter woodside",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/woodside",
@@ -652,7 +1107,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 0,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -795,9 +1260,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 0,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "195107297461",
           "name": "pet sitting atherton",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/atherton",
@@ -809,7 +1284,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 0,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -952,9 +1437,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 0,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "195107298901",
           "name": "dog sitter atherton",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/atherton",
@@ -966,7 +1461,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 0,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -1109,9 +1614,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 0,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "195107300341",
           "name": "dog sitting atherton",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/atherton",
@@ -1123,7 +1638,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 0,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -1266,9 +1791,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 0,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "195940165097",
           "name": "pet sitter near me",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/belmont",
@@ -1280,7 +1815,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 15,
+                "clicks": 2,
+                "cost": 2.32,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 13.3,
+                "avg_cpc": 1.16,
+                "quality_score": 6
+              }
             }
           ],
           "ad": {
@@ -1423,9 +1968,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 15,
+            "clicks": 2,
+            "cost": 2.32,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 13.3,
+            "avg_cpc": 1.16
+          }
         },
         {
+          "id": "195940167257",
           "name": "pet sitter san mateo",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/san-mateo",
@@ -1437,7 +1992,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 9,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": 5
+              }
             }
           ],
           "ad": {
@@ -1580,9 +2145,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 9,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "195940169737",
           "name": "cat sitter menlo park",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/menlo-park",
@@ -1594,7 +2169,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 0,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -1737,9 +2322,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 0,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "195940177377",
           "name": "dog walker woodside",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/dog-walking/woodside",
@@ -1751,7 +2346,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 0,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -1894,9 +2499,19 @@
               "One trusted local who learns your dog's name and quirks. Meet me first, then decide."
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 0,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "196877694446",
           "name": "dog sitter belmont",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/belmont",
@@ -1908,7 +2523,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 0,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -2051,9 +2676,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 0,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "196877696046",
           "name": "cat sitter belmont",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/belmont",
@@ -2065,7 +2700,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 3,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -2208,9 +2853,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 3,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "196877698046",
           "name": "dog walking san carlos",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/dog-walking/san-carlos",
@@ -2222,7 +2877,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 0,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -2365,9 +3030,19 @@
               "One trusted local who learns your dog's name and quirks. Meet me first, then decide."
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 0,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "196877701326",
           "name": "dog sitter san carlos",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/san-carlos",
@@ -2379,7 +3054,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 0,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -2522,9 +3207,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 0,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "196877702126",
           "name": "dog sitting san carlos",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/san-carlos",
@@ -2536,7 +3231,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 0,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -2679,9 +3384,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 0,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "196877704686",
           "name": "dog walker san mateo",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/dog-walking/san-mateo",
@@ -2693,7 +3408,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 3,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": 8
+              }
             }
           ],
           "ad": {
@@ -2836,9 +3561,19 @@
               "One trusted local who learns your dog's name and quirks. Meet me first, then decide."
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 3,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "196877705446",
           "name": "dog walking san mateo",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/dog-walking/san-mateo",
@@ -2850,7 +3585,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 1,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -2993,9 +3738,19 @@
               "One trusted local who learns your dog's name and quirks. Meet me first, then decide."
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 1,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "197427227759",
           "name": "dog walker near me",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/dog-walking/belmont",
@@ -3007,7 +3762,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 12,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -3150,9 +3915,19 @@
               "One trusted local who learns your dog's name and quirks. Meet me first, then decide."
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 12,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "197427228719",
           "name": "dog sitter near me",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/belmont",
@@ -3164,7 +3939,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 26,
+                "clicks": 1,
+                "cost": 1.92,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 3.8,
+                "avg_cpc": 1.92,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -3307,9 +4092,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 26,
+            "clicks": 1,
+            "cost": 1.92,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 3.8,
+            "avg_cpc": 1.92
+          }
         },
         {
+          "id": "197427229599",
           "name": "cat sitter near me",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/belmont",
@@ -3321,7 +4116,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 20,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -3464,9 +4269,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 20,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "197427229679",
           "name": "dog walker belmont",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/dog-walking/belmont",
@@ -3478,7 +4293,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 3,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": 7
+              }
             }
           ],
           "ad": {
@@ -3621,9 +4446,19 @@
               "One trusted local who learns your dog's name and quirks. Meet me first, then decide."
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 3,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "197427230559",
           "name": "dog walking belmont",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/dog-walking/belmont",
@@ -3635,7 +4470,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 5,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -3778,9 +4623,19 @@
               "One trusted local who learns your dog's name and quirks. Meet me first, then decide."
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 5,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "197427232239",
           "name": "pet sitting belmont",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/belmont",
@@ -3792,7 +4647,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 2,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -3935,9 +4800,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 2,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "197427235919",
           "name": "pet sitter san carlos",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/san-carlos",
@@ -3949,7 +4824,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 0,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -4092,9 +4977,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 0,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "197427236799",
           "name": "pet sitting san carlos",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/san-carlos",
@@ -4106,7 +5001,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 0,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -4249,9 +5154,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 0,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "197427250999",
           "name": "house sitter redwood city",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/redwood-city",
@@ -4263,7 +5178,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 0,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -4406,9 +5331,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 0,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "197427251719",
           "name": "dog walker menlo park",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/dog-walking/menlo-park",
@@ -4420,7 +5355,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 2,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -4563,9 +5508,19 @@
               "One trusted local who learns your dog's name and quirks. Meet me first, then decide."
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 2,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "197427253639",
           "name": "in home pet care menlo park",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/menlo-park",
@@ -4577,7 +5532,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 0,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -4720,9 +5685,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 0,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "197427255039",
           "name": "dog sitter menlo park",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/menlo-park",
@@ -4734,7 +5709,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 3,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -4877,9 +5862,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 3,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "197427257759",
           "name": "dog walker foster city",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/dog-walking/foster-city",
@@ -4891,7 +5886,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 9,
+                "clicks": 1,
+                "cost": 1.67,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 11.1,
+                "avg_cpc": 1.67,
+                "quality_score": 7
+              }
             }
           ],
           "ad": {
@@ -5034,9 +6039,19 @@
               "One trusted local who learns your dog's name and quirks. Meet me first, then decide."
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 9,
+            "clicks": 1,
+            "cost": 1.67,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 11.1,
+            "avg_cpc": 1.67
+          }
         },
         {
+          "id": "197427270239",
           "name": "dog sitting burlingame",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/burlingame",
@@ -5048,7 +6063,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 0,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -5191,9 +6216,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 0,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "197427271359",
           "name": "cat sitter burlingame",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/burlingame",
@@ -5205,7 +6240,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 5,
+                "clicks": 1,
+                "cost": 1.28,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 20.0,
+                "avg_cpc": 1.28,
+                "quality_score": 5
+              }
             }
           ],
           "ad": {
@@ -5348,9 +6393,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 5,
+            "clicks": 1,
+            "cost": 1.28,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 20.0,
+            "avg_cpc": 1.28
+          }
         },
         {
+          "id": "197427288959",
           "name": "pet sitting hillsborough",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/hillsborough",
@@ -5362,7 +6417,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 0,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -5505,9 +6570,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 0,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "197427290159",
           "name": "dog sitter hillsborough",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/hillsborough",
@@ -5519,7 +6594,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 0,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -5662,9 +6747,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 0,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "197495528105",
           "name": "dog walker san carlos",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/dog-walking/san-carlos",
@@ -5676,7 +6771,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 0,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -5819,9 +6924,19 @@
               "One trusted local who learns your dog's name and quirks. Meet me first, then decide."
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 0,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "197495531985",
           "name": "cat sitter san carlos",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/san-carlos",
@@ -5833,7 +6948,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 0,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -5976,9 +7101,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 0,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "197495533185",
           "name": "house sitter san carlos",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/san-carlos",
@@ -5990,7 +7125,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 0,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -6133,9 +7278,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 0,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "197495536705",
           "name": "pet sitting san mateo",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/san-mateo",
@@ -6147,7 +7302,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 8,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -6290,9 +7455,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 8,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "197495540145",
           "name": "dog walking redwood city",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/dog-walking/redwood-city",
@@ -6304,7 +7479,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 4,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": 7
+              }
             }
           ],
           "ad": {
@@ -6447,9 +7632,19 @@
               "One trusted local who learns your dog's name and quirks. Meet me first, then decide."
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 4,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "197495541025",
           "name": "pet sitter redwood city",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/redwood-city",
@@ -6461,7 +7656,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 4,
+                "clicks": 1,
+                "cost": 1.23,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 25.0,
+                "avg_cpc": 1.23,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -6604,9 +7809,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 4,
+            "clicks": 1,
+            "cost": 1.23,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 25.0,
+            "avg_cpc": 1.23
+          }
         },
         {
+          "id": "197495542225",
           "name": "pet sitting redwood city",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/redwood-city",
@@ -6618,7 +7833,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 1,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -6761,9 +7986,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 1,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "197495550185",
           "name": "dog sitting menlo park",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/menlo-park",
@@ -6775,7 +8010,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 0,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -6918,9 +8163,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 0,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "197495553345",
           "name": "dog walking foster city",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/dog-walking/foster-city",
@@ -6932,7 +8187,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 0,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -7075,9 +8340,19 @@
               "One trusted local who learns your dog's name and quirks. Meet me first, then decide."
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 0,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "197495553985",
           "name": "pet sitter foster city",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/foster-city",
@@ -7089,7 +8364,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 0,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -7232,9 +8517,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 0,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "197495557185",
           "name": "cat sitter foster city",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/foster-city",
@@ -7246,7 +8541,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 0,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -7389,9 +8694,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 0,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "197495577065",
           "name": "pet sitting millbrae",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/millbrae",
@@ -7403,7 +8718,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 0,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -7546,9 +8871,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 0,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "197495578505",
           "name": "dog sitter millbrae",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/millbrae",
@@ -7560,7 +8895,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 0,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -7703,9 +9048,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 0,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "197495584545",
           "name": "dog walker hillsborough",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/dog-walking/hillsborough",
@@ -7717,7 +9072,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 3,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -7860,9 +9225,19 @@
               "One trusted local who learns your dog's name and quirks. Meet me first, then decide."
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 3,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "197495585905",
           "name": "dog walking hillsborough",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/dog-walking/hillsborough",
@@ -7874,7 +9249,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 2,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -8017,9 +9402,19 @@
               "One trusted local who learns your dog's name and quirks. Meet me first, then decide."
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 2,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "197495588585",
           "name": "in home pet care hillsborough",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/hillsborough",
@@ -8031,7 +9426,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 0,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -8174,9 +9579,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 0,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "198876777275",
           "name": "house sitter belmont",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/belmont",
@@ -8188,7 +9603,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 0,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -8331,9 +9756,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 0,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "198876781675",
           "name": "dog walker redwood city",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/dog-walking/redwood-city",
@@ -8345,7 +9780,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 9,
+                "clicks": 1,
+                "cost": 1.95,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 11.1,
+                "avg_cpc": 1.95,
+                "quality_score": 8
+              }
             }
           ],
           "ad": {
@@ -8488,9 +9933,19 @@
               "One trusted local who learns your dog's name and quirks. Meet me first, then decide."
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 9,
+            "clicks": 1,
+            "cost": 1.95,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 11.1,
+            "avg_cpc": 1.95
+          }
         },
         {
+          "id": "198876787435",
           "name": "house sitter menlo park",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/menlo-park",
@@ -8502,7 +9957,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 0,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -8645,9 +10110,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 0,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "198876792875",
           "name": "pet sitting burlingame",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/burlingame",
@@ -8659,7 +10134,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 1,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -8802,9 +10287,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 1,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "198876795555",
           "name": "dog walking millbrae",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/dog-walking/millbrae",
@@ -8816,7 +10311,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 0,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -8959,9 +10464,19 @@
               "One trusted local who learns your dog's name and quirks. Meet me first, then decide."
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 0,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "198876796315",
           "name": "pet sitter millbrae",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/millbrae",
@@ -8973,7 +10488,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 0,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -9116,9 +10641,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 0,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "198876798435",
           "name": "dog sitting millbrae",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/millbrae",
@@ -9130,7 +10665,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 0,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -9273,9 +10818,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 0,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "198876799155",
           "name": "cat sitter millbrae",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/millbrae",
@@ -9287,7 +10842,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 0,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -9430,9 +10995,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 0,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "198876800115",
           "name": "house sitter millbrae",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/millbrae",
@@ -9444,7 +11019,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 0,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -9587,9 +11172,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 0,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "198876803675",
           "name": "dog sitting hillsborough",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/hillsborough",
@@ -9601,7 +11196,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 0,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -9744,9 +11349,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 0,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "198876813795",
           "name": "dog walking half moon bay",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/dog-walking/half-moon-bay",
@@ -9758,7 +11373,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 11,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": 7
+              }
             }
           ],
           "ad": {
@@ -9901,9 +11526,19 @@
               "One trusted local who learns your dog's name and quirks. Meet me first, then decide."
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 11,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "198876816235",
           "name": "dog sitter half moon bay",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/half-moon-bay",
@@ -9915,7 +11550,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 2,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": 6
+              }
             }
           ],
           "ad": {
@@ -10058,9 +11703,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 2,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "198876817355",
           "name": "house sitter half moon bay",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/half-moon-bay",
@@ -10072,7 +11727,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 0,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -10215,9 +11880,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 0,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "200864639449",
           "name": "in home pet care san mateo",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/san-mateo",
@@ -10229,7 +11904,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 0,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -10372,9 +12057,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 0,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "200864641809",
           "name": "dog sitter san mateo",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/san-mateo",
@@ -10386,7 +12081,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 3,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -10529,9 +12234,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 3,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "200864642369",
           "name": "dog sitting san mateo",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/san-mateo",
@@ -10543,7 +12258,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 2,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -10686,11 +12411,21 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 2,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "200864643529",
           "name": "cat sitter san mateo",
-          "status": "ENABLED",
+          "status": "PAUSED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/san-mateo",
           "keywords": [
             {
@@ -10700,7 +12435,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 2,
+                "clicks": 1,
+                "cost": 9.15,
+                "conversions": 1.0,
+                "conv_value": 40.0,
+                "ctr": 50.0,
+                "avg_cpc": 9.15,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -10843,9 +12588,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 2,
+            "clicks": 1,
+            "cost": 9.15,
+            "conversions": 1.0,
+            "conv_value": 40.0,
+            "ctr": 50.0,
+            "avg_cpc": 9.15
+          }
         },
         {
+          "id": "200864655329",
           "name": "in home pet care redwood city",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/redwood-city",
@@ -10857,7 +12612,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 0,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -11000,9 +12765,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 0,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "200864658449",
           "name": "dog sitting redwood city",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/redwood-city",
@@ -11014,7 +12789,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 8,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -11157,9 +12942,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 8,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "200864659809",
           "name": "cat sitter redwood city",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/redwood-city",
@@ -11171,7 +12966,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 0,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -11314,9 +13119,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 0,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "200864662969",
           "name": "dog walking menlo park",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/dog-walking/menlo-park",
@@ -11328,7 +13143,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 6,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -11471,9 +13296,19 @@
               "One trusted local who learns your dog's name and quirks. Meet me first, then decide."
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 6,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "200864663929",
           "name": "pet sitter menlo park",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/menlo-park",
@@ -11485,7 +13320,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 1,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -11628,9 +13473,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 1,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "200864672769",
           "name": "in home pet care foster city",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/foster-city",
@@ -11642,7 +13497,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 0,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -11785,9 +13650,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 0,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "200864673809",
           "name": "pet sitting foster city",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/foster-city",
@@ -11799,7 +13674,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 0,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -11942,9 +13827,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 0,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "200864677569",
           "name": "house sitter foster city",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/foster-city",
@@ -11956,7 +13851,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 0,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -12099,9 +14004,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 0,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "200864678329",
           "name": "dog walker burlingame",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/dog-walking/burlingame",
@@ -12113,7 +14028,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 4,
+                "clicks": 1,
+                "cost": 1.82,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 25.0,
+                "avg_cpc": 1.82,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -12256,9 +14181,19 @@
               "One trusted local who learns your dog's name and quirks. Meet me first, then decide."
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 4,
+            "clicks": 1,
+            "cost": 1.82,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 25.0,
+            "avg_cpc": 1.82
+          }
         },
         {
+          "id": "200864681489",
           "name": "pet sitter burlingame",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/burlingame",
@@ -12270,7 +14205,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 1,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -12413,9 +14358,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 1,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "200864683569",
           "name": "in home pet care burlingame",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/burlingame",
@@ -12427,7 +14382,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 0,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -12570,9 +14535,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 0,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "200864686929",
           "name": "dog sitter burlingame",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/burlingame",
@@ -12584,7 +14559,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 0,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -12727,9 +14712,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 0,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "200864691769",
           "name": "house sitter burlingame",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/burlingame",
@@ -12741,7 +14736,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 0,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -12884,9 +14889,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 0,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "200864693889",
           "name": "dog walker millbrae",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/dog-walking/millbrae",
@@ -12898,7 +14913,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 3,
+                "clicks": 1,
+                "cost": 2.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 33.3,
+                "avg_cpc": 2.0,
+                "quality_score": 7
+              }
             }
           ],
           "ad": {
@@ -13041,9 +15066,19 @@
               "One trusted local who learns your dog's name and quirks. Meet me first, then decide."
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 3,
+            "clicks": 1,
+            "cost": 2.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 33.3,
+            "avg_cpc": 2.0
+          }
         },
         {
+          "id": "200864699489",
           "name": "in home pet care millbrae",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/millbrae",
@@ -13055,7 +15090,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 0,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -13198,9 +15243,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 0,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "200864713609",
           "name": "pet sitter hillsborough",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/hillsborough",
@@ -13212,7 +15267,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 0,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -13355,9 +15420,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 0,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "201034761111",
           "name": "pet sitter belmont",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/belmont",
@@ -13369,7 +15444,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 4,
+                "clicks": 1,
+                "cost": 4.61,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 25.0,
+                "avg_cpc": 4.61,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -13512,9 +15597,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 4,
+            "clicks": 1,
+            "cost": 4.61,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 25.0,
+            "avg_cpc": 4.61
+          }
         },
         {
+          "id": "201034761311",
           "name": "in home pet care belmont",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/belmont",
@@ -13526,7 +15621,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 0,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -13669,9 +15774,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 0,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "201034762271",
           "name": "dog sitting belmont",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/belmont",
@@ -13683,7 +15798,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 2,
+                "clicks": 1,
+                "cost": 1.89,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 50.0,
+                "avg_cpc": 1.89,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -13826,9 +15951,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 2,
+            "clicks": 1,
+            "cost": 1.89,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 50.0,
+            "avg_cpc": 1.89
+          }
         },
         {
+          "id": "201034764151",
           "name": "in home pet care san carlos",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/san-carlos",
@@ -13840,7 +15975,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 0,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -13983,9 +16128,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 0,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "201034769751",
           "name": "house sitter san mateo",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/san-mateo",
@@ -13997,7 +16152,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 0,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -14140,9 +16305,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 0,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "201034771831",
           "name": "dog sitter redwood city",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/redwood-city",
@@ -14154,7 +16329,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 1,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -14297,9 +16482,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 1,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "201034774551",
           "name": "pet sitting menlo park",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/menlo-park",
@@ -14311,7 +16506,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 1,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -14454,9 +16659,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 1,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "201034779311",
           "name": "dog sitter foster city",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/foster-city",
@@ -14468,7 +16683,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 0,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -14611,9 +16836,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 0,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "201034779831",
           "name": "dog sitting foster city",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/foster-city",
@@ -14625,7 +16860,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 0,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -14768,9 +17013,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 0,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "201034781911",
           "name": "dog walking burlingame",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/dog-walking/burlingame",
@@ -14782,7 +17037,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 2,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -14925,9 +17190,19 @@
               "One trusted local who learns your dog's name and quirks. Meet me first, then decide."
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 2,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "201034801391",
           "name": "dog walking woodside",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/dog-walking/woodside",
@@ -14939,7 +17214,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 0,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -15082,9 +17367,19 @@
               "One trusted local who learns your dog's name and quirks. Meet me first, then decide."
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 0,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "201034804231",
           "name": "dog walker atherton",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/dog-walking/atherton",
@@ -15096,7 +17391,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 0,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -15239,9 +17544,19 @@
               "One trusted local who learns your dog's name and quirks. Meet me first, then decide."
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 0,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "201034805471",
           "name": "in home pet care atherton",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/atherton",
@@ -15253,7 +17568,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 0,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -15396,9 +17721,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 0,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "201757201561",
           "name": "dog sitter woodside",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/woodside",
@@ -15410,7 +17745,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 0,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -15553,9 +17898,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 0,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "201757202281",
           "name": "dog sitting woodside",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/woodside",
@@ -15567,7 +17922,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 0,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -15710,9 +18075,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 0,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "201757205161",
           "name": "pet sitter atherton",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/atherton",
@@ -15724,7 +18099,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 0,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -15867,9 +18252,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 0,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "201757209521",
           "name": "cat sitter atherton",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/atherton",
@@ -15881,7 +18276,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 0,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -16024,9 +18429,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 0,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "201757211001",
           "name": "dog walker half moon bay",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/dog-walking/half-moon-bay",
@@ -16038,7 +18453,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 2,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -16181,9 +18606,19 @@
               "One trusted local who learns your dog's name and quirks. Meet me first, then decide."
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 2,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "201757215561",
           "name": "pet sitting half moon bay",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/half-moon-bay",
@@ -16195,7 +18630,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 2,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -16338,9 +18783,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 2,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "201757217721",
           "name": "dog sitting half moon bay",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/half-moon-bay",
@@ -16352,7 +18807,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 0,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -16495,9 +18960,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 0,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "203814219248",
           "name": "cat sitter hillsborough",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/hillsborough",
@@ -16509,7 +18984,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 0,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -16652,9 +19137,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 0,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "203814230808",
           "name": "cat sitter woodside",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/woodside",
@@ -16666,7 +19161,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 0,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -16809,9 +19314,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 0,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "203814234168",
           "name": "dog walking atherton",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/dog-walking/atherton",
@@ -16823,7 +19338,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 0,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -16966,9 +19491,19 @@
               "One trusted local who learns your dog's name and quirks. Meet me first, then decide."
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 0,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "203814243488",
           "name": "house sitter atherton",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/atherton",
@@ -16980,7 +19515,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 0,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -17123,9 +19668,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 0,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "203814247888",
           "name": "pet sitter half moon bay",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/half-moon-bay",
@@ -17137,7 +19692,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 0,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -17280,9 +19845,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 0,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "203814249328",
           "name": "in home pet care half moon bay",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/half-moon-bay",
@@ -17294,7 +19869,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 0,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -17437,9 +20022,19 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 0,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         },
         {
+          "id": "203814254528",
           "name": "cat sitter half moon bay",
           "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/half-moon-bay",
@@ -17451,7 +20046,17 @@
               "status": "ENABLED",
               "volume": null,
               "cpc_low": null,
-              "cpc_high": null
+              "cpc_high": null,
+              "perf": {
+                "impressions": 0,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
             }
           ],
           "ad": {
@@ -17594,7 +20199,16 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "copy_pending": false
+          "copy_pending": false,
+          "perf": {
+            "impressions": 0,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
         }
       ],
       "negatives": [
@@ -17686,7 +20300,19 @@
           "text": "pet sitting jobs",
           "match": "PHRASE"
         }
-      ]
+      ],
+      "perf": {
+        "impressions": 207,
+        "clicks": 12,
+        "cost": 29.84,
+        "conversions": 1.0,
+        "conv_value": 40.0,
+        "ctr": 5.8,
+        "avg_cpc": 2.49,
+        "impression_share": 45.3,
+        "lost_to_budget": 1.2,
+        "lost_to_rank": 53.5
+      }
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-14T07:39:08+00:00",
+  "generated": "2026-07-14T12:00:10+00:00",
   "client": "Lisa Luvs Pets",
   "customer_id": "8268791200",
   "keyword_planner_available": false,
@@ -27,17 +27,17 @@
       "conversions": 0.0
     },
     {
+      "term": "cat sitting",
+      "impressions": 6,
+      "clicks": 0,
+      "cost": 0.0,
+      "conversions": 0.0
+    },
+    {
       "term": "pet sitters near me",
       "impressions": 5,
       "clicks": 1,
       "cost": 1.08,
-      "conversions": 0.0
-    },
-    {
-      "term": "cat sitting",
-      "impressions": 5,
-      "clicks": 0,
-      "cost": 0.0,
       "conversions": 0.0
     },
     {
@@ -4167,7 +4167,7 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 21,
+                "impressions": 22,
                 "clicks": 0,
                 "cost": 0.0,
                 "conversions": 0.0,
@@ -4320,7 +4320,7 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 21,
+            "impressions": 22,
             "clicks": 0,
             "cost": 0.0,
             "conversions": 0.0,
@@ -4528,7 +4528,7 @@
                 "conv_value": 0.0,
                 "ctr": 0.0,
                 "avg_cpc": 0.0,
-                "quality_score": null
+                "quality_score": 8
               }
             }
           ],
@@ -20359,16 +20359,16 @@
         }
       ],
       "perf": {
-        "impressions": 271,
+        "impressions": 272,
         "clicks": 12,
         "cost": 29.84,
         "conversions": 1.0,
         "conv_value": 40.0,
         "ctr": 4.4,
         "avg_cpc": 2.49,
-        "impression_share": 42.5,
-        "lost_to_budget": 0.9,
-        "lost_to_rank": 56.6
+        "impression_share": 43.3,
+        "lost_to_budget": 0.8,
+        "lost_to_rank": 55.9
       }
     }
   ]

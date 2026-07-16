@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-16T16:00:11+00:00",
+  "generated": "2026-07-16T20:00:11+00:00",
   "client": "Lisa Luvs Pets",
   "customer_id": "8268791200",
   "keyword_planner_available": false,
@@ -7,7 +7,7 @@
   "search_terms": [
     {
       "term": "dog walkers near me",
-      "impressions": 14,
+      "impressions": 15,
       "clicks": 0,
       "cost": 0.0,
       "conversions": 0.0
@@ -335,6 +335,13 @@
       "conversions": 0.0
     },
     {
+      "term": "dog sitter san mateo",
+      "impressions": 2,
+      "clicks": 0,
+      "cost": 0.0,
+      "conversions": 0.0
+    },
+    {
       "term": "dog drop in visits near me",
       "impressions": 1,
       "clicks": 0,
@@ -413,13 +420,6 @@
     },
     {
       "term": "dog walkers burlingame ca",
-      "impressions": 1,
-      "clicks": 0,
-      "cost": 0.0,
-      "conversions": 0.0
-    },
-    {
-      "term": "dog walk near me",
       "impressions": 1,
       "clicks": 0,
       "cost": 0.0,
@@ -3813,12 +3813,12 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 48,
+                "impressions": 49,
                 "clicks": 1,
                 "cost": 4.14,
                 "conversions": 0.0,
                 "conv_value": 0.0,
-                "ctr": 2.1,
+                "ctr": 2.0,
                 "avg_cpc": 4.14,
                 "quality_score": null
               }
@@ -3966,12 +3966,12 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 48,
+            "impressions": 49,
             "clicks": 1,
             "cost": 4.14,
             "conversions": 0.0,
             "conv_value": 0.0,
-            "ctr": 2.1,
+            "ctr": 2.0,
             "avg_cpc": 4.14
           }
         },
@@ -9838,7 +9838,7 @@
                 "conv_value": 0.0,
                 "ctr": 10.0,
                 "avg_cpc": 3.18,
-                "quality_score": 8
+                "quality_score": 7
               }
             }
           ],
@@ -12132,7 +12132,7 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 3,
+                "impressions": 5,
                 "clicks": 0,
                 "cost": 0.0,
                 "conversions": 0.0,
@@ -12285,7 +12285,7 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 3,
+            "impressions": 5,
             "clicks": 0,
             "cost": 0.0,
             "conversions": 0.0,
@@ -20359,16 +20359,16 @@
         }
       ],
       "perf": {
-        "impressions": 416,
+        "impressions": 419,
         "clicks": 22,
         "cost": 70.74,
         "conversions": 1.0,
         "conv_value": 40.0,
         "ctr": 5.3,
         "avg_cpc": 3.22,
-        "impression_share": 49.4,
+        "impression_share": 49.7,
         "lost_to_budget": 0.6,
-        "lost_to_rank": 50.0
+        "lost_to_rank": 49.7
       }
     }
   ]

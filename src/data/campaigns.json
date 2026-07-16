@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-16T12:00:09+00:00",
+  "generated": "2026-07-16T16:00:11+00:00",
   "client": "Lisa Luvs Pets",
   "customer_id": "8268791200",
   "keyword_planner_available": false,
@@ -21,7 +21,7 @@
     },
     {
       "term": "dog walker redwood city",
-      "impressions": 8,
+      "impressions": 11,
       "clicks": 1,
       "cost": 1.95,
       "conversions": 0.0
@@ -9831,12 +9831,12 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 12,
+                "impressions": 20,
                 "clicks": 2,
                 "cost": 6.36,
                 "conversions": 0.0,
                 "conv_value": 0.0,
-                "ctr": 16.7,
+                "ctr": 10.0,
                 "avg_cpc": 3.18,
                 "quality_score": 8
               }
@@ -9984,12 +9984,12 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 12,
+            "impressions": 20,
             "clicks": 2,
             "cost": 6.36,
             "conversions": 0.0,
             "conv_value": 0.0,
-            "ctr": 16.7,
+            "ctr": 10.0,
             "avg_cpc": 3.18
           }
         },
@@ -20359,12 +20359,12 @@
         }
       ],
       "perf": {
-        "impressions": 408,
+        "impressions": 416,
         "clicks": 22,
         "cost": 70.74,
         "conversions": 1.0,
         "conv_value": 40.0,
-        "ctr": 5.4,
+        "ctr": 5.3,
         "avg_cpc": 3.22,
         "impression_share": 49.4,
         "lost_to_budget": 0.6,

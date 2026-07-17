@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-17T00:00:11+00:00",
+  "generated": "2026-07-17T04:00:10+00:00",
   "client": "Lisa Luvs Pets",
   "customer_id": "8268791200",
   "keyword_planner_available": false,
@@ -14,7 +14,7 @@
     },
     {
       "term": "pet sitter near me",
-      "impressions": 11,
+      "impressions": 13,
       "clicks": 1,
       "cost": 1.24,
       "conversions": 0.0
@@ -28,9 +28,9 @@
     },
     {
       "term": "cat sitter near me",
-      "impressions": 7,
-      "clicks": 0,
-      "cost": 0.0,
+      "impressions": 8,
+      "clicks": 1,
+      "cost": 2.92,
       "conversions": 0.0
     },
     {
@@ -91,6 +91,13 @@
     },
     {
       "term": "dog walker near me",
+      "impressions": 4,
+      "clicks": 0,
+      "cost": 0.0,
+      "conversions": 0.0
+    },
+    {
+      "term": "dog sitters near me",
       "impressions": 4,
       "clicks": 0,
       "cost": 0.0,
@@ -171,6 +178,13 @@
       "impressions": 3,
       "clicks": 1,
       "cost": 4.61,
+      "conversions": 0.0
+    },
+    {
+      "term": "house pet sitters",
+      "impressions": 2,
+      "clicks": 0,
+      "cost": 0.0,
       "conversions": 0.0
     },
     {
@@ -265,13 +279,6 @@
       "conversions": 0.0
     },
     {
-      "term": "dog sitters near me",
-      "impressions": 2,
-      "clicks": 0,
-      "cost": 0.0,
-      "conversions": 0.0
-    },
-    {
       "term": "dog sitting near me",
       "impressions": 2,
       "clicks": 0,
@@ -315,6 +322,13 @@
     },
     {
       "term": "cat sitting near me",
+      "impressions": 2,
+      "clicks": 0,
+      "cost": 0.0,
+      "conversions": 0.0
+    },
+    {
+      "term": "catsitter",
       "impressions": 2,
       "clicks": 0,
       "cost": 0.0,
@@ -406,20 +420,6 @@
     },
     {
       "term": "pet sitting services",
-      "impressions": 1,
-      "clicks": 0,
-      "cost": 0.0,
-      "conversions": 0.0
-    },
-    {
-      "term": "petsitter",
-      "impressions": 1,
-      "clicks": 0,
-      "cost": 0.0,
-      "conversions": 0.0
-    },
-    {
-      "term": "smilin dogs san carlos",
       "impressions": 1,
       "clicks": 0,
       "cost": 0.0,
@@ -1866,12 +1866,12 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 41,
+                "impressions": 46,
                 "clicks": 3,
                 "cost": 5.13,
                 "conversions": 0.0,
                 "conv_value": 0.0,
-                "ctr": 7.3,
+                "ctr": 6.5,
                 "avg_cpc": 1.71,
                 "quality_score": 7
               }
@@ -2019,12 +2019,12 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 41,
+            "impressions": 46,
             "clicks": 3,
             "cost": 5.13,
             "conversions": 0.0,
             "conv_value": 0.0,
-            "ctr": 7.3,
+            "ctr": 6.5,
             "avg_cpc": 1.71
           }
         },
@@ -3990,12 +3990,12 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 46,
+                "impressions": 48,
                 "clicks": 1,
                 "cost": 1.92,
                 "conversions": 0.0,
                 "conv_value": 0.0,
-                "ctr": 2.2,
+                "ctr": 2.1,
                 "avg_cpc": 1.92,
                 "quality_score": null
               }
@@ -4143,12 +4143,12 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 46,
+            "impressions": 48,
             "clicks": 1,
             "cost": 1.92,
             "conversions": 0.0,
             "conv_value": 0.0,
-            "ctr": 2.2,
+            "ctr": 2.1,
             "avg_cpc": 1.92
           }
         },
@@ -4167,13 +4167,13 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 29,
-                "clicks": 0,
-                "cost": 0.0,
+                "impressions": 32,
+                "clicks": 1,
+                "cost": 2.92,
                 "conversions": 0.0,
                 "conv_value": 0.0,
-                "ctr": 0.0,
-                "avg_cpc": 0.0,
+                "ctr": 3.1,
+                "avg_cpc": 2.92,
                 "quality_score": null
               }
             }
@@ -4320,13 +4320,13 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 29,
-            "clicks": 0,
-            "cost": 0.0,
+            "impressions": 32,
+            "clicks": 1,
+            "cost": 2.92,
             "conversions": 0.0,
             "conv_value": 0.0,
-            "ctr": 0.0,
-            "avg_cpc": 0.0
+            "ctr": 3.1,
+            "avg_cpc": 2.92
           }
         },
         {
@@ -7353,7 +7353,7 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 18,
+                "impressions": 19,
                 "clicks": 0,
                 "cost": 0.0,
                 "conversions": 0.0,
@@ -7506,7 +7506,7 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 18,
+            "impressions": 19,
             "clicks": 0,
             "cost": 0.0,
             "conversions": 0.0,
@@ -8061,7 +8061,7 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 2,
+                "impressions": 5,
                 "clicks": 0,
                 "cost": 0.0,
                 "conversions": 0.0,
@@ -8214,7 +8214,7 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 2,
+            "impressions": 5,
             "clicks": 0,
             "cost": 0.0,
             "conversions": 0.0,
@@ -10185,7 +10185,7 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 11,
+                "impressions": 12,
                 "clicks": 0,
                 "cost": 0.0,
                 "conversions": 0.0,
@@ -10338,7 +10338,7 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 11,
+            "impressions": 12,
             "clicks": 0,
             "cost": 0.0,
             "conversions": 0.0,
@@ -11424,7 +11424,7 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 17,
+                "impressions": 19,
                 "clicks": 0,
                 "cost": 0.0,
                 "conversions": 0.0,
@@ -11577,7 +11577,7 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 17,
+            "impressions": 19,
             "clicks": 0,
             "cost": 0.0,
             "conversions": 0.0,
@@ -16557,7 +16557,7 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 3,
+                "impressions": 4,
                 "clicks": 0,
                 "cost": 0.0,
                 "conversions": 0.0,
@@ -16710,7 +16710,7 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 3,
+            "impressions": 4,
             "clicks": 0,
             "cost": 0.0,
             "conversions": 0.0,
@@ -18504,7 +18504,7 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 2,
+                "impressions": 4,
                 "clicks": 0,
                 "cost": 0.0,
                 "conversions": 0.0,
@@ -18657,7 +18657,7 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 2,
+            "impressions": 4,
             "clicks": 0,
             "cost": 0.0,
             "conversions": 0.0,
@@ -20359,13 +20359,13 @@
         }
       ],
       "perf": {
-        "impressions": 445,
-        "clicks": 23,
-        "cost": 75.2,
+        "impressions": 465,
+        "clicks": 24,
+        "cost": 78.12,
         "conversions": 1.0,
         "conv_value": 40.0,
         "ctr": 5.2,
-        "avg_cpc": 3.27,
+        "avg_cpc": 3.25,
         "impression_share": 49.7,
         "lost_to_budget": 0.6,
         "lost_to_rank": 49.7

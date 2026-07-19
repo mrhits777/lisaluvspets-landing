@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-19T12:00:09+00:00",
+  "generated": "2026-07-19T16:00:10+00:00",
   "client": "Lisa Luvs Pets",
   "customer_id": "8268791200",
   "keyword_planner_available": false,
@@ -34,6 +34,13 @@
       "conversions": 0.0
     },
     {
+      "term": "dog walker",
+      "impressions": 8,
+      "clicks": 0,
+      "cost": 0.0,
+      "conversions": 0.0
+    },
+    {
       "term": "dog care near me",
       "impressions": 7,
       "clicks": 1,
@@ -52,13 +59,6 @@
       "impressions": 6,
       "clicks": 1,
       "cost": 1.08,
-      "conversions": 0.0
-    },
-    {
-      "term": "dog walker",
-      "impressions": 6,
-      "clicks": 0,
-      "cost": 0.0,
       "conversions": 0.0
     },
     {
@@ -164,6 +164,13 @@
       "impressions": 3,
       "clicks": 1,
       "cost": 4.49,
+      "conversions": 0.0
+    },
+    {
+      "term": "pet sitting",
+      "impressions": 3,
+      "clicks": 0,
+      "cost": 0.0,
       "conversions": 0.0
     },
     {
@@ -413,13 +420,6 @@
     },
     {
       "term": "in home cat care near me",
-      "impressions": 2,
-      "clicks": 0,
-      "cost": 0.0,
-      "conversions": 0.0
-    },
-    {
-      "term": "menlo park dog sitter",
       "impressions": 2,
       "clicks": 0,
       "cost": 0.0,
@@ -1866,12 +1866,12 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 59,
+                "impressions": 62,
                 "clicks": 4,
                 "cost": 9.62,
                 "conversions": 0.0,
                 "conv_value": 0.0,
-                "ctr": 6.8,
+                "ctr": 6.5,
                 "avg_cpc": 2.4,
                 "quality_score": 7
               }
@@ -2019,12 +2019,12 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 59,
+            "impressions": 62,
             "clicks": 4,
             "cost": 9.62,
             "conversions": 0.0,
             "conv_value": 0.0,
-            "ctr": 6.8,
+            "ctr": 6.5,
             "avg_cpc": 2.4
           }
         },
@@ -3636,7 +3636,7 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 4,
+                "impressions": 5,
                 "clicks": 0,
                 "cost": 0.0,
                 "conversions": 0.0,
@@ -3789,7 +3789,7 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 4,
+            "impressions": 5,
             "clicks": 0,
             "cost": 0.0,
             "conversions": 0.0,
@@ -3813,7 +3813,7 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 77,
+                "impressions": 79,
                 "clicks": 1,
                 "cost": 4.14,
                 "conversions": 0.0,
@@ -3966,7 +3966,7 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 77,
+            "impressions": 79,
             "clicks": 1,
             "cost": 4.14,
             "conversions": 0.0,
@@ -20359,12 +20359,12 @@
         }
       ],
       "perf": {
-        "impressions": 572,
+        "impressions": 578,
         "clicks": 29,
         "cost": 99.96,
         "conversions": 1.0,
         "conv_value": 40.0,
-        "ctr": 5.1,
+        "ctr": 5.0,
         "avg_cpc": 3.45,
         "impression_share": 53.7,
         "lost_to_budget": 0.5,

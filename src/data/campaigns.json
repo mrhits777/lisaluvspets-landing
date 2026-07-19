@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-19T08:00:10+00:00",
+  "generated": "2026-07-19T12:00:09+00:00",
   "client": "Lisa Luvs Pets",
   "customer_id": "8268791200",
   "keyword_planner_available": false,
@@ -7,7 +7,7 @@
   "search_terms": [
     {
       "term": "dog walkers near me",
-      "impressions": 21,
+      "impressions": 24,
       "clicks": 0,
       "cost": 0.0,
       "conversions": 0.0
@@ -3813,12 +3813,12 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 74,
+                "impressions": 77,
                 "clicks": 1,
                 "cost": 4.14,
                 "conversions": 0.0,
                 "conv_value": 0.0,
-                "ctr": 1.4,
+                "ctr": 1.3,
                 "avg_cpc": 4.14,
                 "quality_score": null
               }
@@ -3966,12 +3966,12 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 74,
+            "impressions": 77,
             "clicks": 1,
             "cost": 4.14,
             "conversions": 0.0,
             "conv_value": 0.0,
-            "ctr": 1.4,
+            "ctr": 1.3,
             "avg_cpc": 4.14
           }
         },
@@ -20359,14 +20359,14 @@
         }
       ],
       "perf": {
-        "impressions": 569,
+        "impressions": 572,
         "clicks": 29,
         "cost": 99.96,
         "conversions": 1.0,
         "conv_value": 40.0,
         "ctr": 5.1,
         "avg_cpc": 3.45,
-        "impression_share": 53.6,
+        "impression_share": 53.7,
         "lost_to_budget": 0.5,
         "lost_to_rank": 45.9
       }

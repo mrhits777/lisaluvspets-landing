@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-18T20:00:11+00:00",
+  "generated": "2026-07-19T00:00:11+00:00",
   "client": "Lisa Luvs Pets",
   "customer_id": "8268791200",
   "keyword_planner_available": false,
@@ -62,6 +62,20 @@
       "conversions": 0.0
     },
     {
+      "term": "dog sitters near me",
+      "impressions": 6,
+      "clicks": 0,
+      "cost": 0.0,
+      "conversions": 0.0
+    },
+    {
+      "term": "dog sitting",
+      "impressions": 6,
+      "clicks": 0,
+      "cost": 0.0,
+      "conversions": 0.0
+    },
+    {
       "term": "cat sitter",
       "impressions": 6,
       "clicks": 1,
@@ -104,13 +118,6 @@
       "conversions": 0.0
     },
     {
-      "term": "dog sitters near me",
-      "impressions": 5,
-      "clicks": 0,
-      "cost": 0.0,
-      "conversions": 0.0
-    },
-    {
       "term": "dog walking half moon bay",
       "impressions": 5,
       "clicks": 0,
@@ -126,13 +133,6 @@
     },
     {
       "term": "group dog walking near me",
-      "impressions": 4,
-      "clicks": 0,
-      "cost": 0.0,
-      "conversions": 0.0
-    },
-    {
-      "term": "dog sitting",
       "impressions": 4,
       "clicks": 0,
       "cost": 0.0,
@@ -157,6 +157,13 @@
       "impressions": 3,
       "clicks": 1,
       "cost": 4.49,
+      "conversions": 0.0
+    },
+    {
+      "term": "pet sitting needed near me",
+      "impressions": 3,
+      "clicks": 0,
+      "cost": 0.0,
       "conversions": 0.0
     },
     {
@@ -231,6 +238,13 @@
     },
     {
       "term": "at home dog boarding near me",
+      "impressions": 2,
+      "clicks": 0,
+      "cost": 0.0,
+      "conversions": 0.0
+    },
+    {
+      "term": "dog sitters near me",
       "impressions": 2,
       "clicks": 0,
       "cost": 0.0,
@@ -406,20 +420,6 @@
     },
     {
       "term": "cat sitter burlingame",
-      "impressions": 2,
-      "clicks": 0,
-      "cost": 0.0,
-      "conversions": 0.0
-    },
-    {
-      "term": "dog sitter san mateo",
-      "impressions": 2,
-      "clicks": 0,
-      "cost": 0.0,
-      "conversions": 0.0
-    },
-    {
-      "term": "doggy day care redwood city",
       "impressions": 2,
       "clicks": 0,
       "cost": 0.0,
@@ -1866,12 +1866,12 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 53,
+                "impressions": 57,
                 "clicks": 4,
                 "cost": 9.62,
                 "conversions": 0.0,
                 "conv_value": 0.0,
-                "ctr": 7.5,
+                "ctr": 7.0,
                 "avg_cpc": 2.4,
                 "quality_score": 7
               }
@@ -2019,12 +2019,12 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 53,
+            "impressions": 57,
             "clicks": 4,
             "cost": 9.62,
             "conversions": 0.0,
             "conv_value": 0.0,
-            "ctr": 7.5,
+            "ctr": 7.0,
             "avg_cpc": 2.4
           }
         },
@@ -3105,7 +3105,7 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 0,
+                "impressions": 1,
                 "clicks": 0,
                 "cost": 0.0,
                 "conversions": 0.0,
@@ -3258,7 +3258,7 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 0,
+            "impressions": 1,
             "clicks": 0,
             "cost": 0.0,
             "conversions": 0.0,
@@ -3990,12 +3990,12 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 61,
+                "impressions": 65,
                 "clicks": 3,
                 "cost": 10.61,
                 "conversions": 0.0,
                 "conv_value": 0.0,
-                "ctr": 4.9,
+                "ctr": 4.6,
                 "avg_cpc": 3.54,
                 "quality_score": null
               }
@@ -4143,12 +4143,12 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 61,
+            "impressions": 65,
             "clicks": 3,
             "cost": 10.61,
             "conversions": 0.0,
             "conv_value": 0.0,
-            "ctr": 4.9,
+            "ctr": 4.6,
             "avg_cpc": 3.54
           }
         },
@@ -4344,12 +4344,12 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 4,
+                "impressions": 5,
                 "clicks": 1,
                 "cost": 4.48,
                 "conversions": 0.0,
                 "conv_value": 0.0,
-                "ctr": 25.0,
+                "ctr": 20.0,
                 "avg_cpc": 4.48,
                 "quality_score": 7
               }
@@ -4497,12 +4497,12 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 4,
+            "impressions": 5,
             "clicks": 1,
             "cost": 4.48,
             "conversions": 0.0,
             "conv_value": 0.0,
-            "ctr": 25.0,
+            "ctr": 20.0,
             "avg_cpc": 4.48
           }
         },
@@ -16557,7 +16557,7 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 5,
+                "impressions": 6,
                 "clicks": 0,
                 "cost": 0.0,
                 "conversions": 0.0,
@@ -16710,7 +16710,7 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 5,
+            "impressions": 6,
             "clicks": 0,
             "cost": 0.0,
             "conversions": 0.0,
@@ -20359,16 +20359,16 @@
         }
       ],
       "perf": {
-        "impressions": 550,
+        "impressions": 561,
         "clicks": 28,
         "cost": 95.79,
         "conversions": 1.0,
         "conv_value": 40.0,
-        "ctr": 5.1,
+        "ctr": 5.0,
         "avg_cpc": 3.42,
-        "impression_share": 53.8,
+        "impression_share": 54.1,
         "lost_to_budget": 0.5,
-        "lost_to_rank": 45.7
+        "lost_to_rank": 45.5
       }
     }
   ]

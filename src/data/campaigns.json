@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-20T04:00:09+00:00",
+  "generated": "2026-07-20T08:00:10+00:00",
   "client": "Lisa Luvs Pets",
   "customer_id": "8268791200",
   "keyword_planner_available": false,
@@ -42,7 +42,7 @@
     },
     {
       "term": "dog walker near me",
-      "impressions": 7,
+      "impressions": 8,
       "clicks": 0,
       "cost": 0.0,
       "conversions": 0.0
@@ -1873,7 +1873,7 @@
                 "conv_value": 0.0,
                 "ctr": 5.9,
                 "avg_cpc": 2.4,
-                "quality_score": 7
+                "quality_score": 3
               }
             }
           ],
@@ -3813,7 +3813,7 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 82,
+                "impressions": 83,
                 "clicks": 1,
                 "cost": 4.14,
                 "conversions": 0.0,
@@ -3966,7 +3966,7 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 82,
+            "impressions": 83,
             "clicks": 1,
             "cost": 4.14,
             "conversions": 0.0,
@@ -7707,12 +7707,12 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 14,
+                "impressions": 18,
                 "clicks": 3,
                 "cost": 8.81,
                 "conversions": 0.0,
                 "conv_value": 0.0,
-                "ctr": 21.4,
+                "ctr": 16.7,
                 "avg_cpc": 2.94,
                 "quality_score": null
               }
@@ -7860,12 +7860,12 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 14,
+            "impressions": 18,
             "clicks": 3,
             "cost": 8.81,
             "conversions": 0.0,
             "conv_value": 0.0,
-            "ctr": 21.4,
+            "ctr": 16.7,
             "avg_cpc": 2.94
           }
         },
@@ -20359,16 +20359,16 @@
         }
       ],
       "perf": {
-        "impressions": 614,
+        "impressions": 619,
         "clicks": 30,
         "cost": 104.29,
         "conversions": 1.0,
         "conv_value": 40.0,
-        "ctr": 4.9,
+        "ctr": 4.8,
         "avg_cpc": 3.48,
         "impression_share": 54.1,
         "lost_to_budget": 0.4,
-        "lost_to_rank": 45.4
+        "lost_to_rank": 45.5
       }
     }
   ]

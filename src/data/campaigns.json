@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-20T00:00:12+00:00",
+  "generated": "2026-07-20T04:00:09+00:00",
   "client": "Lisa Luvs Pets",
   "customer_id": "8268791200",
   "keyword_planner_available": false,
@@ -7,14 +7,14 @@
   "search_terms": [
     {
       "term": "dog walkers near me",
-      "impressions": 24,
+      "impressions": 25,
       "clicks": 0,
       "cost": 0.0,
       "conversions": 0.0
     },
     {
       "term": "pet sitter near me",
-      "impressions": 17,
+      "impressions": 18,
       "clicks": 1,
       "cost": 1.24,
       "conversions": 0.0
@@ -1866,12 +1866,12 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 66,
+                "impressions": 68,
                 "clicks": 4,
                 "cost": 9.62,
                 "conversions": 0.0,
                 "conv_value": 0.0,
-                "ctr": 6.1,
+                "ctr": 5.9,
                 "avg_cpc": 2.4,
                 "quality_score": 7
               }
@@ -2019,12 +2019,12 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 66,
+            "impressions": 68,
             "clicks": 4,
             "cost": 9.62,
             "conversions": 0.0,
             "conv_value": 0.0,
-            "ctr": 6.1,
+            "ctr": 5.9,
             "avg_cpc": 2.4
           }
         },
@@ -3813,7 +3813,7 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 81,
+                "impressions": 82,
                 "clicks": 1,
                 "cost": 4.14,
                 "conversions": 0.0,
@@ -3966,7 +3966,7 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 81,
+            "impressions": 82,
             "clicks": 1,
             "cost": 4.14,
             "conversions": 0.0,
@@ -5406,7 +5406,7 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 8,
+                "impressions": 9,
                 "clicks": 0,
                 "cost": 0.0,
                 "conversions": 0.0,
@@ -5559,7 +5559,7 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 8,
+            "impressions": 9,
             "clicks": 0,
             "cost": 0.0,
             "conversions": 0.0,
@@ -7353,7 +7353,7 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 19,
+                "impressions": 21,
                 "clicks": 0,
                 "cost": 0.0,
                 "conversions": 0.0,
@@ -7506,7 +7506,7 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 19,
+            "impressions": 21,
             "clicks": 0,
             "cost": 0.0,
             "conversions": 0.0,
@@ -7707,12 +7707,12 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 10,
+                "impressions": 14,
                 "clicks": 3,
                 "cost": 8.81,
                 "conversions": 0.0,
                 "conv_value": 0.0,
-                "ctr": 30.0,
+                "ctr": 21.4,
                 "avg_cpc": 2.94,
                 "quality_score": null
               }
@@ -7860,12 +7860,12 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 10,
+            "impressions": 14,
             "clicks": 3,
             "cost": 8.81,
             "conversions": 0.0,
             "conv_value": 0.0,
-            "ctr": 30.0,
+            "ctr": 21.4,
             "avg_cpc": 2.94
           }
         },
@@ -9831,12 +9831,12 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 21,
+                "impressions": 24,
                 "clicks": 2,
                 "cost": 6.36,
                 "conversions": 0.0,
                 "conv_value": 0.0,
-                "ctr": 9.5,
+                "ctr": 8.3,
                 "avg_cpc": 3.18,
                 "quality_score": 7
               }
@@ -9984,12 +9984,12 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 21,
+            "impressions": 24,
             "clicks": 2,
             "cost": 6.36,
             "conversions": 0.0,
             "conv_value": 0.0,
-            "ctr": 9.5,
+            "ctr": 8.3,
             "avg_cpc": 3.18
           }
         },
@@ -13194,12 +13194,12 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 9,
+                "impressions": 10,
                 "clicks": 1,
                 "cost": 4.48,
                 "conversions": 0.0,
                 "conv_value": 0.0,
-                "ctr": 11.1,
+                "ctr": 10.0,
                 "avg_cpc": 4.48,
                 "quality_score": 8
               }
@@ -13347,12 +13347,12 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 9,
+            "impressions": 10,
             "clicks": 1,
             "cost": 4.48,
             "conversions": 0.0,
             "conv_value": 0.0,
-            "ctr": 11.1,
+            "ctr": 10.0,
             "avg_cpc": 4.48
           }
         },
@@ -16380,7 +16380,7 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 8,
+                "impressions": 9,
                 "clicks": 0,
                 "cost": 0.0,
                 "conversions": 0.0,
@@ -16473,6 +16473,183 @@
               },
               {
                 "text": "Dog Sitter Redwood City",
+                "pinned": true
+              },
+              {
+                "text": "Hi, I'm Lisa",
+                "pinned": false
+              },
+              {
+                "text": "One Person, Just Lisa",
+                "pinned": false
+              },
+              {
+                "text": "I Treat Pets Like My Own",
+                "pinned": false
+              },
+              {
+                "text": "A Person, Not an App",
+                "pinned": false
+              },
+              {
+                "text": "Same Face Every Visit",
+                "pinned": false
+              },
+              {
+                "text": "Your Pet Stays Home",
+                "pinned": false
+              },
+              {
+                "text": "Trusted Local Care",
+                "pinned": false
+              },
+              {
+                "text": "5-Star Peninsula Care",
+                "pinned": false
+              },
+              {
+                "text": "Photos After Every Visit",
+                "pinned": false
+              },
+              {
+                "text": "Text or Call Lisa Today",
+                "pinned": false
+              },
+              {
+                "text": "Book a Free Meet & Greet",
+                "pinned": false
+              },
+              {
+                "text": "Meet Lisa, Then Decide",
+                "pinned": false
+              }
+            ],
+            "descriptions": [
+              "Hi, I'm Lisa, your local pet sitter. Your pet stays home; I come to them.",
+              "Not an app, just me caring for your dog or cat like my own. Book a free meet & greet!",
+              "Feeding, meds, playtime and photos after every visit. One trusted person: Lisa. Text me!",
+              "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
+            ]
+          },
+          "copy_pending": false,
+          "perf": {
+            "impressions": 9,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
+        },
+        {
+          "id": "201034774551",
+          "name": "pet sitting menlo park",
+          "status": "ENABLED",
+          "final_url": "https://go.lisaluvspets.com/pet-sitting/menlo-park",
+          "keywords": [
+            {
+              "text": "pet sitting menlo park",
+              "match": "PHRASE",
+              "words": 4,
+              "status": "ENABLED",
+              "volume": null,
+              "cpc_low": null,
+              "cpc_high": null,
+              "perf": {
+                "impressions": 8,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": null
+              }
+            }
+          ],
+          "ad": {
+            "headlines": [
+              {
+                "text": "Pet Sitting",
+                "pinned": true
+              },
+              {
+                "text": "Menlo Park Pet Sitting",
+                "pinned": true
+              },
+              {
+                "text": "Pet Sitting Menlo Park",
+                "pinned": true
+              },
+              {
+                "text": "Hi, I'm Lisa",
+                "pinned": false
+              },
+              {
+                "text": "One Person, Just Lisa",
+                "pinned": false
+              },
+              {
+                "text": "I Treat Pets Like My Own",
+                "pinned": false
+              },
+              {
+                "text": "A Person, Not an App",
+                "pinned": false
+              },
+              {
+                "text": "Same Face Every Visit",
+                "pinned": false
+              },
+              {
+                "text": "Your Pet Stays Home",
+                "pinned": false
+              },
+              {
+                "text": "Trusted Local Care",
+                "pinned": false
+              },
+              {
+                "text": "5-Star Peninsula Care",
+                "pinned": false
+              },
+              {
+                "text": "Photos After Every Visit",
+                "pinned": false
+              },
+              {
+                "text": "Text or Call Lisa Today",
+                "pinned": false
+              },
+              {
+                "text": "Book a Free Meet & Greet",
+                "pinned": false
+              },
+              {
+                "text": "Meet Lisa, Then Decide",
+                "pinned": false
+              }
+            ],
+            "descriptions": [
+              "Hi, I'm Lisa, your local pet sitter. Your pet stays home; I come to them.",
+              "Not an app, just me caring for your dog or cat like my own. Book a free meet & greet!",
+              "Feeding, meds, playtime and photos after every visit. One trusted person: Lisa. Text me!",
+              "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
+            ]
+          },
+          "planned_ad": {
+            "headlines": [
+              {
+                "text": "Pet Sitting",
+                "pinned": true
+              },
+              {
+                "text": "Menlo Park Pet Sitting",
+                "pinned": true
+              },
+              {
+                "text": "Pet Sitting Menlo Park",
                 "pinned": true
               },
               {
@@ -16534,183 +16711,6 @@
           "copy_pending": false,
           "perf": {
             "impressions": 8,
-            "clicks": 0,
-            "cost": 0.0,
-            "conversions": 0.0,
-            "conv_value": 0.0,
-            "ctr": 0.0,
-            "avg_cpc": 0.0
-          }
-        },
-        {
-          "id": "201034774551",
-          "name": "pet sitting menlo park",
-          "status": "ENABLED",
-          "final_url": "https://go.lisaluvspets.com/pet-sitting/menlo-park",
-          "keywords": [
-            {
-              "text": "pet sitting menlo park",
-              "match": "PHRASE",
-              "words": 4,
-              "status": "ENABLED",
-              "volume": null,
-              "cpc_low": null,
-              "cpc_high": null,
-              "perf": {
-                "impressions": 6,
-                "clicks": 0,
-                "cost": 0.0,
-                "conversions": 0.0,
-                "conv_value": 0.0,
-                "ctr": 0.0,
-                "avg_cpc": 0.0,
-                "quality_score": null
-              }
-            }
-          ],
-          "ad": {
-            "headlines": [
-              {
-                "text": "Pet Sitting",
-                "pinned": true
-              },
-              {
-                "text": "Menlo Park Pet Sitting",
-                "pinned": true
-              },
-              {
-                "text": "Pet Sitting Menlo Park",
-                "pinned": true
-              },
-              {
-                "text": "Hi, I'm Lisa",
-                "pinned": false
-              },
-              {
-                "text": "One Person, Just Lisa",
-                "pinned": false
-              },
-              {
-                "text": "I Treat Pets Like My Own",
-                "pinned": false
-              },
-              {
-                "text": "A Person, Not an App",
-                "pinned": false
-              },
-              {
-                "text": "Same Face Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Your Pet Stays Home",
-                "pinned": false
-              },
-              {
-                "text": "Trusted Local Care",
-                "pinned": false
-              },
-              {
-                "text": "5-Star Peninsula Care",
-                "pinned": false
-              },
-              {
-                "text": "Photos After Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Text or Call Lisa Today",
-                "pinned": false
-              },
-              {
-                "text": "Book a Free Meet & Greet",
-                "pinned": false
-              },
-              {
-                "text": "Meet Lisa, Then Decide",
-                "pinned": false
-              }
-            ],
-            "descriptions": [
-              "Hi, I'm Lisa, your local pet sitter. Your pet stays home; I come to them.",
-              "Not an app, just me caring for your dog or cat like my own. Book a free meet & greet!",
-              "Feeding, meds, playtime and photos after every visit. One trusted person: Lisa. Text me!",
-              "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
-            ]
-          },
-          "planned_ad": {
-            "headlines": [
-              {
-                "text": "Pet Sitting",
-                "pinned": true
-              },
-              {
-                "text": "Menlo Park Pet Sitting",
-                "pinned": true
-              },
-              {
-                "text": "Pet Sitting Menlo Park",
-                "pinned": true
-              },
-              {
-                "text": "Hi, I'm Lisa",
-                "pinned": false
-              },
-              {
-                "text": "One Person, Just Lisa",
-                "pinned": false
-              },
-              {
-                "text": "I Treat Pets Like My Own",
-                "pinned": false
-              },
-              {
-                "text": "A Person, Not an App",
-                "pinned": false
-              },
-              {
-                "text": "Same Face Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Your Pet Stays Home",
-                "pinned": false
-              },
-              {
-                "text": "Trusted Local Care",
-                "pinned": false
-              },
-              {
-                "text": "5-Star Peninsula Care",
-                "pinned": false
-              },
-              {
-                "text": "Photos After Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Text or Call Lisa Today",
-                "pinned": false
-              },
-              {
-                "text": "Book a Free Meet & Greet",
-                "pinned": false
-              },
-              {
-                "text": "Meet Lisa, Then Decide",
-                "pinned": false
-              }
-            ],
-            "descriptions": [
-              "Hi, I'm Lisa, your local pet sitter. Your pet stays home; I come to them.",
-              "Not an app, just me caring for your dog or cat like my own. Book a free meet & greet!",
-              "Feeding, meds, playtime and photos after every visit. One trusted person: Lisa. Text me!",
-              "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
-            ]
-          },
-          "copy_pending": false,
-          "perf": {
-            "impressions": 6,
             "clicks": 0,
             "cost": 0.0,
             "conversions": 0.0,
@@ -20359,12 +20359,12 @@
         }
       ],
       "perf": {
-        "impressions": 597,
+        "impressions": 614,
         "clicks": 30,
         "cost": 104.29,
         "conversions": 1.0,
         "conv_value": 40.0,
-        "ctr": 5.0,
+        "ctr": 4.9,
         "avg_cpc": 3.48,
         "impression_share": 54.1,
         "lost_to_budget": 0.4,

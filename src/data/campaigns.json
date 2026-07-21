@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-21T12:00:10+00:00",
+  "generated": "2026-07-21T16:00:11+00:00",
   "client": "Lisa Luvs Pets",
   "customer_id": "8268791200",
   "keyword_planner_available": false,
@@ -146,6 +146,13 @@
       "conversions": 0.0
     },
     {
+      "term": "dog sitter near me",
+      "impressions": 4,
+      "clicks": 1,
+      "cost": 1.92,
+      "conversions": 0.0
+    },
+    {
       "term": "dog walking redwood city",
       "impressions": 4,
       "clicks": 0,
@@ -209,10 +216,10 @@
       "conversions": 0.0
     },
     {
-      "term": "dog sitter near me",
+      "term": "dog watcher near me",
       "impressions": 3,
-      "clicks": 1,
-      "cost": 1.92,
+      "clicks": 0,
+      "cost": 0.0,
       "conversions": 0.0
     },
     {
@@ -413,13 +420,6 @@
     },
     {
       "term": "house sitter for dogs near me",
-      "impressions": 2,
-      "clicks": 0,
-      "cost": 0.0,
-      "conversions": 0.0
-    },
-    {
-      "term": "in home dog sitter near me",
       "impressions": 2,
       "clicks": 0,
       "cost": 0.0,
@@ -2043,7 +2043,7 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 25,
+                "impressions": 26,
                 "clicks": 0,
                 "cost": 0.0,
                 "conversions": 0.0,
@@ -2196,7 +2196,7 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 25,
+            "impressions": 26,
             "clicks": 0,
             "cost": 0.0,
             "conversions": 0.0,
@@ -3990,12 +3990,12 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 74,
+                "impressions": 77,
                 "clicks": 4,
                 "cost": 15.06,
                 "conversions": 0.0,
                 "conv_value": 0.0,
-                "ctr": 5.4,
+                "ctr": 5.2,
                 "avg_cpc": 3.77,
                 "quality_score": null
               }
@@ -4143,12 +4143,12 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 74,
+            "impressions": 77,
             "clicks": 4,
             "cost": 15.06,
             "conversions": 0.0,
             "conv_value": 0.0,
-            "ctr": 5.4,
+            "ctr": 5.2,
             "avg_cpc": 3.77
           }
         },
@@ -20359,16 +20359,16 @@
         }
       ],
       "perf": {
-        "impressions": 671,
+        "impressions": 675,
         "clicks": 36,
         "cost": 127.28,
         "conversions": 1.0,
         "conv_value": 40.0,
-        "ctr": 5.4,
+        "ctr": 5.3,
         "avg_cpc": 3.54,
-        "impression_share": 53.5,
+        "impression_share": 52.9,
         "lost_to_budget": 0.6,
-        "lost_to_rank": 45.9
+        "lost_to_rank": 46.5
       }
     }
   ]

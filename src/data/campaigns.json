@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-23T08:00:12+00:00",
+  "generated": "2026-07-23T12:00:10+00:00",
   "client": "Lisa Luvs Pets",
   "customer_id": "8268791200",
   "keyword_planner_available": false,
@@ -55,6 +55,13 @@
       "conversions": 0.0
     },
     {
+      "term": "pet sitter",
+      "impressions": 10,
+      "clicks": 0,
+      "cost": 0.0,
+      "conversions": 0.0
+    },
+    {
       "term": "cat sitter",
       "impressions": 10,
       "clicks": 1,
@@ -64,13 +71,6 @@
     {
       "term": "dog boarding redwood city",
       "impressions": 9,
-      "clicks": 0,
-      "cost": 0.0,
-      "conversions": 0.0
-    },
-    {
-      "term": "pet sitter",
-      "impressions": 8,
       "clicks": 0,
       "cost": 0.0,
       "conversions": 0.0
@@ -1866,12 +1866,12 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 88,
+                "impressions": 90,
                 "clicks": 6,
                 "cost": 17.97,
                 "conversions": 0.0,
                 "conv_value": 0.0,
-                "ctr": 6.8,
+                "ctr": 6.7,
                 "avg_cpc": 3.0,
                 "quality_score": 3
               }
@@ -2019,12 +2019,12 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 88,
+            "impressions": 90,
             "clicks": 6,
             "cost": 17.97,
             "conversions": 0.0,
             "conv_value": 0.0,
-            "ctr": 6.8,
+            "ctr": 6.7,
             "avg_cpc": 3.0
           }
         },
@@ -20359,16 +20359,16 @@
         }
       ],
       "perf": {
-        "impressions": 797,
+        "impressions": 799,
         "clicks": 44,
         "cost": 156.02,
         "conversions": 2.0,
         "conv_value": 80.0,
         "ctr": 5.5,
         "avg_cpc": 3.55,
-        "impression_share": 52.8,
+        "impression_share": 52.7,
         "lost_to_budget": 0.5,
-        "lost_to_rank": 46.7
+        "lost_to_rank": 46.8
       }
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-24T08:00:10+00:00",
+  "generated": "2026-07-24T12:00:11+00:00",
   "client": "Lisa Luvs Pets",
   "customer_id": "8268791200",
   "keyword_planner_available": false,
@@ -3997,7 +3997,7 @@
                 "conv_value": 0.0,
                 "ctr": 4.8,
                 "avg_cpc": 3.34,
-                "quality_score": 6
+                "quality_score": 4
               }
             }
           ],
@@ -14086,7 +14086,7 @@
                 "conv_value": 0.0,
                 "ctr": 9.1,
                 "avg_cpc": 1.82,
-                "quality_score": null
+                "quality_score": 7
               }
             }
           ],

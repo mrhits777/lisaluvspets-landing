@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-25T08:00:10+00:00",
+  "generated": "2026-07-25T12:00:11+00:00",
   "client": "Lisa Luvs Pets",
   "customer_id": "8268791200",
   "keyword_planner_available": false,
@@ -4344,12 +4344,12 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 5,
+                "impressions": 6,
                 "clicks": 1,
                 "cost": 4.48,
                 "conversions": 0.0,
                 "conv_value": 0.0,
-                "ctr": 20.0,
+                "ctr": 16.7,
                 "avg_cpc": 4.48,
                 "quality_score": 7
               }
@@ -4497,12 +4497,12 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 5,
+            "impressions": 6,
             "clicks": 1,
             "cost": 4.48,
             "conversions": 0.0,
             "conv_value": 0.0,
-            "ctr": 20.0,
+            "ctr": 16.7,
             "avg_cpc": 4.48
           }
         },
@@ -4521,13 +4521,13 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 9,
-                "clicks": 0,
-                "cost": 0.0,
+                "impressions": 11,
+                "clicks": 1,
+                "cost": 4.34,
                 "conversions": 0.0,
                 "conv_value": 0.0,
-                "ctr": 0.0,
-                "avg_cpc": 0.0,
+                "ctr": 9.1,
+                "avg_cpc": 4.34,
                 "quality_score": 8
               }
             }
@@ -4674,13 +4674,13 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 9,
-            "clicks": 0,
-            "cost": 0.0,
+            "impressions": 11,
+            "clicks": 1,
+            "cost": 4.34,
             "conversions": 0.0,
             "conv_value": 0.0,
-            "ctr": 0.0,
-            "avg_cpc": 0.0
+            "ctr": 9.1,
+            "avg_cpc": 4.34
           }
         },
         {
@@ -20359,16 +20359,16 @@
         }
       ],
       "perf": {
-        "impressions": 926,
-        "clicks": 48,
-        "cost": 173.8,
+        "impressions": 929,
+        "clicks": 49,
+        "cost": 178.14,
         "conversions": 2.0,
         "conv_value": 80.0,
-        "ctr": 5.2,
-        "avg_cpc": 3.62,
-        "impression_share": 54.6,
+        "ctr": 5.3,
+        "avg_cpc": 3.64,
+        "impression_share": 55.6,
         "lost_to_budget": 0.4,
-        "lost_to_rank": 45.0
+        "lost_to_rank": 44.0
       }
     }
   ]

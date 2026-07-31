@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-31T08:00:09+00:00",
+  "generated": "2026-07-31T16:00:11+00:00",
   "client": "Lisa Luvs Pets",
   "customer_id": "8268791200",
   "keyword_planner_available": false,
@@ -12840,7 +12840,7 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 45,
+                "impressions": 46,
                 "clicks": 1,
                 "cost": 4.33,
                 "conversions": 0.0,
@@ -12993,7 +12993,7 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 45,
+            "impressions": 46,
             "clicks": 1,
             "cost": 4.33,
             "conversions": 0.0,
@@ -18681,12 +18681,12 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 30,
+                "impressions": 32,
                 "clicks": 2,
                 "cost": 8.92,
                 "conversions": 0.0,
                 "conv_value": 0.0,
-                "ctr": 6.7,
+                "ctr": 6.2,
                 "avg_cpc": 4.46,
                 "quality_score": null
               }
@@ -18834,12 +18834,12 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 30,
+            "impressions": 32,
             "clicks": 2,
             "cost": 8.92,
             "conversions": 0.0,
             "conv_value": 0.0,
-            "ctr": 6.7,
+            "ctr": 6.2,
             "avg_cpc": 4.46
           }
         },
@@ -20375,16 +20375,16 @@
         }
       ],
       "perf": {
-        "impressions": 1141,
+        "impressions": 1144,
         "clicks": 67,
         "cost": 249.18,
         "conversions": 4.0,
         "conv_value": 160.0,
         "ctr": 5.9,
         "avg_cpc": 3.72,
-        "impression_share": 59.0,
+        "impression_share": 59.2,
         "lost_to_budget": 0.5,
-        "lost_to_rank": 40.5
+        "lost_to_rank": 40.3
       }
     }
   ]

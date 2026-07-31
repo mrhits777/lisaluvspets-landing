@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-31T16:00:11+00:00",
+  "generated": "2026-07-31T20:00:11+00:00",
   "client": "Lisa Luvs Pets",
   "customer_id": "8268791200",
   "keyword_planner_available": false,
@@ -125,6 +125,13 @@
       "conversions": 0.0
     },
     {
+      "term": "dog sitter san mateo",
+      "impressions": 7,
+      "clicks": 0,
+      "cost": 0.0,
+      "conversions": 0.0
+    },
+    {
       "term": "pet sitters near me",
       "impressions": 6,
       "clicks": 1,
@@ -181,13 +188,6 @@
       "conversions": 0.0
     },
     {
-      "term": "dog sitter san mateo",
-      "impressions": 4,
-      "clicks": 0,
-      "cost": 0.0,
-      "conversions": 0.0
-    },
-    {
       "term": "dog walkers burlingame ca",
       "impressions": 4,
       "clicks": 0,
@@ -238,6 +238,20 @@
     },
     {
       "term": "cat sitter san mateo",
+      "impressions": 3,
+      "clicks": 0,
+      "cost": 0.0,
+      "conversions": 0.0
+    },
+    {
+      "term": "smilin dogs san carlos",
+      "impressions": 3,
+      "clicks": 0,
+      "cost": 0.0,
+      "conversions": 0.0
+    },
+    {
+      "term": "smilin dogs san carlos",
       "impressions": 3,
       "clicks": 0,
       "cost": 0.0,
@@ -406,20 +420,6 @@
     },
     {
       "term": "pet sitter san mateo",
-      "impressions": 2,
-      "clicks": 0,
-      "cost": 0.0,
-      "conversions": 0.0
-    },
-    {
-      "term": "smilin dogs san carlos",
-      "impressions": 2,
-      "clicks": 0,
-      "cost": 0.0,
-      "conversions": 0.0
-    },
-    {
-      "term": "smilin dogs san carlos",
       "impressions": 2,
       "clicks": 0,
       "cost": 0.0,
@@ -3105,7 +3105,7 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 8,
+                "impressions": 9,
                 "clicks": 0,
                 "cost": 0.0,
                 "conversions": 0.0,
@@ -3258,7 +3258,7 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 8,
+            "impressions": 9,
             "clicks": 0,
             "cost": 0.0,
             "conversions": 0.0,
@@ -3282,12 +3282,12 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 11,
+                "impressions": 13,
                 "clicks": 1,
                 "cost": 4.46,
                 "conversions": 0.0,
                 "conv_value": 0.0,
-                "ctr": 9.1,
+                "ctr": 7.7,
                 "avg_cpc": 4.46,
                 "quality_score": null
               }
@@ -3435,12 +3435,12 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 11,
+            "impressions": 13,
             "clicks": 1,
             "cost": 4.46,
             "conversions": 0.0,
             "conv_value": 0.0,
-            "ctr": 9.1,
+            "ctr": 7.7,
             "avg_cpc": 4.46
           }
         },
@@ -3459,7 +3459,7 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 39,
+                "impressions": 40,
                 "clicks": 0,
                 "cost": 0.0,
                 "conversions": 0.0,
@@ -3612,7 +3612,7 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 39,
+            "impressions": 40,
             "clicks": 0,
             "cost": 0.0,
             "conversions": 0.0,
@@ -3636,12 +3636,12 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 18,
+                "impressions": 19,
                 "clicks": 2,
                 "cost": 8.58,
                 "conversions": 0.0,
                 "conv_value": 0.0,
-                "ctr": 11.1,
+                "ctr": 10.5,
                 "avg_cpc": 4.29,
                 "quality_score": null
               }
@@ -3789,12 +3789,12 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 18,
+            "impressions": 19,
             "clicks": 2,
             "cost": 8.58,
             "conversions": 0.0,
             "conv_value": 0.0,
-            "ctr": 11.1,
+            "ctr": 10.5,
             "avg_cpc": 4.29
           }
         },
@@ -12132,12 +12132,12 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 15,
+                "impressions": 18,
                 "clicks": 2,
                 "cost": 6.78,
                 "conversions": 0.0,
                 "conv_value": 0.0,
-                "ctr": 13.3,
+                "ctr": 11.1,
                 "avg_cpc": 3.39,
                 "quality_score": 7
               }
@@ -12285,12 +12285,12 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 15,
+            "impressions": 18,
             "clicks": 2,
             "cost": 6.78,
             "conversions": 0.0,
             "conv_value": 0.0,
-            "ctr": 13.3,
+            "ctr": 11.1,
             "avg_cpc": 3.39
           }
         },
@@ -12474,7 +12474,7 @@
         {
           "id": "200864643529",
           "name": "cat sitter san mateo",
-          "status": "PAUSED",
+          "status": "ENABLED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/san-mateo",
           "keywords": [
             {
@@ -20338,6 +20338,10 @@
           "match": "BROAD"
         },
         {
+          "text": "gigs",
+          "match": "BROAD"
+        },
+        {
           "text": "grooming",
           "match": "BROAD"
         },
@@ -20375,12 +20379,12 @@
         }
       ],
       "perf": {
-        "impressions": 1144,
+        "impressions": 1152,
         "clicks": 67,
         "cost": 249.18,
         "conversions": 4.0,
         "conv_value": 160.0,
-        "ctr": 5.9,
+        "ctr": 5.8,
         "avg_cpc": 3.72,
         "impression_share": 59.2,
         "lost_to_budget": 0.5,

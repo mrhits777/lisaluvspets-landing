@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-30T20:00:12+00:00",
+  "generated": "2026-07-31T00:00:12+00:00",
   "client": "Lisa Luvs Pets",
   "customer_id": "8268791200",
   "keyword_planner_available": false,
@@ -2574,7 +2574,7 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 6,
+                "impressions": 7,
                 "clicks": 0,
                 "cost": 0.0,
                 "conversions": 0.0,
@@ -2727,7 +2727,7 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 6,
+            "impressions": 7,
             "clicks": 0,
             "cost": 0.0,
             "conversions": 0.0,
@@ -7707,12 +7707,12 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 43,
+                "impressions": 45,
                 "clicks": 3,
                 "cost": 8.81,
                 "conversions": 0.0,
                 "conv_value": 0.0,
-                "ctr": 7.0,
+                "ctr": 6.7,
                 "avg_cpc": 2.94,
                 "quality_score": 6
               }
@@ -7860,12 +7860,12 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 43,
+            "impressions": 45,
             "clicks": 3,
             "cost": 8.81,
             "conversions": 0.0,
             "conv_value": 0.0,
-            "ctr": 7.0,
+            "ctr": 6.7,
             "avg_cpc": 2.94
           }
         },
@@ -15495,12 +15495,12 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 10,
+                "impressions": 11,
                 "clicks": 1,
                 "cost": 4.61,
                 "conversions": 0.0,
                 "conv_value": 0.0,
-                "ctr": 10.0,
+                "ctr": 9.1,
                 "avg_cpc": 4.61,
                 "quality_score": null
               }
@@ -15648,12 +15648,12 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 10,
+            "impressions": 11,
             "clicks": 1,
             "cost": 4.61,
             "conversions": 0.0,
             "conv_value": 0.0,
-            "ctr": 10.0,
+            "ctr": 9.1,
             "avg_cpc": 4.61
           }
         },
@@ -20375,7 +20375,7 @@
         }
       ],
       "perf": {
-        "impressions": 1121,
+        "impressions": 1125,
         "clicks": 67,
         "cost": 249.18,
         "conversions": 4.0,

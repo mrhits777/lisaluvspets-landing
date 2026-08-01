@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-31T20:00:11+00:00",
+  "generated": "2026-08-01T00:00:10+00:00",
   "client": "Lisa Luvs Pets",
   "customer_id": "8268791200",
   "keyword_planner_available": false,
@@ -615,7 +615,7 @@
         {
           "id": "195107286661",
           "name": "pet sitter woodside",
-          "status": "ENABLED",
+          "status": "PAUSED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/woodside",
           "keywords": [
             {
@@ -708,77 +708,6 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "planned_ad": {
-            "headlines": [
-              {
-                "text": "Pet Sitter",
-                "pinned": true
-              },
-              {
-                "text": "Woodside Pet Sitter",
-                "pinned": true
-              },
-              {
-                "text": "Pet Sitter Woodside",
-                "pinned": true
-              },
-              {
-                "text": "Hi, I'm Lisa",
-                "pinned": false
-              },
-              {
-                "text": "One Person, Just Lisa",
-                "pinned": false
-              },
-              {
-                "text": "I Treat Pets Like My Own",
-                "pinned": false
-              },
-              {
-                "text": "A Person, Not an App",
-                "pinned": false
-              },
-              {
-                "text": "Same Face Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Your Pet Stays Home",
-                "pinned": false
-              },
-              {
-                "text": "Trusted Local Care",
-                "pinned": false
-              },
-              {
-                "text": "5-Star Peninsula Care",
-                "pinned": false
-              },
-              {
-                "text": "Photos After Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Text or Call Lisa Today",
-                "pinned": false
-              },
-              {
-                "text": "Book a Free Meet & Greet",
-                "pinned": false
-              },
-              {
-                "text": "Meet Lisa, Then Decide",
-                "pinned": false
-              }
-            ],
-            "descriptions": [
-              "Hi, I'm Lisa, your local pet sitter. Your pet stays home; I come to them.",
-              "Not an app, just me caring for your dog or cat like my own. Book a free meet & greet!",
-              "Feeding, meds, playtime and photos after every visit. One trusted person: Lisa. Text me!",
-              "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
-            ]
-          },
-          "copy_pending": false,
           "perf": {
             "impressions": 0,
             "clicks": 0,
@@ -792,7 +721,7 @@
         {
           "id": "195107287381",
           "name": "in home pet care woodside",
-          "status": "ENABLED",
+          "status": "PAUSED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/woodside",
           "keywords": [
             {
@@ -885,77 +814,6 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "planned_ad": {
-            "headlines": [
-              {
-                "text": "In Home Pet Care",
-                "pinned": true
-              },
-              {
-                "text": "Woodside In Home Pet Care",
-                "pinned": true
-              },
-              {
-                "text": "In Home Pet Care Woodside",
-                "pinned": true
-              },
-              {
-                "text": "Hi, I'm Lisa",
-                "pinned": false
-              },
-              {
-                "text": "One Person, Just Lisa",
-                "pinned": false
-              },
-              {
-                "text": "I Treat Pets Like My Own",
-                "pinned": false
-              },
-              {
-                "text": "A Person, Not an App",
-                "pinned": false
-              },
-              {
-                "text": "Same Face Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Your Pet Stays Home",
-                "pinned": false
-              },
-              {
-                "text": "Trusted Local Care",
-                "pinned": false
-              },
-              {
-                "text": "5-Star Peninsula Care",
-                "pinned": false
-              },
-              {
-                "text": "Photos After Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Text or Call Lisa Today",
-                "pinned": false
-              },
-              {
-                "text": "Book a Free Meet & Greet",
-                "pinned": false
-              },
-              {
-                "text": "Meet Lisa, Then Decide",
-                "pinned": false
-              }
-            ],
-            "descriptions": [
-              "Hi, I'm Lisa, your local pet sitter. Your pet stays home; I come to them.",
-              "Not an app, just me caring for your dog or cat like my own. Book a free meet & greet!",
-              "Feeding, meds, playtime and photos after every visit. One trusted person: Lisa. Text me!",
-              "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
-            ]
-          },
-          "copy_pending": false,
           "perf": {
             "impressions": 0,
             "clicks": 0,
@@ -969,7 +827,7 @@
         {
           "id": "195107288061",
           "name": "pet sitting woodside",
-          "status": "ENABLED",
+          "status": "PAUSED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/woodside",
           "keywords": [
             {
@@ -1062,77 +920,6 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "planned_ad": {
-            "headlines": [
-              {
-                "text": "Pet Sitting",
-                "pinned": true
-              },
-              {
-                "text": "Woodside Pet Sitting",
-                "pinned": true
-              },
-              {
-                "text": "Pet Sitting Woodside",
-                "pinned": true
-              },
-              {
-                "text": "Hi, I'm Lisa",
-                "pinned": false
-              },
-              {
-                "text": "One Person, Just Lisa",
-                "pinned": false
-              },
-              {
-                "text": "I Treat Pets Like My Own",
-                "pinned": false
-              },
-              {
-                "text": "A Person, Not an App",
-                "pinned": false
-              },
-              {
-                "text": "Same Face Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Your Pet Stays Home",
-                "pinned": false
-              },
-              {
-                "text": "Trusted Local Care",
-                "pinned": false
-              },
-              {
-                "text": "5-Star Peninsula Care",
-                "pinned": false
-              },
-              {
-                "text": "Photos After Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Text or Call Lisa Today",
-                "pinned": false
-              },
-              {
-                "text": "Book a Free Meet & Greet",
-                "pinned": false
-              },
-              {
-                "text": "Meet Lisa, Then Decide",
-                "pinned": false
-              }
-            ],
-            "descriptions": [
-              "Hi, I'm Lisa, your local pet sitter. Your pet stays home; I come to them.",
-              "Not an app, just me caring for your dog or cat like my own. Book a free meet & greet!",
-              "Feeding, meds, playtime and photos after every visit. One trusted person: Lisa. Text me!",
-              "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
-            ]
-          },
-          "copy_pending": false,
           "perf": {
             "impressions": 0,
             "clicks": 0,
@@ -1146,7 +933,7 @@
         {
           "id": "195107291941",
           "name": "house sitter woodside",
-          "status": "ENABLED",
+          "status": "PAUSED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/woodside",
           "keywords": [
             {
@@ -1239,77 +1026,6 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "planned_ad": {
-            "headlines": [
-              {
-                "text": "House Sitter",
-                "pinned": true
-              },
-              {
-                "text": "Woodside House Sitter",
-                "pinned": true
-              },
-              {
-                "text": "House Sitter Woodside",
-                "pinned": true
-              },
-              {
-                "text": "Hi, I'm Lisa",
-                "pinned": false
-              },
-              {
-                "text": "One Person, Just Lisa",
-                "pinned": false
-              },
-              {
-                "text": "I Treat Pets Like My Own",
-                "pinned": false
-              },
-              {
-                "text": "A Person, Not an App",
-                "pinned": false
-              },
-              {
-                "text": "Same Face Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Your Pet Stays Home",
-                "pinned": false
-              },
-              {
-                "text": "Trusted Local Care",
-                "pinned": false
-              },
-              {
-                "text": "5-Star Peninsula Care",
-                "pinned": false
-              },
-              {
-                "text": "Photos After Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Text or Call Lisa Today",
-                "pinned": false
-              },
-              {
-                "text": "Book a Free Meet & Greet",
-                "pinned": false
-              },
-              {
-                "text": "Meet Lisa, Then Decide",
-                "pinned": false
-              }
-            ],
-            "descriptions": [
-              "Hi, I'm Lisa, your local pet sitter. Your pet stays home; I come to them.",
-              "Not an app, just me caring for your dog or cat like my own. Book a free meet & greet!",
-              "Feeding, meds, playtime and photos after every visit. One trusted person: Lisa. Text me!",
-              "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
-            ]
-          },
-          "copy_pending": false,
           "perf": {
             "impressions": 0,
             "clicks": 0,
@@ -1323,7 +1039,7 @@
         {
           "id": "195107297461",
           "name": "pet sitting atherton",
-          "status": "ENABLED",
+          "status": "PAUSED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/atherton",
           "keywords": [
             {
@@ -1416,77 +1132,6 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "planned_ad": {
-            "headlines": [
-              {
-                "text": "Pet Sitting",
-                "pinned": true
-              },
-              {
-                "text": "Atherton Pet Sitting",
-                "pinned": true
-              },
-              {
-                "text": "Pet Sitting Atherton",
-                "pinned": true
-              },
-              {
-                "text": "Hi, I'm Lisa",
-                "pinned": false
-              },
-              {
-                "text": "One Person, Just Lisa",
-                "pinned": false
-              },
-              {
-                "text": "I Treat Pets Like My Own",
-                "pinned": false
-              },
-              {
-                "text": "A Person, Not an App",
-                "pinned": false
-              },
-              {
-                "text": "Same Face Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Your Pet Stays Home",
-                "pinned": false
-              },
-              {
-                "text": "Trusted Local Care",
-                "pinned": false
-              },
-              {
-                "text": "5-Star Peninsula Care",
-                "pinned": false
-              },
-              {
-                "text": "Photos After Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Text or Call Lisa Today",
-                "pinned": false
-              },
-              {
-                "text": "Book a Free Meet & Greet",
-                "pinned": false
-              },
-              {
-                "text": "Meet Lisa, Then Decide",
-                "pinned": false
-              }
-            ],
-            "descriptions": [
-              "Hi, I'm Lisa, your local pet sitter. Your pet stays home; I come to them.",
-              "Not an app, just me caring for your dog or cat like my own. Book a free meet & greet!",
-              "Feeding, meds, playtime and photos after every visit. One trusted person: Lisa. Text me!",
-              "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
-            ]
-          },
-          "copy_pending": false,
           "perf": {
             "impressions": 2,
             "clicks": 0,
@@ -1500,7 +1145,7 @@
         {
           "id": "195107298901",
           "name": "dog sitter atherton",
-          "status": "ENABLED",
+          "status": "PAUSED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/atherton",
           "keywords": [
             {
@@ -1593,77 +1238,6 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "planned_ad": {
-            "headlines": [
-              {
-                "text": "Dog Sitter",
-                "pinned": true
-              },
-              {
-                "text": "Atherton Dog Sitter",
-                "pinned": true
-              },
-              {
-                "text": "Dog Sitter Atherton",
-                "pinned": true
-              },
-              {
-                "text": "Hi, I'm Lisa",
-                "pinned": false
-              },
-              {
-                "text": "One Person, Just Lisa",
-                "pinned": false
-              },
-              {
-                "text": "I Treat Pets Like My Own",
-                "pinned": false
-              },
-              {
-                "text": "A Person, Not an App",
-                "pinned": false
-              },
-              {
-                "text": "Same Face Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Your Pet Stays Home",
-                "pinned": false
-              },
-              {
-                "text": "Trusted Local Care",
-                "pinned": false
-              },
-              {
-                "text": "5-Star Peninsula Care",
-                "pinned": false
-              },
-              {
-                "text": "Photos After Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Text or Call Lisa Today",
-                "pinned": false
-              },
-              {
-                "text": "Book a Free Meet & Greet",
-                "pinned": false
-              },
-              {
-                "text": "Meet Lisa, Then Decide",
-                "pinned": false
-              }
-            ],
-            "descriptions": [
-              "Hi, I'm Lisa, your local pet sitter. Your pet stays home; I come to them.",
-              "Not an app, just me caring for your dog or cat like my own. Book a free meet & greet!",
-              "Feeding, meds, playtime and photos after every visit. One trusted person: Lisa. Text me!",
-              "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
-            ]
-          },
-          "copy_pending": false,
           "perf": {
             "impressions": 2,
             "clicks": 0,
@@ -1677,7 +1251,7 @@
         {
           "id": "195107300341",
           "name": "dog sitting atherton",
-          "status": "ENABLED",
+          "status": "PAUSED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/atherton",
           "keywords": [
             {
@@ -1770,77 +1344,6 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "planned_ad": {
-            "headlines": [
-              {
-                "text": "Dog Sitting",
-                "pinned": true
-              },
-              {
-                "text": "Atherton Dog Sitting",
-                "pinned": true
-              },
-              {
-                "text": "Dog Sitting Atherton",
-                "pinned": true
-              },
-              {
-                "text": "Hi, I'm Lisa",
-                "pinned": false
-              },
-              {
-                "text": "One Person, Just Lisa",
-                "pinned": false
-              },
-              {
-                "text": "I Treat Pets Like My Own",
-                "pinned": false
-              },
-              {
-                "text": "A Person, Not an App",
-                "pinned": false
-              },
-              {
-                "text": "Same Face Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Your Pet Stays Home",
-                "pinned": false
-              },
-              {
-                "text": "Trusted Local Care",
-                "pinned": false
-              },
-              {
-                "text": "5-Star Peninsula Care",
-                "pinned": false
-              },
-              {
-                "text": "Photos After Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Text or Call Lisa Today",
-                "pinned": false
-              },
-              {
-                "text": "Book a Free Meet & Greet",
-                "pinned": false
-              },
-              {
-                "text": "Meet Lisa, Then Decide",
-                "pinned": false
-              }
-            ],
-            "descriptions": [
-              "Hi, I'm Lisa, your local pet sitter. Your pet stays home; I come to them.",
-              "Not an app, just me caring for your dog or cat like my own. Book a free meet & greet!",
-              "Feeding, meds, playtime and photos after every visit. One trusted person: Lisa. Text me!",
-              "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
-            ]
-          },
-          "copy_pending": false,
           "perf": {
             "impressions": 0,
             "clicks": 0,
@@ -2385,7 +1888,7 @@
         {
           "id": "195940177377",
           "name": "dog walker woodside",
-          "status": "ENABLED",
+          "status": "PAUSED",
           "final_url": "https://go.lisaluvspets.com/dog-walking/woodside",
           "keywords": [
             {
@@ -2478,77 +1981,6 @@
               "One trusted local who learns your dog's name and quirks. Meet me first, then decide."
             ]
           },
-          "planned_ad": {
-            "headlines": [
-              {
-                "text": "Dog Walker",
-                "pinned": true
-              },
-              {
-                "text": "Woodside Dog Walker",
-                "pinned": true
-              },
-              {
-                "text": "Dog Walker Woodside",
-                "pinned": true
-              },
-              {
-                "text": "Hi, I'm Lisa",
-                "pinned": false
-              },
-              {
-                "text": "One Person, Just Lisa",
-                "pinned": false
-              },
-              {
-                "text": "I Treat Pets Like My Own",
-                "pinned": false
-              },
-              {
-                "text": "A Person, Not an App",
-                "pinned": false
-              },
-              {
-                "text": "Same Face Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Your Pet Stays Home",
-                "pinned": false
-              },
-              {
-                "text": "Trusted Local Care",
-                "pinned": false
-              },
-              {
-                "text": "5-Star Peninsula Care",
-                "pinned": false
-              },
-              {
-                "text": "Photos After Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Text or Call Lisa Today",
-                "pinned": false
-              },
-              {
-                "text": "Book a Free Meet & Greet",
-                "pinned": false
-              },
-              {
-                "text": "Meet Lisa, Then Decide",
-                "pinned": false
-              }
-            ],
-            "descriptions": [
-              "Hi, I'm Lisa, your local dog walker. Same friendly face every single visit.",
-              "Not an app or a team, just me. I treat your dog like my own. Book a free meet & greet!",
-              "I keep your pup home on their routine, with photos after each walk. Text or call Lisa!",
-              "One trusted local who learns your dog's name and quirks. Meet me first, then decide."
-            ]
-          },
-          "copy_pending": false,
           "perf": {
             "impressions": 1,
             "clicks": 0,
@@ -3282,12 +2714,12 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 13,
+                "impressions": 15,
                 "clicks": 1,
                 "cost": 4.46,
                 "conversions": 0.0,
                 "conv_value": 0.0,
-                "ctr": 7.7,
+                "ctr": 6.7,
                 "avg_cpc": 4.46,
                 "quality_score": null
               }
@@ -3435,12 +2867,12 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 13,
+            "impressions": 15,
             "clicks": 1,
             "cost": 4.46,
             "conversions": 0.0,
             "conv_value": 0.0,
-            "ctr": 7.7,
+            "ctr": 6.7,
             "avg_cpc": 4.46
           }
         },
@@ -11412,7 +10844,7 @@
         {
           "id": "198876813795",
           "name": "dog walking half moon bay",
-          "status": "ENABLED",
+          "status": "PAUSED",
           "final_url": "https://go.lisaluvspets.com/dog-walking/half-moon-bay",
           "keywords": [
             {
@@ -11505,77 +10937,6 @@
               "One trusted local who learns your dog's name and quirks. Meet me first, then decide."
             ]
           },
-          "planned_ad": {
-            "headlines": [
-              {
-                "text": "Dog Walking",
-                "pinned": true
-              },
-              {
-                "text": "Half Moon Bay Dog Walking",
-                "pinned": true
-              },
-              {
-                "text": "Dog Walking Half Moon Bay",
-                "pinned": true
-              },
-              {
-                "text": "Hi, I'm Lisa",
-                "pinned": false
-              },
-              {
-                "text": "One Person, Just Lisa",
-                "pinned": false
-              },
-              {
-                "text": "I Treat Pets Like My Own",
-                "pinned": false
-              },
-              {
-                "text": "A Person, Not an App",
-                "pinned": false
-              },
-              {
-                "text": "Same Face Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Your Pet Stays Home",
-                "pinned": false
-              },
-              {
-                "text": "Trusted Local Care",
-                "pinned": false
-              },
-              {
-                "text": "5-Star Peninsula Care",
-                "pinned": false
-              },
-              {
-                "text": "Photos After Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Text or Call Lisa Today",
-                "pinned": false
-              },
-              {
-                "text": "Book a Free Meet & Greet",
-                "pinned": false
-              },
-              {
-                "text": "Meet Lisa, Then Decide",
-                "pinned": false
-              }
-            ],
-            "descriptions": [
-              "Hi, I'm Lisa, your local dog walker. Same friendly face every single visit.",
-              "Not an app or a team, just me. I treat your dog like my own. Book a free meet & greet!",
-              "I keep your pup home on their routine, with photos after each walk. Text or call Lisa!",
-              "One trusted local who learns your dog's name and quirks. Meet me first, then decide."
-            ]
-          },
-          "copy_pending": false,
           "perf": {
             "impressions": 33,
             "clicks": 2,
@@ -11589,7 +10950,7 @@
         {
           "id": "198876816235",
           "name": "dog sitter half moon bay",
-          "status": "ENABLED",
+          "status": "PAUSED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/half-moon-bay",
           "keywords": [
             {
@@ -11682,77 +11043,6 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "planned_ad": {
-            "headlines": [
-              {
-                "text": "Dog Sitter",
-                "pinned": true
-              },
-              {
-                "text": "Half Moon Bay Dog Sitter",
-                "pinned": true
-              },
-              {
-                "text": "Dog Sitter Half Moon Bay",
-                "pinned": true
-              },
-              {
-                "text": "Hi, I'm Lisa",
-                "pinned": false
-              },
-              {
-                "text": "One Person, Just Lisa",
-                "pinned": false
-              },
-              {
-                "text": "I Treat Pets Like My Own",
-                "pinned": false
-              },
-              {
-                "text": "A Person, Not an App",
-                "pinned": false
-              },
-              {
-                "text": "Same Face Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Your Pet Stays Home",
-                "pinned": false
-              },
-              {
-                "text": "Trusted Local Care",
-                "pinned": false
-              },
-              {
-                "text": "5-Star Peninsula Care",
-                "pinned": false
-              },
-              {
-                "text": "Photos After Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Text or Call Lisa Today",
-                "pinned": false
-              },
-              {
-                "text": "Book a Free Meet & Greet",
-                "pinned": false
-              },
-              {
-                "text": "Meet Lisa, Then Decide",
-                "pinned": false
-              }
-            ],
-            "descriptions": [
-              "Hi, I'm Lisa, your local pet sitter. Your pet stays home; I come to them.",
-              "Not an app, just me caring for your dog or cat like my own. Book a free meet & greet!",
-              "Feeding, meds, playtime and photos after every visit. One trusted person: Lisa. Text me!",
-              "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
-            ]
-          },
-          "copy_pending": false,
           "perf": {
             "impressions": 20,
             "clicks": 0,
@@ -11766,7 +11056,7 @@
         {
           "id": "198876817355",
           "name": "house sitter half moon bay",
-          "status": "ENABLED",
+          "status": "PAUSED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/half-moon-bay",
           "keywords": [
             {
@@ -11859,77 +11149,6 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "planned_ad": {
-            "headlines": [
-              {
-                "text": "House Sitter",
-                "pinned": true
-              },
-              {
-                "text": "Half Moon Bay House Sitter",
-                "pinned": true
-              },
-              {
-                "text": "House Sitter Half Moon Bay",
-                "pinned": true
-              },
-              {
-                "text": "Hi, I'm Lisa",
-                "pinned": false
-              },
-              {
-                "text": "One Person, Just Lisa",
-                "pinned": false
-              },
-              {
-                "text": "I Treat Pets Like My Own",
-                "pinned": false
-              },
-              {
-                "text": "A Person, Not an App",
-                "pinned": false
-              },
-              {
-                "text": "Same Face Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Your Pet Stays Home",
-                "pinned": false
-              },
-              {
-                "text": "Trusted Local Care",
-                "pinned": false
-              },
-              {
-                "text": "5-Star Peninsula Care",
-                "pinned": false
-              },
-              {
-                "text": "Photos After Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Text or Call Lisa Today",
-                "pinned": false
-              },
-              {
-                "text": "Book a Free Meet & Greet",
-                "pinned": false
-              },
-              {
-                "text": "Meet Lisa, Then Decide",
-                "pinned": false
-              }
-            ],
-            "descriptions": [
-              "Hi, I'm Lisa, your local pet sitter. Your pet stays home; I come to them.",
-              "Not an app, just me caring for your dog or cat like my own. Book a free meet & greet!",
-              "Feeding, meds, playtime and photos after every visit. One trusted person: Lisa. Text me!",
-              "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
-            ]
-          },
-          "copy_pending": false,
           "perf": {
             "impressions": 0,
             "clicks": 0,
@@ -17253,7 +16472,7 @@
         {
           "id": "201034801391",
           "name": "dog walking woodside",
-          "status": "ENABLED",
+          "status": "PAUSED",
           "final_url": "https://go.lisaluvspets.com/dog-walking/woodside",
           "keywords": [
             {
@@ -17346,77 +16565,6 @@
               "One trusted local who learns your dog's name and quirks. Meet me first, then decide."
             ]
           },
-          "planned_ad": {
-            "headlines": [
-              {
-                "text": "Dog Walking",
-                "pinned": true
-              },
-              {
-                "text": "Woodside Dog Walking",
-                "pinned": true
-              },
-              {
-                "text": "Dog Walking Woodside",
-                "pinned": true
-              },
-              {
-                "text": "Hi, I'm Lisa",
-                "pinned": false
-              },
-              {
-                "text": "One Person, Just Lisa",
-                "pinned": false
-              },
-              {
-                "text": "I Treat Pets Like My Own",
-                "pinned": false
-              },
-              {
-                "text": "A Person, Not an App",
-                "pinned": false
-              },
-              {
-                "text": "Same Face Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Your Pet Stays Home",
-                "pinned": false
-              },
-              {
-                "text": "Trusted Local Care",
-                "pinned": false
-              },
-              {
-                "text": "5-Star Peninsula Care",
-                "pinned": false
-              },
-              {
-                "text": "Photos After Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Text or Call Lisa Today",
-                "pinned": false
-              },
-              {
-                "text": "Book a Free Meet & Greet",
-                "pinned": false
-              },
-              {
-                "text": "Meet Lisa, Then Decide",
-                "pinned": false
-              }
-            ],
-            "descriptions": [
-              "Hi, I'm Lisa, your local dog walker. Same friendly face every single visit.",
-              "Not an app or a team, just me. I treat your dog like my own. Book a free meet & greet!",
-              "I keep your pup home on their routine, with photos after each walk. Text or call Lisa!",
-              "One trusted local who learns your dog's name and quirks. Meet me first, then decide."
-            ]
-          },
-          "copy_pending": false,
           "perf": {
             "impressions": 1,
             "clicks": 0,
@@ -17430,7 +16578,7 @@
         {
           "id": "201034804231",
           "name": "dog walker atherton",
-          "status": "ENABLED",
+          "status": "PAUSED",
           "final_url": "https://go.lisaluvspets.com/dog-walking/atherton",
           "keywords": [
             {
@@ -17523,77 +16671,6 @@
               "One trusted local who learns your dog's name and quirks. Meet me first, then decide."
             ]
           },
-          "planned_ad": {
-            "headlines": [
-              {
-                "text": "Dog Walker",
-                "pinned": true
-              },
-              {
-                "text": "Atherton Dog Walker",
-                "pinned": true
-              },
-              {
-                "text": "Dog Walker Atherton",
-                "pinned": true
-              },
-              {
-                "text": "Hi, I'm Lisa",
-                "pinned": false
-              },
-              {
-                "text": "One Person, Just Lisa",
-                "pinned": false
-              },
-              {
-                "text": "I Treat Pets Like My Own",
-                "pinned": false
-              },
-              {
-                "text": "A Person, Not an App",
-                "pinned": false
-              },
-              {
-                "text": "Same Face Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Your Pet Stays Home",
-                "pinned": false
-              },
-              {
-                "text": "Trusted Local Care",
-                "pinned": false
-              },
-              {
-                "text": "5-Star Peninsula Care",
-                "pinned": false
-              },
-              {
-                "text": "Photos After Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Text or Call Lisa Today",
-                "pinned": false
-              },
-              {
-                "text": "Book a Free Meet & Greet",
-                "pinned": false
-              },
-              {
-                "text": "Meet Lisa, Then Decide",
-                "pinned": false
-              }
-            ],
-            "descriptions": [
-              "Hi, I'm Lisa, your local dog walker. Same friendly face every single visit.",
-              "Not an app or a team, just me. I treat your dog like my own. Book a free meet & greet!",
-              "I keep your pup home on their routine, with photos after each walk. Text or call Lisa!",
-              "One trusted local who learns your dog's name and quirks. Meet me first, then decide."
-            ]
-          },
-          "copy_pending": false,
           "perf": {
             "impressions": 2,
             "clicks": 0,
@@ -17607,7 +16684,7 @@
         {
           "id": "201034805471",
           "name": "in home pet care atherton",
-          "status": "ENABLED",
+          "status": "PAUSED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/atherton",
           "keywords": [
             {
@@ -17700,77 +16777,6 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "planned_ad": {
-            "headlines": [
-              {
-                "text": "In Home Pet Care",
-                "pinned": true
-              },
-              {
-                "text": "Atherton In Home Pet Care",
-                "pinned": true
-              },
-              {
-                "text": "In Home Pet Care Atherton",
-                "pinned": true
-              },
-              {
-                "text": "Hi, I'm Lisa",
-                "pinned": false
-              },
-              {
-                "text": "One Person, Just Lisa",
-                "pinned": false
-              },
-              {
-                "text": "I Treat Pets Like My Own",
-                "pinned": false
-              },
-              {
-                "text": "A Person, Not an App",
-                "pinned": false
-              },
-              {
-                "text": "Same Face Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Your Pet Stays Home",
-                "pinned": false
-              },
-              {
-                "text": "Trusted Local Care",
-                "pinned": false
-              },
-              {
-                "text": "5-Star Peninsula Care",
-                "pinned": false
-              },
-              {
-                "text": "Photos After Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Text or Call Lisa Today",
-                "pinned": false
-              },
-              {
-                "text": "Book a Free Meet & Greet",
-                "pinned": false
-              },
-              {
-                "text": "Meet Lisa, Then Decide",
-                "pinned": false
-              }
-            ],
-            "descriptions": [
-              "Hi, I'm Lisa, your local pet sitter. Your pet stays home; I come to them.",
-              "Not an app, just me caring for your dog or cat like my own. Book a free meet & greet!",
-              "Feeding, meds, playtime and photos after every visit. One trusted person: Lisa. Text me!",
-              "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
-            ]
-          },
-          "copy_pending": false,
           "perf": {
             "impressions": 0,
             "clicks": 0,
@@ -17784,7 +16790,7 @@
         {
           "id": "201757201561",
           "name": "dog sitter woodside",
-          "status": "ENABLED",
+          "status": "PAUSED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/woodside",
           "keywords": [
             {
@@ -17877,77 +16883,6 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "planned_ad": {
-            "headlines": [
-              {
-                "text": "Dog Sitter",
-                "pinned": true
-              },
-              {
-                "text": "Woodside Dog Sitter",
-                "pinned": true
-              },
-              {
-                "text": "Dog Sitter Woodside",
-                "pinned": true
-              },
-              {
-                "text": "Hi, I'm Lisa",
-                "pinned": false
-              },
-              {
-                "text": "One Person, Just Lisa",
-                "pinned": false
-              },
-              {
-                "text": "I Treat Pets Like My Own",
-                "pinned": false
-              },
-              {
-                "text": "A Person, Not an App",
-                "pinned": false
-              },
-              {
-                "text": "Same Face Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Your Pet Stays Home",
-                "pinned": false
-              },
-              {
-                "text": "Trusted Local Care",
-                "pinned": false
-              },
-              {
-                "text": "5-Star Peninsula Care",
-                "pinned": false
-              },
-              {
-                "text": "Photos After Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Text or Call Lisa Today",
-                "pinned": false
-              },
-              {
-                "text": "Book a Free Meet & Greet",
-                "pinned": false
-              },
-              {
-                "text": "Meet Lisa, Then Decide",
-                "pinned": false
-              }
-            ],
-            "descriptions": [
-              "Hi, I'm Lisa, your local pet sitter. Your pet stays home; I come to them.",
-              "Not an app, just me caring for your dog or cat like my own. Book a free meet & greet!",
-              "Feeding, meds, playtime and photos after every visit. One trusted person: Lisa. Text me!",
-              "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
-            ]
-          },
-          "copy_pending": false,
           "perf": {
             "impressions": 0,
             "clicks": 0,
@@ -17961,7 +16896,7 @@
         {
           "id": "201757202281",
           "name": "dog sitting woodside",
-          "status": "ENABLED",
+          "status": "PAUSED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/woodside",
           "keywords": [
             {
@@ -18054,77 +16989,6 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "planned_ad": {
-            "headlines": [
-              {
-                "text": "Dog Sitting",
-                "pinned": true
-              },
-              {
-                "text": "Woodside Dog Sitting",
-                "pinned": true
-              },
-              {
-                "text": "Dog Sitting Woodside",
-                "pinned": true
-              },
-              {
-                "text": "Hi, I'm Lisa",
-                "pinned": false
-              },
-              {
-                "text": "One Person, Just Lisa",
-                "pinned": false
-              },
-              {
-                "text": "I Treat Pets Like My Own",
-                "pinned": false
-              },
-              {
-                "text": "A Person, Not an App",
-                "pinned": false
-              },
-              {
-                "text": "Same Face Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Your Pet Stays Home",
-                "pinned": false
-              },
-              {
-                "text": "Trusted Local Care",
-                "pinned": false
-              },
-              {
-                "text": "5-Star Peninsula Care",
-                "pinned": false
-              },
-              {
-                "text": "Photos After Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Text or Call Lisa Today",
-                "pinned": false
-              },
-              {
-                "text": "Book a Free Meet & Greet",
-                "pinned": false
-              },
-              {
-                "text": "Meet Lisa, Then Decide",
-                "pinned": false
-              }
-            ],
-            "descriptions": [
-              "Hi, I'm Lisa, your local pet sitter. Your pet stays home; I come to them.",
-              "Not an app, just me caring for your dog or cat like my own. Book a free meet & greet!",
-              "Feeding, meds, playtime and photos after every visit. One trusted person: Lisa. Text me!",
-              "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
-            ]
-          },
-          "copy_pending": false,
           "perf": {
             "impressions": 0,
             "clicks": 0,
@@ -18138,7 +17002,7 @@
         {
           "id": "201757205161",
           "name": "pet sitter atherton",
-          "status": "ENABLED",
+          "status": "PAUSED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/atherton",
           "keywords": [
             {
@@ -18231,77 +17095,6 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "planned_ad": {
-            "headlines": [
-              {
-                "text": "Pet Sitter",
-                "pinned": true
-              },
-              {
-                "text": "Atherton Pet Sitter",
-                "pinned": true
-              },
-              {
-                "text": "Pet Sitter Atherton",
-                "pinned": true
-              },
-              {
-                "text": "Hi, I'm Lisa",
-                "pinned": false
-              },
-              {
-                "text": "One Person, Just Lisa",
-                "pinned": false
-              },
-              {
-                "text": "I Treat Pets Like My Own",
-                "pinned": false
-              },
-              {
-                "text": "A Person, Not an App",
-                "pinned": false
-              },
-              {
-                "text": "Same Face Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Your Pet Stays Home",
-                "pinned": false
-              },
-              {
-                "text": "Trusted Local Care",
-                "pinned": false
-              },
-              {
-                "text": "5-Star Peninsula Care",
-                "pinned": false
-              },
-              {
-                "text": "Photos After Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Text or Call Lisa Today",
-                "pinned": false
-              },
-              {
-                "text": "Book a Free Meet & Greet",
-                "pinned": false
-              },
-              {
-                "text": "Meet Lisa, Then Decide",
-                "pinned": false
-              }
-            ],
-            "descriptions": [
-              "Hi, I'm Lisa, your local pet sitter. Your pet stays home; I come to them.",
-              "Not an app, just me caring for your dog or cat like my own. Book a free meet & greet!",
-              "Feeding, meds, playtime and photos after every visit. One trusted person: Lisa. Text me!",
-              "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
-            ]
-          },
-          "copy_pending": false,
           "perf": {
             "impressions": 1,
             "clicks": 0,
@@ -18315,7 +17108,7 @@
         {
           "id": "201757209521",
           "name": "cat sitter atherton",
-          "status": "ENABLED",
+          "status": "PAUSED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/atherton",
           "keywords": [
             {
@@ -18408,77 +17201,6 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "planned_ad": {
-            "headlines": [
-              {
-                "text": "Cat Sitter",
-                "pinned": true
-              },
-              {
-                "text": "Atherton Cat Sitter",
-                "pinned": true
-              },
-              {
-                "text": "Cat Sitter Atherton",
-                "pinned": true
-              },
-              {
-                "text": "Hi, I'm Lisa",
-                "pinned": false
-              },
-              {
-                "text": "One Person, Just Lisa",
-                "pinned": false
-              },
-              {
-                "text": "I Treat Pets Like My Own",
-                "pinned": false
-              },
-              {
-                "text": "A Person, Not an App",
-                "pinned": false
-              },
-              {
-                "text": "Same Face Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Your Pet Stays Home",
-                "pinned": false
-              },
-              {
-                "text": "Trusted Local Care",
-                "pinned": false
-              },
-              {
-                "text": "5-Star Peninsula Care",
-                "pinned": false
-              },
-              {
-                "text": "Photos After Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Text or Call Lisa Today",
-                "pinned": false
-              },
-              {
-                "text": "Book a Free Meet & Greet",
-                "pinned": false
-              },
-              {
-                "text": "Meet Lisa, Then Decide",
-                "pinned": false
-              }
-            ],
-            "descriptions": [
-              "Hi, I'm Lisa, your local pet sitter. Your pet stays home; I come to them.",
-              "Not an app, just me caring for your dog or cat like my own. Book a free meet & greet!",
-              "Feeding, meds, playtime and photos after every visit. One trusted person: Lisa. Text me!",
-              "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
-            ]
-          },
-          "copy_pending": false,
           "perf": {
             "impressions": 0,
             "clicks": 0,
@@ -18492,7 +17214,7 @@
         {
           "id": "201757211001",
           "name": "dog walker half moon bay",
-          "status": "ENABLED",
+          "status": "PAUSED",
           "final_url": "https://go.lisaluvspets.com/dog-walking/half-moon-bay",
           "keywords": [
             {
@@ -18585,77 +17307,6 @@
               "One trusted local who learns your dog's name and quirks. Meet me first, then decide."
             ]
           },
-          "planned_ad": {
-            "headlines": [
-              {
-                "text": "Dog Walker",
-                "pinned": true
-              },
-              {
-                "text": "Half Moon Bay Dog Walker",
-                "pinned": true
-              },
-              {
-                "text": "Dog Walker Half Moon Bay",
-                "pinned": true
-              },
-              {
-                "text": "Hi, I'm Lisa",
-                "pinned": false
-              },
-              {
-                "text": "One Person, Just Lisa",
-                "pinned": false
-              },
-              {
-                "text": "I Treat Pets Like My Own",
-                "pinned": false
-              },
-              {
-                "text": "A Person, Not an App",
-                "pinned": false
-              },
-              {
-                "text": "Same Face Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Your Pet Stays Home",
-                "pinned": false
-              },
-              {
-                "text": "Trusted Local Care",
-                "pinned": false
-              },
-              {
-                "text": "5-Star Peninsula Care",
-                "pinned": false
-              },
-              {
-                "text": "Photos After Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Text or Call Lisa Today",
-                "pinned": false
-              },
-              {
-                "text": "Book a Free Meet & Greet",
-                "pinned": false
-              },
-              {
-                "text": "Meet Lisa, Then Decide",
-                "pinned": false
-              }
-            ],
-            "descriptions": [
-              "Hi, I'm Lisa, your local dog walker. Same friendly face every single visit.",
-              "Not an app or a team, just me. I treat your dog like my own. Book a free meet & greet!",
-              "I keep your pup home on their routine, with photos after each walk. Text or call Lisa!",
-              "One trusted local who learns your dog's name and quirks. Meet me first, then decide."
-            ]
-          },
-          "copy_pending": false,
           "perf": {
             "impressions": 15,
             "clicks": 0,
@@ -18669,7 +17320,7 @@
         {
           "id": "201757215561",
           "name": "pet sitting half moon bay",
-          "status": "ENABLED",
+          "status": "PAUSED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/half-moon-bay",
           "keywords": [
             {
@@ -18762,77 +17413,6 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "planned_ad": {
-            "headlines": [
-              {
-                "text": "Pet Sitting",
-                "pinned": true
-              },
-              {
-                "text": "Half Moon Bay Pet Sitting",
-                "pinned": true
-              },
-              {
-                "text": "Pet Sitting Half Moon Bay",
-                "pinned": true
-              },
-              {
-                "text": "Hi, I'm Lisa",
-                "pinned": false
-              },
-              {
-                "text": "One Person, Just Lisa",
-                "pinned": false
-              },
-              {
-                "text": "I Treat Pets Like My Own",
-                "pinned": false
-              },
-              {
-                "text": "A Person, Not an App",
-                "pinned": false
-              },
-              {
-                "text": "Same Face Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Your Pet Stays Home",
-                "pinned": false
-              },
-              {
-                "text": "Trusted Local Care",
-                "pinned": false
-              },
-              {
-                "text": "5-Star Peninsula Care",
-                "pinned": false
-              },
-              {
-                "text": "Photos After Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Text or Call Lisa Today",
-                "pinned": false
-              },
-              {
-                "text": "Book a Free Meet & Greet",
-                "pinned": false
-              },
-              {
-                "text": "Meet Lisa, Then Decide",
-                "pinned": false
-              }
-            ],
-            "descriptions": [
-              "Hi, I'm Lisa, your local pet sitter. Your pet stays home; I come to them.",
-              "Not an app, just me caring for your dog or cat like my own. Book a free meet & greet!",
-              "Feeding, meds, playtime and photos after every visit. One trusted person: Lisa. Text me!",
-              "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
-            ]
-          },
-          "copy_pending": false,
           "perf": {
             "impressions": 32,
             "clicks": 2,
@@ -18846,7 +17426,7 @@
         {
           "id": "201757217721",
           "name": "dog sitting half moon bay",
-          "status": "ENABLED",
+          "status": "PAUSED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/half-moon-bay",
           "keywords": [
             {
@@ -18939,77 +17519,6 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "planned_ad": {
-            "headlines": [
-              {
-                "text": "Dog Sitting",
-                "pinned": true
-              },
-              {
-                "text": "Half Moon Bay Dog Sitting",
-                "pinned": true
-              },
-              {
-                "text": "Dog Sitting Half Moon Bay",
-                "pinned": true
-              },
-              {
-                "text": "Hi, I'm Lisa",
-                "pinned": false
-              },
-              {
-                "text": "One Person, Just Lisa",
-                "pinned": false
-              },
-              {
-                "text": "I Treat Pets Like My Own",
-                "pinned": false
-              },
-              {
-                "text": "A Person, Not an App",
-                "pinned": false
-              },
-              {
-                "text": "Same Face Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Your Pet Stays Home",
-                "pinned": false
-              },
-              {
-                "text": "Trusted Local Care",
-                "pinned": false
-              },
-              {
-                "text": "5-Star Peninsula Care",
-                "pinned": false
-              },
-              {
-                "text": "Photos After Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Text or Call Lisa Today",
-                "pinned": false
-              },
-              {
-                "text": "Book a Free Meet & Greet",
-                "pinned": false
-              },
-              {
-                "text": "Meet Lisa, Then Decide",
-                "pinned": false
-              }
-            ],
-            "descriptions": [
-              "Hi, I'm Lisa, your local pet sitter. Your pet stays home; I come to them.",
-              "Not an app, just me caring for your dog or cat like my own. Book a free meet & greet!",
-              "Feeding, meds, playtime and photos after every visit. One trusted person: Lisa. Text me!",
-              "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
-            ]
-          },
-          "copy_pending": false,
           "perf": {
             "impressions": 0,
             "clicks": 0,
@@ -19200,7 +17709,7 @@
         {
           "id": "203814230808",
           "name": "cat sitter woodside",
-          "status": "ENABLED",
+          "status": "PAUSED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/woodside",
           "keywords": [
             {
@@ -19293,77 +17802,6 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "planned_ad": {
-            "headlines": [
-              {
-                "text": "Cat Sitter",
-                "pinned": true
-              },
-              {
-                "text": "Woodside Cat Sitter",
-                "pinned": true
-              },
-              {
-                "text": "Cat Sitter Woodside",
-                "pinned": true
-              },
-              {
-                "text": "Hi, I'm Lisa",
-                "pinned": false
-              },
-              {
-                "text": "One Person, Just Lisa",
-                "pinned": false
-              },
-              {
-                "text": "I Treat Pets Like My Own",
-                "pinned": false
-              },
-              {
-                "text": "A Person, Not an App",
-                "pinned": false
-              },
-              {
-                "text": "Same Face Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Your Pet Stays Home",
-                "pinned": false
-              },
-              {
-                "text": "Trusted Local Care",
-                "pinned": false
-              },
-              {
-                "text": "5-Star Peninsula Care",
-                "pinned": false
-              },
-              {
-                "text": "Photos After Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Text or Call Lisa Today",
-                "pinned": false
-              },
-              {
-                "text": "Book a Free Meet & Greet",
-                "pinned": false
-              },
-              {
-                "text": "Meet Lisa, Then Decide",
-                "pinned": false
-              }
-            ],
-            "descriptions": [
-              "Hi, I'm Lisa, your local pet sitter. Your pet stays home; I come to them.",
-              "Not an app, just me caring for your dog or cat like my own. Book a free meet & greet!",
-              "Feeding, meds, playtime and photos after every visit. One trusted person: Lisa. Text me!",
-              "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
-            ]
-          },
-          "copy_pending": false,
           "perf": {
             "impressions": 0,
             "clicks": 0,
@@ -19377,7 +17815,7 @@
         {
           "id": "203814234168",
           "name": "dog walking atherton",
-          "status": "ENABLED",
+          "status": "PAUSED",
           "final_url": "https://go.lisaluvspets.com/dog-walking/atherton",
           "keywords": [
             {
@@ -19470,77 +17908,6 @@
               "One trusted local who learns your dog's name and quirks. Meet me first, then decide."
             ]
           },
-          "planned_ad": {
-            "headlines": [
-              {
-                "text": "Dog Walking",
-                "pinned": true
-              },
-              {
-                "text": "Atherton Dog Walking",
-                "pinned": true
-              },
-              {
-                "text": "Dog Walking Atherton",
-                "pinned": true
-              },
-              {
-                "text": "Hi, I'm Lisa",
-                "pinned": false
-              },
-              {
-                "text": "One Person, Just Lisa",
-                "pinned": false
-              },
-              {
-                "text": "I Treat Pets Like My Own",
-                "pinned": false
-              },
-              {
-                "text": "A Person, Not an App",
-                "pinned": false
-              },
-              {
-                "text": "Same Face Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Your Pet Stays Home",
-                "pinned": false
-              },
-              {
-                "text": "Trusted Local Care",
-                "pinned": false
-              },
-              {
-                "text": "5-Star Peninsula Care",
-                "pinned": false
-              },
-              {
-                "text": "Photos After Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Text or Call Lisa Today",
-                "pinned": false
-              },
-              {
-                "text": "Book a Free Meet & Greet",
-                "pinned": false
-              },
-              {
-                "text": "Meet Lisa, Then Decide",
-                "pinned": false
-              }
-            ],
-            "descriptions": [
-              "Hi, I'm Lisa, your local dog walker. Same friendly face every single visit.",
-              "Not an app or a team, just me. I treat your dog like my own. Book a free meet & greet!",
-              "I keep your pup home on their routine, with photos after each walk. Text or call Lisa!",
-              "One trusted local who learns your dog's name and quirks. Meet me first, then decide."
-            ]
-          },
-          "copy_pending": false,
           "perf": {
             "impressions": 2,
             "clicks": 0,
@@ -19554,7 +17921,7 @@
         {
           "id": "203814243488",
           "name": "house sitter atherton",
-          "status": "ENABLED",
+          "status": "PAUSED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/atherton",
           "keywords": [
             {
@@ -19647,77 +18014,6 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "planned_ad": {
-            "headlines": [
-              {
-                "text": "House Sitter",
-                "pinned": true
-              },
-              {
-                "text": "Atherton House Sitter",
-                "pinned": true
-              },
-              {
-                "text": "House Sitter Atherton",
-                "pinned": true
-              },
-              {
-                "text": "Hi, I'm Lisa",
-                "pinned": false
-              },
-              {
-                "text": "One Person, Just Lisa",
-                "pinned": false
-              },
-              {
-                "text": "I Treat Pets Like My Own",
-                "pinned": false
-              },
-              {
-                "text": "A Person, Not an App",
-                "pinned": false
-              },
-              {
-                "text": "Same Face Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Your Pet Stays Home",
-                "pinned": false
-              },
-              {
-                "text": "Trusted Local Care",
-                "pinned": false
-              },
-              {
-                "text": "5-Star Peninsula Care",
-                "pinned": false
-              },
-              {
-                "text": "Photos After Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Text or Call Lisa Today",
-                "pinned": false
-              },
-              {
-                "text": "Book a Free Meet & Greet",
-                "pinned": false
-              },
-              {
-                "text": "Meet Lisa, Then Decide",
-                "pinned": false
-              }
-            ],
-            "descriptions": [
-              "Hi, I'm Lisa, your local pet sitter. Your pet stays home; I come to them.",
-              "Not an app, just me caring for your dog or cat like my own. Book a free meet & greet!",
-              "Feeding, meds, playtime and photos after every visit. One trusted person: Lisa. Text me!",
-              "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
-            ]
-          },
-          "copy_pending": false,
           "perf": {
             "impressions": 0,
             "clicks": 0,
@@ -19731,7 +18027,7 @@
         {
           "id": "203814247888",
           "name": "pet sitter half moon bay",
-          "status": "ENABLED",
+          "status": "PAUSED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/half-moon-bay",
           "keywords": [
             {
@@ -19824,77 +18120,6 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "planned_ad": {
-            "headlines": [
-              {
-                "text": "Pet Sitter",
-                "pinned": true
-              },
-              {
-                "text": "Half Moon Bay Pet Sitter",
-                "pinned": true
-              },
-              {
-                "text": "Pet Sitter Half Moon Bay",
-                "pinned": true
-              },
-              {
-                "text": "Hi, I'm Lisa",
-                "pinned": false
-              },
-              {
-                "text": "One Person, Just Lisa",
-                "pinned": false
-              },
-              {
-                "text": "I Treat Pets Like My Own",
-                "pinned": false
-              },
-              {
-                "text": "A Person, Not an App",
-                "pinned": false
-              },
-              {
-                "text": "Same Face Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Your Pet Stays Home",
-                "pinned": false
-              },
-              {
-                "text": "Trusted Local Care",
-                "pinned": false
-              },
-              {
-                "text": "5-Star Peninsula Care",
-                "pinned": false
-              },
-              {
-                "text": "Photos After Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Text or Call Lisa Today",
-                "pinned": false
-              },
-              {
-                "text": "Book a Free Meet & Greet",
-                "pinned": false
-              },
-              {
-                "text": "Meet Lisa, Then Decide",
-                "pinned": false
-              }
-            ],
-            "descriptions": [
-              "Hi, I'm Lisa, your local pet sitter. Your pet stays home; I come to them.",
-              "Not an app, just me caring for your dog or cat like my own. Book a free meet & greet!",
-              "Feeding, meds, playtime and photos after every visit. One trusted person: Lisa. Text me!",
-              "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
-            ]
-          },
-          "copy_pending": false,
           "perf": {
             "impressions": 0,
             "clicks": 0,
@@ -19908,7 +18133,7 @@
         {
           "id": "203814249328",
           "name": "in home pet care half moon bay",
-          "status": "ENABLED",
+          "status": "PAUSED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/half-moon-bay",
           "keywords": [
             {
@@ -20001,77 +18226,6 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "planned_ad": {
-            "headlines": [
-              {
-                "text": "In Home Pet Care",
-                "pinned": true
-              },
-              {
-                "text": "Half Moon Bay In Home Pet Care",
-                "pinned": true
-              },
-              {
-                "text": "In Home Pet Care Half Moon Bay",
-                "pinned": true
-              },
-              {
-                "text": "Hi, I'm Lisa",
-                "pinned": false
-              },
-              {
-                "text": "One Person, Just Lisa",
-                "pinned": false
-              },
-              {
-                "text": "I Treat Pets Like My Own",
-                "pinned": false
-              },
-              {
-                "text": "A Person, Not an App",
-                "pinned": false
-              },
-              {
-                "text": "Same Face Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Your Pet Stays Home",
-                "pinned": false
-              },
-              {
-                "text": "Trusted Local Care",
-                "pinned": false
-              },
-              {
-                "text": "5-Star Peninsula Care",
-                "pinned": false
-              },
-              {
-                "text": "Photos After Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Text or Call Lisa Today",
-                "pinned": false
-              },
-              {
-                "text": "Book a Free Meet & Greet",
-                "pinned": false
-              },
-              {
-                "text": "Meet Lisa, Then Decide",
-                "pinned": false
-              }
-            ],
-            "descriptions": [
-              "Hi, I'm Lisa, your local pet sitter. Your pet stays home; I come to them.",
-              "Not an app, just me caring for your dog or cat like my own. Book a free meet & greet!",
-              "Feeding, meds, playtime and photos after every visit. One trusted person: Lisa. Text me!",
-              "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
-            ]
-          },
-          "copy_pending": false,
           "perf": {
             "impressions": 0,
             "clicks": 0,
@@ -20085,7 +18239,7 @@
         {
           "id": "203814254528",
           "name": "cat sitter half moon bay",
-          "status": "ENABLED",
+          "status": "PAUSED",
           "final_url": "https://go.lisaluvspets.com/pet-sitting/half-moon-bay",
           "keywords": [
             {
@@ -20178,77 +18332,6 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "planned_ad": {
-            "headlines": [
-              {
-                "text": "Cat Sitter",
-                "pinned": true
-              },
-              {
-                "text": "Half Moon Bay Cat Sitter",
-                "pinned": true
-              },
-              {
-                "text": "Cat Sitter Half Moon Bay",
-                "pinned": true
-              },
-              {
-                "text": "Hi, I'm Lisa",
-                "pinned": false
-              },
-              {
-                "text": "One Person, Just Lisa",
-                "pinned": false
-              },
-              {
-                "text": "I Treat Pets Like My Own",
-                "pinned": false
-              },
-              {
-                "text": "A Person, Not an App",
-                "pinned": false
-              },
-              {
-                "text": "Same Face Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Your Pet Stays Home",
-                "pinned": false
-              },
-              {
-                "text": "Trusted Local Care",
-                "pinned": false
-              },
-              {
-                "text": "5-Star Peninsula Care",
-                "pinned": false
-              },
-              {
-                "text": "Photos After Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Text or Call Lisa Today",
-                "pinned": false
-              },
-              {
-                "text": "Book a Free Meet & Greet",
-                "pinned": false
-              },
-              {
-                "text": "Meet Lisa, Then Decide",
-                "pinned": false
-              }
-            ],
-            "descriptions": [
-              "Hi, I'm Lisa, your local pet sitter. Your pet stays home; I come to them.",
-              "Not an app, just me caring for your dog or cat like my own. Book a free meet & greet!",
-              "Feeding, meds, playtime and photos after every visit. One trusted person: Lisa. Text me!",
-              "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
-            ]
-          },
-          "copy_pending": false,
           "perf": {
             "impressions": 3,
             "clicks": 0,
@@ -20379,7 +18462,7 @@
         }
       ],
       "perf": {
-        "impressions": 1152,
+        "impressions": 1154,
         "clicks": 67,
         "cost": 249.18,
         "conversions": 4.0,

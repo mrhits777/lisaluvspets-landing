@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-02T00:00:13+00:00",
+  "generated": "2026-08-02T04:00:09+00:00",
   "client": "Lisa Luvs Pets",
   "customer_id": "8268791200",
   "keyword_planner_available": false,
@@ -7493,7 +7493,7 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 11,
+                "impressions": 12,
                 "clicks": 0,
                 "cost": 0.0,
                 "conversions": 0.0,
@@ -7646,7 +7646,7 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 11,
+            "impressions": 12,
             "clicks": 0,
             "cost": 0.0,
             "conversions": 0.0,
@@ -11705,13 +11705,13 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 2,
-                "clicks": 1,
-                "cost": 9.15,
+                "impressions": 4,
+                "clicks": 2,
+                "cost": 13.65,
                 "conversions": 1.0,
                 "conv_value": 40.0,
                 "ctr": 50.0,
-                "avg_cpc": 9.15,
+                "avg_cpc": 6.83,
                 "quality_score": null
               }
             }
@@ -11858,13 +11858,13 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 2,
-            "clicks": 1,
-            "cost": 9.15,
+            "impressions": 4,
+            "clicks": 2,
+            "cost": 13.65,
             "conversions": 1.0,
             "conv_value": 40.0,
             "ctr": 50.0,
-            "avg_cpc": 9.15
+            "avg_cpc": 6.83
           }
         },
         {
@@ -13298,12 +13298,12 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 15,
+                "impressions": 16,
                 "clicks": 1,
                 "cost": 1.82,
                 "conversions": 0.0,
                 "conv_value": 0.0,
-                "ctr": 6.7,
+                "ctr": 6.2,
                 "avg_cpc": 1.82,
                 "quality_score": 7
               }
@@ -13451,12 +13451,12 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 15,
+            "impressions": 16,
             "clicks": 1,
             "cost": 1.82,
             "conversions": 0.0,
             "conv_value": 0.0,
-            "ctr": 6.7,
+            "ctr": 6.2,
             "avg_cpc": 1.82
           }
         },
@@ -16307,13 +16307,13 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 15,
-                "clicks": 2,
-                "cost": 8.35,
+                "impressions": 18,
+                "clicks": 3,
+                "cost": 12.72,
                 "conversions": 0.0,
                 "conv_value": 0.0,
-                "ctr": 13.3,
-                "avg_cpc": 4.17,
+                "ctr": 16.7,
+                "avg_cpc": 4.24,
                 "quality_score": 8
               }
             }
@@ -16460,13 +16460,13 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 15,
-            "clicks": 2,
-            "cost": 8.35,
+            "impressions": 18,
+            "clicks": 3,
+            "cost": 12.72,
             "conversions": 0.0,
             "conv_value": 0.0,
-            "ctr": 13.3,
-            "avg_cpc": 4.17
+            "ctr": 16.7,
+            "avg_cpc": 4.24
           }
         },
         {
@@ -18462,13 +18462,13 @@
         }
       ],
       "perf": {
-        "impressions": 1169,
-        "clicks": 67,
-        "cost": 249.18,
+        "impressions": 1176,
+        "clicks": 69,
+        "cost": 258.05,
         "conversions": 4.0,
         "conv_value": 160.0,
-        "ctr": 5.7,
-        "avg_cpc": 3.72,
+        "ctr": 5.9,
+        "avg_cpc": 3.74,
         "impression_share": 59.5,
         "lost_to_budget": 0.4,
         "lost_to_rank": 40.1

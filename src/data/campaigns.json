@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-03T12:00:10+00:00",
+  "generated": "2026-08-03T16:00:10+00:00",
   "client": "Lisa Luvs Pets",
   "customer_id": "8268791200",
   "keyword_planner_available": false,
@@ -169,6 +169,13 @@
     {
       "term": "dog walking half moon bay",
       "impressions": 5,
+      "clicks": 0,
+      "cost": 0.0,
+      "conversions": 0.0
+    },
+    {
+      "term": "cat sitter menlo park",
+      "impressions": 4,
       "clicks": 0,
       "cost": 0.0,
       "conversions": 0.0
@@ -413,13 +420,6 @@
     },
     {
       "term": "pet nanny",
-      "impressions": 2,
-      "clicks": 0,
-      "cost": 0.0,
-      "conversions": 0.0
-    },
-    {
-      "term": "pet sitting gigs near me",
       "impressions": 2,
       "clicks": 0,
       "cost": 0.0,
@@ -1723,12 +1723,12 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 8,
+                "impressions": 11,
                 "clicks": 1,
                 "cost": 4.3,
                 "conversions": 0.0,
                 "conv_value": 0.0,
-                "ctr": 12.5,
+                "ctr": 9.1,
                 "avg_cpc": 4.3,
                 "quality_score": 6
               }
@@ -1876,12 +1876,12 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 8,
+            "impressions": 11,
             "clicks": 1,
             "cost": 4.3,
             "conversions": 0.0,
             "conv_value": 0.0,
-            "ctr": 12.5,
+            "ctr": 9.1,
             "avg_cpc": 4.3
           }
         },
@@ -18462,12 +18462,12 @@
         }
       ],
       "perf": {
-        "impressions": 1213,
+        "impressions": 1216,
         "clicks": 71,
         "cost": 266.9,
         "conversions": 5.0,
         "conv_value": 200.0,
-        "ctr": 5.9,
+        "ctr": 5.8,
         "avg_cpc": 3.76,
         "impression_share": 60.3,
         "lost_to_budget": 0.4,

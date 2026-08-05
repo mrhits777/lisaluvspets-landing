@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-05T16:00:11+00:00",
+  "generated": "2026-08-05T20:00:23+00:00",
   "client": "Lisa Luvs Pets",
   "customer_id": "8268791200",
   "keyword_planner_available": false,
@@ -8979,12 +8979,12 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 58,
+                "impressions": 59,
                 "clicks": 5,
                 "cost": 15.52,
                 "conversions": 1.0,
                 "conv_value": 40.0,
-                "ctr": 8.6,
+                "ctr": 8.5,
                 "avg_cpc": 3.1,
                 "quality_score": 7
               }
@@ -9132,12 +9132,12 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 58,
+            "impressions": 59,
             "clicks": 5,
             "cost": 15.52,
             "conversions": 1.0,
             "conv_value": 40.0,
-            "ctr": 8.6,
+            "ctr": 8.5,
             "avg_cpc": 3.1
           }
         },
@@ -14430,12 +14430,12 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 12,
+                "impressions": 14,
                 "clicks": 1,
                 "cost": 4.61,
                 "conversions": 0.0,
                 "conv_value": 0.0,
-                "ctr": 8.3,
+                "ctr": 7.1,
                 "avg_cpc": 4.61,
                 "quality_score": null
               }
@@ -14583,12 +14583,12 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 12,
+            "impressions": 14,
             "clicks": 1,
             "cost": 4.61,
             "conversions": 0.0,
             "conv_value": 0.0,
-            "ctr": 8.3,
+            "ctr": 7.1,
             "avg_cpc": 4.61
           }
         },
@@ -18174,7 +18174,7 @@
         }
       ],
       "perf": {
-        "impressions": 1294,
+        "impressions": 1297,
         "clicks": 76,
         "cost": 288.78,
         "conversions": 5.0,

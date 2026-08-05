@@ -70,7 +70,7 @@ export default function LandingPage({ v }: { v: Variant }) {
             </div>
             <div className="mt-6 flex flex-col gap-3 sm:flex-row sm:items-center">
               <PhoneCTA dark />
-              <p className="text-sm text-white/80">One local walker — I keep a small route so every walk stays unrushed.</p>
+              <p className="text-sm text-white/80">{v.pitchLine}</p>
             </div>
             <p className="mt-4 text-sm text-white/80">Serving {SITE.cities.join(" · ")}</p>
           </div>
@@ -88,6 +88,27 @@ export default function LandingPage({ v }: { v: Variant }) {
               <LeadForm variant={v.slug} service={v.service} />
             </div>
           </div>
+        </div>
+      </section>
+
+      {/* What's included — per-service, so the page actually differs by service.
+          v.bullets was defined in site.ts and rendered NOWHERE until 2026-08-05. Google
+          rated landing page experience BELOW_AVERAGE on the pet-sitting keywords (and
+          ABOVE_AVERAGE on none of them) while ~85% of the page was byte-identical between
+          the two services — this is the content that makes them differ. */}
+      <section className="border-b border-stone-200 bg-white">
+        <div className="mx-auto max-w-6xl px-4 py-10">
+          <h2 className="text-center text-2xl font-bold text-stone-900">
+            What&apos;s included with {v.service} in {v.city}
+          </h2>
+          <ul className="mx-auto mt-6 grid max-w-4xl gap-3 sm:grid-cols-2 lg:grid-cols-4">
+            {v.bullets.map((b) => (
+              <li key={b} className="flex items-start gap-2 rounded-xl bg-amber-50/60 p-3 text-stone-700">
+                <span aria-hidden className="mt-0.5 font-bold text-amber-600">✓</span>
+                <span className="text-sm">{b}</span>
+              </li>
+            ))}
+          </ul>
         </div>
       </section>
 
@@ -139,7 +160,10 @@ export default function LandingPage({ v }: { v: Variant }) {
       {/* Final CTA */}
       <section className="bg-stone-900">
         <div className="mx-auto max-w-4xl px-4 py-14 text-center">
-          <h2 className="text-3xl font-bold text-white">Ready to book {v.service} in {SITE.cities[0]}?</h2>
+          {/* v.city, NOT SITE.cities[0] — the latter is hardcoded "Belmont" and rendered
+              "Ready to book in-home pet care in Belmont?" on every city page, including
+              San Mateo's, which is where 4 of 5 conversions come from. */}
+          <h2 className="text-3xl font-bold text-white">Ready to book {v.service} in {v.city}?</h2>
           <p className="mt-3 text-stone-300">No obligation — start with a free meet &amp; greet.</p>
           <div className="mt-8 flex flex-col justify-center gap-3 sm:flex-row">
             <a href="#book" className="rounded-xl bg-amber-500 px-6 py-3.5 font-bold text-white transition hover:bg-amber-600">

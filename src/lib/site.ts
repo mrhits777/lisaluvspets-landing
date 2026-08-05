@@ -9,7 +9,15 @@ export const SITE = {
   email: "koharalisa@gmail.com",
   emailHref: "mailto:koharalisa@gmail.com",
   area: "Belmont & the Peninsula",
-  cities: ["Belmont", "San Carlos", "San Mateo", "Redwood City", "Menlo Park", "Foster City"],
+  // The service area shown to visitors. MUST cover every city we run ads to, or a visitor
+  // lands on /dog-walking/burlingame and reads a service-area list that excludes Burlingame.
+  // Keep in sync with `cities` in clients/lisa-luvs-pets/client.json (the ad-side source of
+  // truth). Woodside / Atherton / Half Moon Bay are deliberately absent — Lisa confirmed
+  // 2026-07-31 she does not service them, and their ad groups are paused.
+  cities: [
+    "Belmont", "San Carlos", "San Mateo", "Redwood City", "Menlo Park",
+    "Foster City", "Burlingame", "Millbrae", "Hillsborough",
+  ],
 } as const;
 
 // Google Ads conversion action "Lisa Luvs Pets - Website Lead" (created via API).
@@ -55,7 +63,9 @@ export type Variant = {
   heroImage: string;
   h1: string;
   sub: string;
+  city: string;
   service: string;
+  pitchLine: string;
   bullets: string[];
   steps: { title: string; body: string }[];
   metaTitle: string;
@@ -67,6 +77,7 @@ type ServiceTemplate = {
   service: string;
   hero: string;
   sub: (city: string) => string;
+  pitchLine: string;
   bullets: string[];
   steps: { title: string; body: string }[];
 };
@@ -78,6 +89,7 @@ export const SERVICES: Record<string, ServiceTemplate> = {
     hero: "/hero-dog-walking.jpg",
     sub: (city) =>
       `A real, local dog walker — not a rotating app. The same friendly face every walk, a photo after each one, and my own cell number. Now serving ${city}.`,
+    pitchLine: "One local walker — I keep a small route so every walk stays unrushed.",
     bullets: [
       "Trusted, one-on-one care",
       "Same-week start available",
@@ -96,6 +108,7 @@ export const SERVICES: Record<string, ServiceTemplate> = {
     hero: "/hero-pet-sitting.jpg",
     sub: (city) =>
       `A real, local pet sitter — not an app. Your pet stays home on their own routine, with a photo after every visit and my own cell number. Now serving ${city}.`,
+    pitchLine: "One local sitter — I keep a small client list so every visit stays unrushed.",
     bullets: [
       "In-home visits — no kennels",
       "Feeding, meds, litter & playtime",
@@ -120,7 +133,9 @@ export function cityVariant(serviceKey: string, citySlug: string): Variant | nul
     heroImage: t.hero,
     h1: `${t.label} in ${city.name}`,
     sub: t.sub(city.name),
+    city: city.name,
     service: t.service,
+    pitchLine: t.pitchLine,
     bullets: t.bullets,
     steps: t.steps,
     metaTitle: `${t.label} in ${city.name}, CA | Lisa Luvs Pets`,

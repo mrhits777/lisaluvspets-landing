@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-05T12:00:11+00:00",
+  "generated": "2026-08-05T16:00:11+00:00",
   "client": "Lisa Luvs Pets",
   "customer_id": "8268791200",
   "keyword_planner_available": false,
@@ -1450,77 +1450,6 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "planned_ad": {
-            "headlines": [
-              {
-                "text": "Pet Sitter Near Me",
-                "pinned": true
-              },
-              {
-                "text": "Trusted Pet Sitter",
-                "pinned": true
-              },
-              {
-                "text": "Local Pet Sitter",
-                "pinned": true
-              },
-              {
-                "text": "Hi, I'm Lisa",
-                "pinned": false
-              },
-              {
-                "text": "One Person, Just Lisa",
-                "pinned": false
-              },
-              {
-                "text": "I Treat Pets Like My Own",
-                "pinned": false
-              },
-              {
-                "text": "A Person, Not an App",
-                "pinned": false
-              },
-              {
-                "text": "Same Face Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Your Pet Stays Home",
-                "pinned": false
-              },
-              {
-                "text": "Trusted Local Care",
-                "pinned": false
-              },
-              {
-                "text": "5-Star Peninsula Care",
-                "pinned": false
-              },
-              {
-                "text": "Photos After Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Text or Call Lisa Today",
-                "pinned": false
-              },
-              {
-                "text": "Book a Free Meet & Greet",
-                "pinned": false
-              },
-              {
-                "text": "Meet Lisa, Then Decide",
-                "pinned": false
-              }
-            ],
-            "descriptions": [
-              "Hi, I'm Lisa, your local pet sitter. Your pet stays home; I come to them.",
-              "Not an app, just me caring for your dog or cat like my own. Book a free meet & greet!",
-              "Feeding, meds, playtime and photos after every visit. One trusted person: Lisa. Text me!",
-              "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
-            ]
-          },
-          "copy_pending": false,
           "perf": {
             "impressions": 105,
             "clicks": 6,
@@ -3326,77 +3255,6 @@
               "One trusted local who learns your dog's name and quirks. Meet me first, then decide."
             ]
           },
-          "planned_ad": {
-            "headlines": [
-              {
-                "text": "Dog Walker Near Me",
-                "pinned": true
-              },
-              {
-                "text": "Trusted Dog Walker",
-                "pinned": true
-              },
-              {
-                "text": "Local Dog Walker",
-                "pinned": true
-              },
-              {
-                "text": "Hi, I'm Lisa",
-                "pinned": false
-              },
-              {
-                "text": "One Person, Just Lisa",
-                "pinned": false
-              },
-              {
-                "text": "I Treat Pets Like My Own",
-                "pinned": false
-              },
-              {
-                "text": "A Person, Not an App",
-                "pinned": false
-              },
-              {
-                "text": "Same Face Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Your Pet Stays Home",
-                "pinned": false
-              },
-              {
-                "text": "Trusted Local Care",
-                "pinned": false
-              },
-              {
-                "text": "5-Star Peninsula Care",
-                "pinned": false
-              },
-              {
-                "text": "Photos After Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Text or Call Lisa Today",
-                "pinned": false
-              },
-              {
-                "text": "Book a Free Meet & Greet",
-                "pinned": false
-              },
-              {
-                "text": "Meet Lisa, Then Decide",
-                "pinned": false
-              }
-            ],
-            "descriptions": [
-              "Hi, I'm Lisa, your local dog walker. Same friendly face every single visit.",
-              "Not an app or a team, just me. I treat your dog like my own. Book a free meet & greet!",
-              "I keep your pup home on their routine, with photos after each walk. Text or call Lisa!",
-              "One trusted local who learns your dog's name and quirks. Meet me first, then decide."
-            ]
-          },
-          "copy_pending": false,
           "perf": {
             "impressions": 112,
             "clicks": 3,
@@ -3503,77 +3361,6 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "planned_ad": {
-            "headlines": [
-              {
-                "text": "Dog Sitter Near Me",
-                "pinned": true
-              },
-              {
-                "text": "Trusted Dog Sitter",
-                "pinned": true
-              },
-              {
-                "text": "Local Dog Sitter",
-                "pinned": true
-              },
-              {
-                "text": "Hi, I'm Lisa",
-                "pinned": false
-              },
-              {
-                "text": "One Person, Just Lisa",
-                "pinned": false
-              },
-              {
-                "text": "I Treat Pets Like My Own",
-                "pinned": false
-              },
-              {
-                "text": "A Person, Not an App",
-                "pinned": false
-              },
-              {
-                "text": "Same Face Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Your Pet Stays Home",
-                "pinned": false
-              },
-              {
-                "text": "Trusted Local Care",
-                "pinned": false
-              },
-              {
-                "text": "5-Star Peninsula Care",
-                "pinned": false
-              },
-              {
-                "text": "Photos After Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Text or Call Lisa Today",
-                "pinned": false
-              },
-              {
-                "text": "Book a Free Meet & Greet",
-                "pinned": false
-              },
-              {
-                "text": "Meet Lisa, Then Decide",
-                "pinned": false
-              }
-            ],
-            "descriptions": [
-              "Hi, I'm Lisa, your local pet sitter. Your pet stays home; I come to them.",
-              "Not an app, just me caring for your dog or cat like my own. Book a free meet & greet!",
-              "Feeding, meds, playtime and photos after every visit. One trusted person: Lisa. Text me!",
-              "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
-            ]
-          },
-          "copy_pending": false,
           "perf": {
             "impressions": 113,
             "clicks": 5,
@@ -3680,77 +3467,6 @@
               "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
             ]
           },
-          "planned_ad": {
-            "headlines": [
-              {
-                "text": "Cat Sitter Near Me",
-                "pinned": true
-              },
-              {
-                "text": "Trusted Cat Sitter",
-                "pinned": true
-              },
-              {
-                "text": "Local Cat Sitter",
-                "pinned": true
-              },
-              {
-                "text": "Hi, I'm Lisa",
-                "pinned": false
-              },
-              {
-                "text": "One Person, Just Lisa",
-                "pinned": false
-              },
-              {
-                "text": "I Treat Pets Like My Own",
-                "pinned": false
-              },
-              {
-                "text": "A Person, Not an App",
-                "pinned": false
-              },
-              {
-                "text": "Same Face Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Your Pet Stays Home",
-                "pinned": false
-              },
-              {
-                "text": "Trusted Local Care",
-                "pinned": false
-              },
-              {
-                "text": "5-Star Peninsula Care",
-                "pinned": false
-              },
-              {
-                "text": "Photos After Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Text or Call Lisa Today",
-                "pinned": false
-              },
-              {
-                "text": "Book a Free Meet & Greet",
-                "pinned": false
-              },
-              {
-                "text": "Meet Lisa, Then Decide",
-                "pinned": false
-              }
-            ],
-            "descriptions": [
-              "Hi, I'm Lisa, your local pet sitter. Your pet stays home; I come to them.",
-              "Not an app, just me caring for your dog or cat like my own. Book a free meet & greet!",
-              "Feeding, meds, playtime and photos after every visit. One trusted person: Lisa. Text me!",
-              "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
-            ]
-          },
-          "copy_pending": false,
           "perf": {
             "impressions": 56,
             "clicks": 2,
@@ -7139,12 +6855,12 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 50,
+                "impressions": 51,
                 "clicks": 3,
                 "cost": 8.81,
                 "conversions": 0.0,
                 "conv_value": 0.0,
-                "ctr": 6.0,
+                "ctr": 5.9,
                 "avg_cpc": 2.94,
                 "quality_score": 6
               }
@@ -7292,12 +7008,12 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 50,
+            "impressions": 51,
             "clicks": 3,
             "cost": 8.81,
             "conversions": 0.0,
             "conv_value": 0.0,
-            "ctr": 6.0,
+            "ctr": 5.9,
             "avg_cpc": 2.94
           }
         },
@@ -18429,10 +18145,6 @@
           "match": "BROAD"
         },
         {
-          "text": "rescue",
-          "match": "BROAD"
-        },
-        {
           "text": "how to",
           "match": "PHRASE"
         },
@@ -18462,16 +18174,16 @@
         }
       ],
       "perf": {
-        "impressions": 1293,
+        "impressions": 1294,
         "clicks": 76,
         "cost": 288.78,
         "conversions": 5.0,
         "conv_value": 200.0,
         "ctr": 5.9,
         "avg_cpc": 3.8,
-        "impression_share": 61.2,
+        "impression_share": 61.3,
         "lost_to_budget": 0.4,
-        "lost_to_rank": 38.4
+        "lost_to_rank": 38.3
       }
     }
   ]

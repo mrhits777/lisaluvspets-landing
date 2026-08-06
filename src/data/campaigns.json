@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-05T20:00:23+00:00",
+  "generated": "2026-08-06T00:00:12+00:00",
   "client": "Lisa Luvs Pets",
   "customer_id": "8268791200",
   "keyword_planner_available": false,
@@ -2820,7 +2820,7 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 59,
+                "impressions": 60,
                 "clicks": 0,
                 "cost": 0.0,
                 "conversions": 0.0,
@@ -2973,7 +2973,7 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 59,
+            "impressions": 60,
             "clicks": 0,
             "cost": 0.0,
             "conversions": 0.0,
@@ -8979,12 +8979,12 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 59,
+                "impressions": 60,
                 "clicks": 5,
                 "cost": 15.52,
                 "conversions": 1.0,
                 "conv_value": 40.0,
-                "ctr": 8.5,
+                "ctr": 8.3,
                 "avg_cpc": 3.1,
                 "quality_score": 7
               }
@@ -9132,12 +9132,12 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 59,
+            "impressions": 60,
             "clicks": 5,
             "cost": 15.52,
             "conversions": 1.0,
             "conv_value": 40.0,
-            "ctr": 8.5,
+            "ctr": 8.3,
             "avg_cpc": 3.1
           }
         },
@@ -18174,7 +18174,7 @@
         }
       ],
       "perf": {
-        "impressions": 1297,
+        "impressions": 1299,
         "clicks": 76,
         "cost": 288.78,
         "conversions": 5.0,

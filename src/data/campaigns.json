@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-01T00:00:13+00:00",
+  "generated": "2026-09-01T08:00:13+00:00",
   "client": "Lisa Luvs Pets",
   "customer_id": "8268791200",
   "keyword_planner_available": false,
@@ -13,28 +13,21 @@
       "conversions": 0.0
     },
     {
-      "term": "cat sitter san mateo",
-      "impressions": 8,
-      "clicks": 2,
-      "cost": 8.85,
-      "conversions": 0.0
-    },
-    {
       "term": "cat sitter menlo park",
-      "impressions": 4,
-      "clicks": 0,
-      "cost": 0.0,
-      "conversions": 0.0
-    },
-    {
-      "term": "cat's inn belmont california",
-      "impressions": 4,
+      "impressions": 3,
       "clicks": 0,
       "cost": 0.0,
       "conversions": 0.0
     },
     {
       "term": "dog walker redwood city",
+      "impressions": 3,
+      "clicks": 0,
+      "cost": 0.0,
+      "conversions": 0.0
+    },
+    {
+      "term": "cat sitter san mateo",
       "impressions": 3,
       "clicks": 0,
       "cost": 0.0,
@@ -1146,7 +1139,7 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 4,
+                "impressions": 3,
                 "clicks": 0,
                 "cost": 0.0,
                 "conversions": 0.0,
@@ -1299,7 +1292,7 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 4,
+            "impressions": 3,
             "clicks": 0,
             "cost": 0.0,
             "conversions": 0.0,
@@ -1323,12 +1316,12 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 10,
+                "impressions": 6,
                 "clicks": 1,
                 "cost": 4.47,
                 "conversions": 0.0,
                 "conv_value": 0.0,
-                "ctr": 10.0,
+                "ctr": 16.7,
                 "avg_cpc": 4.47,
                 "quality_score": 7
               }
@@ -1476,12 +1469,12 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 10,
+            "impressions": 6,
             "clicks": 1,
             "cost": 4.47,
             "conversions": 0.0,
             "conv_value": 0.0,
-            "ctr": 10.0,
+            "ctr": 16.7,
             "avg_cpc": 4.47
           }
         },
@@ -1783,7 +1776,7 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 4,
+                "impressions": 0,
                 "clicks": 0,
                 "cost": 0.0,
                 "conversions": 0.0,
@@ -1936,7 +1929,7 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 4,
+            "impressions": 0,
             "clicks": 0,
             "cost": 0.0,
             "conversions": 0.0,
@@ -2137,7 +2130,7 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 3,
+                "impressions": 0,
                 "clicks": 0,
                 "cost": 0.0,
                 "conversions": 0.0,
@@ -2290,7 +2283,7 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 3,
+            "impressions": 0,
             "clicks": 0,
             "cost": 0.0,
             "conversions": 0.0,
@@ -2491,7 +2484,7 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 24,
+                "impressions": 21,
                 "clicks": 0,
                 "cost": 0.0,
                 "conversions": 0.0,
@@ -2644,7 +2637,7 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 24,
+            "impressions": 21,
             "clicks": 0,
             "cost": 0.0,
             "conversions": 0.0,
@@ -6526,7 +6519,7 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 6,
+                "impressions": 4,
                 "clicks": 0,
                 "cost": 0.0,
                 "conversions": 0.0,
@@ -6679,7 +6672,7 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 6,
+            "impressions": 4,
             "clicks": 0,
             "cost": 0.0,
             "conversions": 0.0,
@@ -11092,13 +11085,13 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 22,
-                "clicks": 4,
-                "cost": 17.5,
+                "impressions": 13,
+                "clicks": 2,
+                "cost": 8.65,
                 "conversions": 0.0,
                 "conv_value": 0.0,
-                "ctr": 18.2,
-                "avg_cpc": 4.38,
+                "ctr": 15.4,
+                "avg_cpc": 4.33,
                 "quality_score": 7
               }
             }
@@ -11245,13 +11238,13 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 22,
-            "clicks": 4,
-            "cost": 17.5,
+            "impressions": 13,
+            "clicks": 2,
+            "cost": 8.65,
             "conversions": 0.0,
             "conv_value": 0.0,
-            "ctr": 18.2,
-            "avg_cpc": 4.38
+            "ctr": 15.4,
+            "avg_cpc": 4.33
           }
         },
         {
@@ -11446,7 +11439,7 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 5,
+                "impressions": 4,
                 "clicks": 0,
                 "cost": 0.0,
                 "conversions": 0.0,
@@ -11599,7 +11592,7 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 5,
+            "impressions": 4,
             "clicks": 0,
             "cost": 0.0,
             "conversions": 0.0,
@@ -11800,7 +11793,7 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 1,
+                "impressions": 0,
                 "clicks": 0,
                 "cost": 0.0,
                 "conversions": 0.0,
@@ -11953,7 +11946,7 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 1,
+            "impressions": 0,
             "clicks": 0,
             "cost": 0.0,
             "conversions": 0.0,
@@ -12862,7 +12855,7 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 2,
+                "impressions": 1,
                 "clicks": 0,
                 "cost": 0.0,
                 "conversions": 0.0,
@@ -13015,7 +13008,7 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 2,
+            "impressions": 1,
             "clicks": 0,
             "cost": 0.0,
             "conversions": 0.0,
@@ -14986,7 +14979,7 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 8,
+                "impressions": 6,
                 "clicks": 0,
                 "cost": 0.0,
                 "conversions": 0.0,
@@ -15139,7 +15132,7 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 8,
+            "impressions": 6,
             "clicks": 0,
             "cost": 0.0,
             "conversions": 0.0,
@@ -15340,7 +15333,7 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 6,
+                "impressions": 0,
                 "clicks": 0,
                 "cost": 0.0,
                 "conversions": 0.0,
@@ -15493,7 +15486,7 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 6,
+            "impressions": 0,
             "clicks": 0,
             "cost": 0.0,
             "conversions": 0.0,
@@ -17845,16 +17838,16 @@
         }
       ],
       "perf": {
-        "impressions": 143,
-        "clicks": 8,
-        "cost": 30.78,
+        "impressions": 106,
+        "clicks": 6,
+        "cost": 21.93,
         "conversions": 0.0,
         "conv_value": 0.0,
-        "ctr": 5.6,
-        "avg_cpc": 3.85,
-        "impression_share": 76.2,
+        "ctr": 5.7,
+        "avg_cpc": 3.65,
+        "impression_share": 72.1,
         "lost_to_budget": 0.0,
-        "lost_to_rank": 23.8
+        "lost_to_rank": 27.9
       }
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-02T08:00:13+00:00",
+  "generated": "2026-09-02T20:00:14+00:00",
   "client": "Lisa Luvs Pets",
   "customer_id": "8268791200",
   "keyword_planner_available": false,
@@ -35,6 +35,13 @@
     },
     {
       "term": "dog walkers belmont",
+      "impressions": 1,
+      "clicks": 0,
+      "cost": 0.0,
+      "conversions": 0.0
+    },
+    {
+      "term": "dog walker burlingame",
       "impressions": 1,
       "clicks": 0,
       "cost": 0.0,
@@ -12636,7 +12643,7 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 0,
+                "impressions": 1,
                 "clicks": 0,
                 "cost": 0.0,
                 "conversions": 0.0,
@@ -12789,7 +12796,7 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 0,
+            "impressions": 1,
             "clicks": 0,
             "cost": 0.0,
             "conversions": 0.0,
@@ -17796,12 +17803,12 @@
         }
       ],
       "perf": {
-        "impressions": 61,
+        "impressions": 62,
         "clicks": 6,
         "cost": 17.54,
         "conversions": 0.0,
         "conv_value": 0.0,
-        "ctr": 9.8,
+        "ctr": 9.7,
         "avg_cpc": 2.92,
         "impression_share": 61.8,
         "lost_to_budget": 0.0,

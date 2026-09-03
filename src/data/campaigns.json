@@ -1,33 +1,12 @@
 {
-  "generated": "2026-09-02T20:00:14+00:00",
+  "generated": "2026-09-03T08:00:12+00:00",
   "client": "Lisa Luvs Pets",
   "customer_id": "8268791200",
   "keyword_planner_available": false,
   "perf_range": "LAST_30_DAYS_INCLUDING_TODAY",
   "search_terms": [
     {
-      "term": "menlo park cat sitter",
-      "impressions": 2,
-      "clicks": 0,
-      "cost": 0.0,
-      "conversions": 0.0
-    },
-    {
-      "term": "palo alto dog walker",
-      "impressions": 2,
-      "clicks": 0,
-      "cost": 0.0,
-      "conversions": 0.0
-    },
-    {
       "term": "dog walkers redwood city",
-      "impressions": 2,
-      "clicks": 0,
-      "cost": 0.0,
-      "conversions": 0.0
-    },
-    {
-      "term": "cat sitting san mateo",
       "impressions": 2,
       "clicks": 0,
       "cost": 0.0,
@@ -42,13 +21,6 @@
     },
     {
       "term": "dog walker burlingame",
-      "impressions": 1,
-      "clicks": 0,
-      "cost": 0.0,
-      "conversions": 0.0
-    },
-    {
-      "term": "menlo bark",
       "impressions": 1,
       "clicks": 0,
       "cost": 0.0,
@@ -1104,7 +1076,7 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 3,
+                "impressions": 1,
                 "clicks": 0,
                 "cost": 0.0,
                 "conversions": 0.0,
@@ -1257,7 +1229,7 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 3,
+            "impressions": 1,
             "clicks": 0,
             "cost": 0.0,
             "conversions": 0.0,
@@ -1281,7 +1253,7 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 2,
+                "impressions": 0,
                 "clicks": 0,
                 "cost": 0.0,
                 "conversions": 0.0,
@@ -1434,7 +1406,7 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 2,
+            "impressions": 0,
             "clicks": 0,
             "cost": 0.0,
             "conversions": 0.0,
@@ -2449,7 +2421,7 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 6,
+                "impressions": 5,
                 "clicks": 0,
                 "cost": 0.0,
                 "conversions": 0.0,
@@ -2602,7 +2574,7 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 6,
+            "impressions": 5,
             "clicks": 0,
             "cost": 0.0,
             "conversions": 0.0,
@@ -2626,7 +2598,7 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 6,
+                "impressions": 3,
                 "clicks": 0,
                 "cost": 0.0,
                 "conversions": 0.0,
@@ -2779,7 +2751,7 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 6,
+            "impressions": 3,
             "clicks": 0,
             "cost": 0.0,
             "conversions": 0.0,
@@ -4537,7 +4509,7 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 1,
+                "impressions": 0,
                 "clicks": 0,
                 "cost": 0.0,
                 "conversions": 0.0,
@@ -4690,7 +4662,7 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 1,
+            "impressions": 0,
             "clicks": 0,
             "cost": 0.0,
             "conversions": 0.0,
@@ -5599,7 +5571,7 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 2,
+                "impressions": 1,
                 "clicks": 0,
                 "cost": 0.0,
                 "conversions": 0.0,
@@ -5752,7 +5724,7 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 2,
+            "impressions": 1,
             "clicks": 0,
             "cost": 0.0,
             "conversions": 0.0,
@@ -6130,12 +6102,12 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 5,
+                "impressions": 2,
                 "clicks": 2,
                 "cost": 8.76,
                 "conversions": 0.0,
                 "conv_value": 0.0,
-                "ctr": 40.0,
+                "ctr": 100.0,
                 "avg_cpc": 4.38,
                 "quality_score": null
               }
@@ -6283,12 +6255,12 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 5,
+            "impressions": 2,
             "clicks": 2,
             "cost": 8.76,
             "conversions": 0.0,
             "conv_value": 0.0,
-            "ctr": 40.0,
+            "ctr": 100.0,
             "avg_cpc": 4.38
           }
         },
@@ -6484,7 +6456,7 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 3,
+                "impressions": 1,
                 "clicks": 0,
                 "cost": 0.0,
                 "conversions": 0.0,
@@ -6637,7 +6609,7 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 3,
+            "impressions": 1,
             "clicks": 0,
             "cost": 0.0,
             "conversions": 0.0,
@@ -6838,7 +6810,7 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 1,
+                "impressions": 0,
                 "clicks": 0,
                 "cost": 0.0,
                 "conversions": 0.0,
@@ -6991,7 +6963,7 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 1,
+            "impressions": 0,
             "clicks": 0,
             "cost": 0.0,
             "conversions": 0.0,
@@ -10696,7 +10668,7 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 1,
+                "impressions": 0,
                 "clicks": 0,
                 "cost": 0.0,
                 "conversions": 0.0,
@@ -10789,6 +10761,360 @@
               },
               {
                 "text": "Dog Sitter San Mateo",
+                "pinned": true
+              },
+              {
+                "text": "Hi, I'm Lisa",
+                "pinned": false
+              },
+              {
+                "text": "One Person, Just Lisa",
+                "pinned": false
+              },
+              {
+                "text": "I Treat Pets Like My Own",
+                "pinned": false
+              },
+              {
+                "text": "A Person, Not an App",
+                "pinned": false
+              },
+              {
+                "text": "Same Face Every Visit",
+                "pinned": false
+              },
+              {
+                "text": "Your Pet Stays Home",
+                "pinned": false
+              },
+              {
+                "text": "Trusted Local Care",
+                "pinned": false
+              },
+              {
+                "text": "5-Star Peninsula Care",
+                "pinned": false
+              },
+              {
+                "text": "Photos After Every Visit",
+                "pinned": false
+              },
+              {
+                "text": "Text or Call Lisa Today",
+                "pinned": false
+              },
+              {
+                "text": "Book a Free Meet & Greet",
+                "pinned": false
+              },
+              {
+                "text": "Meet Lisa, Then Decide",
+                "pinned": false
+              }
+            ],
+            "descriptions": [
+              "Hi, I'm Lisa, your local pet sitter. Your pet stays home; I come to them.",
+              "Not an app, just me caring for your dog or cat like my own. Book a free meet & greet!",
+              "Feeding, meds, playtime and photos after every visit. One trusted person: Lisa. Text me!",
+              "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
+            ]
+          },
+          "copy_pending": false,
+          "perf": {
+            "impressions": 0,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
+        },
+        {
+          "id": "200864642369",
+          "name": "dog sitting san mateo",
+          "status": "ENABLED",
+          "final_url": "https://go.lisaluvspets.com/pet-sitting/san-mateo",
+          "keywords": [
+            {
+              "text": "dog sitting san mateo",
+              "match": "PHRASE",
+              "words": 4,
+              "status": "ENABLED",
+              "volume": null,
+              "cpc_low": null,
+              "cpc_high": null,
+              "perf": {
+                "impressions": 0,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": 7
+              }
+            }
+          ],
+          "ad": {
+            "headlines": [
+              {
+                "text": "Dog Sitting",
+                "pinned": true
+              },
+              {
+                "text": "San Mateo Dog Sitting",
+                "pinned": true
+              },
+              {
+                "text": "Dog Sitting San Mateo",
+                "pinned": true
+              },
+              {
+                "text": "Hi, I'm Lisa",
+                "pinned": false
+              },
+              {
+                "text": "One Person, Just Lisa",
+                "pinned": false
+              },
+              {
+                "text": "I Treat Pets Like My Own",
+                "pinned": false
+              },
+              {
+                "text": "A Person, Not an App",
+                "pinned": false
+              },
+              {
+                "text": "Same Face Every Visit",
+                "pinned": false
+              },
+              {
+                "text": "Your Pet Stays Home",
+                "pinned": false
+              },
+              {
+                "text": "Trusted Local Care",
+                "pinned": false
+              },
+              {
+                "text": "5-Star Peninsula Care",
+                "pinned": false
+              },
+              {
+                "text": "Photos After Every Visit",
+                "pinned": false
+              },
+              {
+                "text": "Text or Call Lisa Today",
+                "pinned": false
+              },
+              {
+                "text": "Book a Free Meet & Greet",
+                "pinned": false
+              },
+              {
+                "text": "Meet Lisa, Then Decide",
+                "pinned": false
+              }
+            ],
+            "descriptions": [
+              "Hi, I'm Lisa, your local pet sitter. Your pet stays home; I come to them.",
+              "Not an app, just me caring for your dog or cat like my own. Book a free meet & greet!",
+              "Feeding, meds, playtime and photos after every visit. One trusted person: Lisa. Text me!",
+              "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
+            ]
+          },
+          "planned_ad": {
+            "headlines": [
+              {
+                "text": "Dog Sitting",
+                "pinned": true
+              },
+              {
+                "text": "San Mateo Dog Sitting",
+                "pinned": true
+              },
+              {
+                "text": "Dog Sitting San Mateo",
+                "pinned": true
+              },
+              {
+                "text": "Hi, I'm Lisa",
+                "pinned": false
+              },
+              {
+                "text": "One Person, Just Lisa",
+                "pinned": false
+              },
+              {
+                "text": "I Treat Pets Like My Own",
+                "pinned": false
+              },
+              {
+                "text": "A Person, Not an App",
+                "pinned": false
+              },
+              {
+                "text": "Same Face Every Visit",
+                "pinned": false
+              },
+              {
+                "text": "Your Pet Stays Home",
+                "pinned": false
+              },
+              {
+                "text": "Trusted Local Care",
+                "pinned": false
+              },
+              {
+                "text": "5-Star Peninsula Care",
+                "pinned": false
+              },
+              {
+                "text": "Photos After Every Visit",
+                "pinned": false
+              },
+              {
+                "text": "Text or Call Lisa Today",
+                "pinned": false
+              },
+              {
+                "text": "Book a Free Meet & Greet",
+                "pinned": false
+              },
+              {
+                "text": "Meet Lisa, Then Decide",
+                "pinned": false
+              }
+            ],
+            "descriptions": [
+              "Hi, I'm Lisa, your local pet sitter. Your pet stays home; I come to them.",
+              "Not an app, just me caring for your dog or cat like my own. Book a free meet & greet!",
+              "Feeding, meds, playtime and photos after every visit. One trusted person: Lisa. Text me!",
+              "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
+            ]
+          },
+          "copy_pending": false,
+          "perf": {
+            "impressions": 0,
+            "clicks": 0,
+            "cost": 0.0,
+            "conversions": 0.0,
+            "conv_value": 0.0,
+            "ctr": 0.0,
+            "avg_cpc": 0.0
+          }
+        },
+        {
+          "id": "200864643529",
+          "name": "cat sitter san mateo",
+          "status": "ENABLED",
+          "final_url": "https://go.lisaluvspets.com/pet-sitting/san-mateo",
+          "keywords": [
+            {
+              "text": "cat sitter san mateo",
+              "match": "PHRASE",
+              "words": 4,
+              "status": "ENABLED",
+              "volume": null,
+              "cpc_low": null,
+              "cpc_high": null,
+              "perf": {
+                "impressions": 1,
+                "clicks": 0,
+                "cost": 0.0,
+                "conversions": 0.0,
+                "conv_value": 0.0,
+                "ctr": 0.0,
+                "avg_cpc": 0.0,
+                "quality_score": 7
+              }
+            }
+          ],
+          "ad": {
+            "headlines": [
+              {
+                "text": "Cat Sitter",
+                "pinned": true
+              },
+              {
+                "text": "San Mateo Cat Sitter",
+                "pinned": true
+              },
+              {
+                "text": "Cat Sitter San Mateo",
+                "pinned": true
+              },
+              {
+                "text": "Hi, I'm Lisa",
+                "pinned": false
+              },
+              {
+                "text": "One Person, Just Lisa",
+                "pinned": false
+              },
+              {
+                "text": "I Treat Pets Like My Own",
+                "pinned": false
+              },
+              {
+                "text": "A Person, Not an App",
+                "pinned": false
+              },
+              {
+                "text": "Same Face Every Visit",
+                "pinned": false
+              },
+              {
+                "text": "Your Pet Stays Home",
+                "pinned": false
+              },
+              {
+                "text": "Trusted Local Care",
+                "pinned": false
+              },
+              {
+                "text": "5-Star Peninsula Care",
+                "pinned": false
+              },
+              {
+                "text": "Photos After Every Visit",
+                "pinned": false
+              },
+              {
+                "text": "Text or Call Lisa Today",
+                "pinned": false
+              },
+              {
+                "text": "Book a Free Meet & Greet",
+                "pinned": false
+              },
+              {
+                "text": "Meet Lisa, Then Decide",
+                "pinned": false
+              }
+            ],
+            "descriptions": [
+              "Hi, I'm Lisa, your local pet sitter. Your pet stays home; I come to them.",
+              "Not an app, just me caring for your dog or cat like my own. Book a free meet & greet!",
+              "Feeding, meds, playtime and photos after every visit. One trusted person: Lisa. Text me!",
+              "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
+            ]
+          },
+          "planned_ad": {
+            "headlines": [
+              {
+                "text": "Cat Sitter",
+                "pinned": true
+              },
+              {
+                "text": "San Mateo Cat Sitter",
+                "pinned": true
+              },
+              {
+                "text": "Cat Sitter San Mateo",
                 "pinned": true
               },
               {
@@ -10856,360 +11182,6 @@
             "conv_value": 0.0,
             "ctr": 0.0,
             "avg_cpc": 0.0
-          }
-        },
-        {
-          "id": "200864642369",
-          "name": "dog sitting san mateo",
-          "status": "ENABLED",
-          "final_url": "https://go.lisaluvspets.com/pet-sitting/san-mateo",
-          "keywords": [
-            {
-              "text": "dog sitting san mateo",
-              "match": "PHRASE",
-              "words": 4,
-              "status": "ENABLED",
-              "volume": null,
-              "cpc_low": null,
-              "cpc_high": null,
-              "perf": {
-                "impressions": 2,
-                "clicks": 0,
-                "cost": 0.0,
-                "conversions": 0.0,
-                "conv_value": 0.0,
-                "ctr": 0.0,
-                "avg_cpc": 0.0,
-                "quality_score": 7
-              }
-            }
-          ],
-          "ad": {
-            "headlines": [
-              {
-                "text": "Dog Sitting",
-                "pinned": true
-              },
-              {
-                "text": "San Mateo Dog Sitting",
-                "pinned": true
-              },
-              {
-                "text": "Dog Sitting San Mateo",
-                "pinned": true
-              },
-              {
-                "text": "Hi, I'm Lisa",
-                "pinned": false
-              },
-              {
-                "text": "One Person, Just Lisa",
-                "pinned": false
-              },
-              {
-                "text": "I Treat Pets Like My Own",
-                "pinned": false
-              },
-              {
-                "text": "A Person, Not an App",
-                "pinned": false
-              },
-              {
-                "text": "Same Face Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Your Pet Stays Home",
-                "pinned": false
-              },
-              {
-                "text": "Trusted Local Care",
-                "pinned": false
-              },
-              {
-                "text": "5-Star Peninsula Care",
-                "pinned": false
-              },
-              {
-                "text": "Photos After Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Text or Call Lisa Today",
-                "pinned": false
-              },
-              {
-                "text": "Book a Free Meet & Greet",
-                "pinned": false
-              },
-              {
-                "text": "Meet Lisa, Then Decide",
-                "pinned": false
-              }
-            ],
-            "descriptions": [
-              "Hi, I'm Lisa, your local pet sitter. Your pet stays home; I come to them.",
-              "Not an app, just me caring for your dog or cat like my own. Book a free meet & greet!",
-              "Feeding, meds, playtime and photos after every visit. One trusted person: Lisa. Text me!",
-              "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
-            ]
-          },
-          "planned_ad": {
-            "headlines": [
-              {
-                "text": "Dog Sitting",
-                "pinned": true
-              },
-              {
-                "text": "San Mateo Dog Sitting",
-                "pinned": true
-              },
-              {
-                "text": "Dog Sitting San Mateo",
-                "pinned": true
-              },
-              {
-                "text": "Hi, I'm Lisa",
-                "pinned": false
-              },
-              {
-                "text": "One Person, Just Lisa",
-                "pinned": false
-              },
-              {
-                "text": "I Treat Pets Like My Own",
-                "pinned": false
-              },
-              {
-                "text": "A Person, Not an App",
-                "pinned": false
-              },
-              {
-                "text": "Same Face Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Your Pet Stays Home",
-                "pinned": false
-              },
-              {
-                "text": "Trusted Local Care",
-                "pinned": false
-              },
-              {
-                "text": "5-Star Peninsula Care",
-                "pinned": false
-              },
-              {
-                "text": "Photos After Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Text or Call Lisa Today",
-                "pinned": false
-              },
-              {
-                "text": "Book a Free Meet & Greet",
-                "pinned": false
-              },
-              {
-                "text": "Meet Lisa, Then Decide",
-                "pinned": false
-              }
-            ],
-            "descriptions": [
-              "Hi, I'm Lisa, your local pet sitter. Your pet stays home; I come to them.",
-              "Not an app, just me caring for your dog or cat like my own. Book a free meet & greet!",
-              "Feeding, meds, playtime and photos after every visit. One trusted person: Lisa. Text me!",
-              "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
-            ]
-          },
-          "copy_pending": false,
-          "perf": {
-            "impressions": 2,
-            "clicks": 0,
-            "cost": 0.0,
-            "conversions": 0.0,
-            "conv_value": 0.0,
-            "ctr": 0.0,
-            "avg_cpc": 0.0
-          }
-        },
-        {
-          "id": "200864643529",
-          "name": "cat sitter san mateo",
-          "status": "ENABLED",
-          "final_url": "https://go.lisaluvspets.com/pet-sitting/san-mateo",
-          "keywords": [
-            {
-              "text": "cat sitter san mateo",
-              "match": "PHRASE",
-              "words": 4,
-              "status": "ENABLED",
-              "volume": null,
-              "cpc_low": null,
-              "cpc_high": null,
-              "perf": {
-                "impressions": 7,
-                "clicks": 2,
-                "cost": 8.65,
-                "conversions": 0.0,
-                "conv_value": 0.0,
-                "ctr": 28.6,
-                "avg_cpc": 4.33,
-                "quality_score": 7
-              }
-            }
-          ],
-          "ad": {
-            "headlines": [
-              {
-                "text": "Cat Sitter",
-                "pinned": true
-              },
-              {
-                "text": "San Mateo Cat Sitter",
-                "pinned": true
-              },
-              {
-                "text": "Cat Sitter San Mateo",
-                "pinned": true
-              },
-              {
-                "text": "Hi, I'm Lisa",
-                "pinned": false
-              },
-              {
-                "text": "One Person, Just Lisa",
-                "pinned": false
-              },
-              {
-                "text": "I Treat Pets Like My Own",
-                "pinned": false
-              },
-              {
-                "text": "A Person, Not an App",
-                "pinned": false
-              },
-              {
-                "text": "Same Face Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Your Pet Stays Home",
-                "pinned": false
-              },
-              {
-                "text": "Trusted Local Care",
-                "pinned": false
-              },
-              {
-                "text": "5-Star Peninsula Care",
-                "pinned": false
-              },
-              {
-                "text": "Photos After Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Text or Call Lisa Today",
-                "pinned": false
-              },
-              {
-                "text": "Book a Free Meet & Greet",
-                "pinned": false
-              },
-              {
-                "text": "Meet Lisa, Then Decide",
-                "pinned": false
-              }
-            ],
-            "descriptions": [
-              "Hi, I'm Lisa, your local pet sitter. Your pet stays home; I come to them.",
-              "Not an app, just me caring for your dog or cat like my own. Book a free meet & greet!",
-              "Feeding, meds, playtime and photos after every visit. One trusted person: Lisa. Text me!",
-              "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
-            ]
-          },
-          "planned_ad": {
-            "headlines": [
-              {
-                "text": "Cat Sitter",
-                "pinned": true
-              },
-              {
-                "text": "San Mateo Cat Sitter",
-                "pinned": true
-              },
-              {
-                "text": "Cat Sitter San Mateo",
-                "pinned": true
-              },
-              {
-                "text": "Hi, I'm Lisa",
-                "pinned": false
-              },
-              {
-                "text": "One Person, Just Lisa",
-                "pinned": false
-              },
-              {
-                "text": "I Treat Pets Like My Own",
-                "pinned": false
-              },
-              {
-                "text": "A Person, Not an App",
-                "pinned": false
-              },
-              {
-                "text": "Same Face Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Your Pet Stays Home",
-                "pinned": false
-              },
-              {
-                "text": "Trusted Local Care",
-                "pinned": false
-              },
-              {
-                "text": "5-Star Peninsula Care",
-                "pinned": false
-              },
-              {
-                "text": "Photos After Every Visit",
-                "pinned": false
-              },
-              {
-                "text": "Text or Call Lisa Today",
-                "pinned": false
-              },
-              {
-                "text": "Book a Free Meet & Greet",
-                "pinned": false
-              },
-              {
-                "text": "Meet Lisa, Then Decide",
-                "pinned": false
-              }
-            ],
-            "descriptions": [
-              "Hi, I'm Lisa, your local pet sitter. Your pet stays home; I come to them.",
-              "Not an app, just me caring for your dog or cat like my own. Book a free meet & greet!",
-              "Feeding, meds, playtime and photos after every visit. One trusted person: Lisa. Text me!",
-              "Your pet keeps their home routine, never a kennel. Local & loving. Call Lisa today!"
-            ]
-          },
-          "copy_pending": false,
-          "perf": {
-            "impressions": 7,
-            "clicks": 2,
-            "cost": 8.65,
-            "conversions": 0.0,
-            "conv_value": 0.0,
-            "ctr": 28.6,
-            "avg_cpc": 4.33
           }
         },
         {
@@ -11404,7 +11376,7 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 1,
+                "impressions": 0,
                 "clicks": 0,
                 "cost": 0.0,
                 "conversions": 0.0,
@@ -11557,7 +11529,7 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 1,
+            "impressions": 0,
             "clicks": 0,
             "cost": 0.0,
             "conversions": 0.0,
@@ -14059,7 +14031,7 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 4,
+                "impressions": 3,
                 "clicks": 0,
                 "cost": 0.0,
                 "conversions": 0.0,
@@ -14212,7 +14184,7 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 4,
+            "impressions": 3,
             "clicks": 0,
             "cost": 0.0,
             "conversions": 0.0,
@@ -14944,7 +14916,7 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 1,
+                "impressions": 0,
                 "clicks": 0,
                 "cost": 0.0,
                 "conversions": 0.0,
@@ -15097,7 +15069,7 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 1,
+            "impressions": 0,
             "clicks": 0,
             "cost": 0.0,
             "conversions": 0.0,
@@ -15121,7 +15093,7 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 1,
+                "impressions": 0,
                 "clicks": 0,
                 "cost": 0.0,
                 "conversions": 0.0,
@@ -15274,7 +15246,7 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 1,
+            "impressions": 0,
             "clicks": 0,
             "cost": 0.0,
             "conversions": 0.0,
@@ -17803,16 +17775,16 @@
         }
       ],
       "perf": {
-        "impressions": 62,
-        "clicks": 6,
-        "cost": 17.54,
+        "impressions": 33,
+        "clicks": 4,
+        "cost": 8.89,
         "conversions": 0.0,
         "conv_value": 0.0,
-        "ctr": 9.7,
-        "avg_cpc": 2.92,
-        "impression_share": 61.8,
+        "ctr": 12.1,
+        "avg_cpc": 2.22,
+        "impression_share": 50.0,
         "lost_to_budget": 0.0,
-        "lost_to_rank": 38.2
+        "lost_to_rank": 50.0
       }
     }
   ]

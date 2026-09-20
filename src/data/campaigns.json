@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-19T08:00:20+00:00",
+  "generated": "2026-09-20T08:00:18+00:00",
   "client": "Lisa Luvs Pets",
   "customer_id": "8268791200",
   "keyword_planner_available": false,
@@ -7,13 +7,6 @@
   "search_terms": [
     {
       "term": "dog walker redwood city",
-      "impressions": 2,
-      "clicks": 0,
-      "cost": 0.0,
-      "conversions": 0.0
-    },
-    {
-      "term": "dog walkers redwood city",
       "impressions": 2,
       "clicks": 0,
       "cost": 0.0,
@@ -5578,7 +5571,7 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 2,
+                "impressions": 3,
                 "clicks": 0,
                 "cost": 0.0,
                 "conversions": 0.0,
@@ -5731,7 +5724,7 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 2,
+            "impressions": 3,
             "clicks": 0,
             "cost": 0.0,
             "conversions": 0.0,
@@ -8587,12 +8580,12 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 5,
+                "impressions": 3,
                 "clicks": 1,
                 "cost": 0.05,
                 "conversions": 0.0,
                 "conv_value": 0.0,
-                "ctr": 20.0,
+                "ctr": 33.3,
                 "avg_cpc": 0.05,
                 "quality_score": 7
               }
@@ -8740,12 +8733,12 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 5,
+            "impressions": 3,
             "clicks": 1,
             "cost": 0.05,
             "conversions": 0.0,
             "conv_value": 0.0,
-            "ctr": 20.0,
+            "ctr": 33.3,
             "avg_cpc": 0.05
           }
         },
@@ -17782,12 +17775,12 @@
         }
       ],
       "perf": {
-        "impressions": 18,
+        "impressions": 17,
         "clicks": 2,
         "cost": 0.13,
         "conversions": 0.0,
         "conv_value": 0.0,
-        "ctr": 11.1,
+        "ctr": 11.8,
         "avg_cpc": 0.07,
         "impression_share": 10.0,
         "lost_to_budget": 0.0,

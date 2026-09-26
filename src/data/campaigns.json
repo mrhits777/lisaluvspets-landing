@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-26T12:00:18+00:00",
+  "generated": "2026-09-26T20:00:14+00:00",
   "client": "Lisa Luvs Pets",
   "customer_id": "8268791200",
   "keyword_planner_available": false,
@@ -7,6 +7,13 @@
   "search_terms": [
     {
       "term": "dog walker redwood city",
+      "impressions": 2,
+      "clicks": 0,
+      "cost": 0.0,
+      "conversions": 0.0
+    },
+    {
+      "term": "cat sitter san mateo",
       "impressions": 2,
       "clicks": 0,
       "cost": 0.0,
@@ -11036,7 +11043,7 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 0,
+                "impressions": 2,
                 "clicks": 0,
                 "cost": 0.0,
                 "conversions": 0.0,
@@ -11189,7 +11196,7 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 0,
+            "impressions": 2,
             "clicks": 0,
             "cost": 0.0,
             "conversions": 0.0,
@@ -17789,16 +17796,16 @@
         }
       ],
       "perf": {
-        "impressions": 18,
+        "impressions": 20,
         "clicks": 1,
         "cost": 0.08,
         "conversions": 0.0,
         "conv_value": 0.0,
-        "ctr": 5.6,
+        "ctr": 5.0,
         "avg_cpc": 0.08,
         "impression_share": 10.0,
-        "lost_to_budget": 12.5,
-        "lost_to_rank": 87.5
+        "lost_to_budget": 10.0,
+        "lost_to_rank": 90.0
       }
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-02T08:00:19+00:00",
+  "generated": "2026-10-02T12:00:15+00:00",
   "client": "Lisa Luvs Pets",
   "customer_id": "8268791200",
   "keyword_planner_available": false,
@@ -21,13 +21,6 @@
     },
     {
       "term": "dog walking san mateo",
-      "impressions": 1,
-      "clicks": 0,
-      "cost": 0.0,
-      "conversions": 0.0
-    },
-    {
-      "term": "dog sitter menlo park",
       "impressions": 1,
       "clicks": 0,
       "cost": 0.0,
@@ -4537,7 +4530,7 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 2,
+                "impressions": 1,
                 "clicks": 0,
                 "cost": 0.0,
                 "conversions": 0.0,
@@ -4690,7 +4683,7 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 2,
+            "impressions": 1,
             "clicks": 0,
             "cost": 0.0,
             "conversions": 0.0,
@@ -17803,7 +17796,7 @@
         }
       ],
       "perf": {
-        "impressions": 14,
+        "impressions": 13,
         "clicks": 0,
         "cost": 0.0,
         "conversions": 0.0,

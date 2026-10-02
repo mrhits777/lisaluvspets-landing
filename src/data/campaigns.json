@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-01T08:00:18+00:00",
+  "generated": "2026-10-02T08:00:19+00:00",
   "client": "Lisa Luvs Pets",
   "customer_id": "8268791200",
   "keyword_planner_available": false,
@@ -27,6 +27,13 @@
       "conversions": 0.0
     },
     {
+      "term": "dog sitter menlo park",
+      "impressions": 1,
+      "clicks": 0,
+      "cost": 0.0,
+      "conversions": 0.0
+    },
+    {
       "term": "dog walkers menlo park ca",
       "impressions": 1,
       "clicks": 0,
@@ -42,13 +49,6 @@
     },
     {
       "term": "dog sitting redwood city",
-      "impressions": 1,
-      "clicks": 0,
-      "cost": 0.0,
-      "conversions": 0.0
-    },
-    {
-      "term": "dog walker burlingame",
       "impressions": 1,
       "clicks": 0,
       "cost": 0.0,
@@ -4537,7 +4537,7 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 1,
+                "impressions": 2,
                 "clicks": 0,
                 "cost": 0.0,
                 "conversions": 0.0,
@@ -4690,7 +4690,7 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 1,
+            "impressions": 2,
             "clicks": 0,
             "cost": 0.0,
             "conversions": 0.0,
@@ -12643,7 +12643,7 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 1,
+                "impressions": 0,
                 "clicks": 0,
                 "cost": 0.0,
                 "conversions": 0.0,
@@ -12796,7 +12796,7 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 1,
+            "impressions": 0,
             "clicks": 0,
             "cost": 0.0,
             "conversions": 0.0,

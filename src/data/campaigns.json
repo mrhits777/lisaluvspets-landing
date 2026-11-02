@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-01T08:00:20+00:00",
+  "generated": "2026-11-02T08:00:30+00:00",
   "client": "Lisa Luvs Pets",
   "customer_id": "8268791200",
   "keyword_planner_available": false,
@@ -21,13 +21,6 @@
     },
     {
       "term": "dog walker menlo park",
-      "impressions": 1,
-      "clicks": 0,
-      "cost": 0.0,
-      "conversions": 0.0
-    },
-    {
-      "term": "dog walker redwood city",
       "impressions": 1,
       "clicks": 0,
       "cost": 0.0,
@@ -1267,7 +1260,7 @@
                 "conv_value": 0.0,
                 "ctr": 0.0,
                 "avg_cpc": 0.0,
-                "quality_score": 7
+                "quality_score": null
               }
             }
           ],
@@ -2258,7 +2251,7 @@
                 "conv_value": 0.0,
                 "ctr": 0.0,
                 "avg_cpc": 0.0,
-                "quality_score": 5
+                "quality_score": null
               }
             }
           ],
@@ -2435,7 +2428,7 @@
                 "conv_value": 0.0,
                 "ctr": 0.0,
                 "avg_cpc": 0.0,
-                "quality_score": 7
+                "quality_score": null
               }
             }
           ],
@@ -8587,14 +8580,14 @@
               "cpc_low": null,
               "cpc_high": null,
               "perf": {
-                "impressions": 1,
+                "impressions": 0,
                 "clicks": 0,
                 "cost": 0.0,
                 "conversions": 0.0,
                 "conv_value": 0.0,
                 "ctr": 0.0,
                 "avg_cpc": 0.0,
-                "quality_score": 7
+                "quality_score": null
               }
             }
           ],
@@ -8740,7 +8733,7 @@
           },
           "copy_pending": false,
           "perf": {
-            "impressions": 1,
+            "impressions": 0,
             "clicks": 0,
             "cost": 0.0,
             "conversions": 0.0,
@@ -11036,7 +11029,7 @@
                 "conv_value": 0.0,
                 "ctr": 0.0,
                 "avg_cpc": 0.0,
-                "quality_score": 7
+                "quality_score": null
               }
             }
           ],
@@ -14930,7 +14923,7 @@
                 "conv_value": 0.0,
                 "ctr": 0.0,
                 "avg_cpc": 0.0,
-                "quality_score": 5
+                "quality_score": null
               }
             }
           ],
@@ -17782,7 +17775,7 @@
         }
       ],
       "perf": {
-        "impressions": 8,
+        "impressions": 7,
         "clicks": 0,
         "cost": 0.0,
         "conversions": 0.0,
